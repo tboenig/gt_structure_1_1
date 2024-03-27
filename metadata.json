@@ -1,0 +1,82 @@
+{
+  "schema": "https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json",
+  "title": "gt_structure_1_1",
+  "url": "https://github.com/OCR-D/gt_structure_1_1",
+  "authors": [
+    {
+      "name": "Matthias",
+      "surname": "Boenig",
+      "orcid": "0000-0003-4615-4753",
+      "roles": [
+        "transcriber",
+        "aligner",
+        "project-manager",
+        "quality-control",
+        "digitization",
+        "support"
+      ]
+    }
+  ],
+  "description": "The repo gt_structure_1_1 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.",
+  "project-name": "OCR-D",
+  "project-website": "https://ocr-d.de/",
+  "language": [
+    "deu"
+  ],
+  "production-software": "Aletheia",
+  "script": [
+    {
+      "iso": "Latn"
+    },
+    {
+      "iso": "Goth"
+    }
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1600",
+    "notAfter": "1920"
+  },
+  "hands": {
+    "count": "3",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "CC0-1.0",
+      "url": "https://creativecommons.org/licenses/zero/1.0/"
+    }
+  ],
+  "gtType": "data_structure",
+  "format": "Page-XML",
+  "citation-file-link": "https://github.com/OCR-D/gt_structure_1_1/blob/main/CITATION.cff",
+  "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structure Ground Truth\nhttps://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
+  "gtvolume": {
+    "TxtRegion": "8008",
+    "GraphRegion": "106",
+    "TabRegion": "10",
+    "SepRegion": "1327",
+    "MusicRegion": "6",
+    "Page": "1317"
+  },
+  "labelling": [
+    "granularity/physical/document-related/region",
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/tables",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/graphical",
+    "contentOfInterest/visual/graphical/separator",
+    "contentOfInterest/visual/composite/tables",
+    "contentOfInterest/visual/composite/music",
+    "granularity/physical/document-related/page",
+    "granularity/logical/document-related/paragraph",
+    "data-attributes/document-related/structural/footnotes",
+    "data-attributes/document-related/structural/footnote-continued",
+    "data-attributes/document-related/structural/endnote",
+    "data-attributes/document-related/structural/running-titles",
+    "condition/wear/additions/informative/stamps",
+    "data-attributes/document-related/visual/text/drop-caps"
+  ]
+}
