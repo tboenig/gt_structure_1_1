@@ -6,8 +6,8 @@ authors:
     - given-names: Matthias
       family-names: Boenig
       orcid: 'https://orcid.org/0000-0003-4615-4753'
-repository-code: 'https://github.com/tboenig/gt_structure_1_1'
-url: 'https://github.com/tboenig/gt_structure_1_1'
+repository-code: 'https://github.com/OCR-D/gt_structure_1_1'
+url: 'https://github.com/OCR-D/gt_structure_1_1'
 abstract: The repo gt_structure_1_1 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.
 keywords:
     - ocr-d
@@ -16,6 +16,6 @@ keywords:
     - ground-truth
     - data_structure
 license: CC0-1.0
-commit: v1.0.0
-version: 1_v1.0.0
+commit: v1.0.3
+version: 4_v1.0.3
 date-released: '2024-03-27'
