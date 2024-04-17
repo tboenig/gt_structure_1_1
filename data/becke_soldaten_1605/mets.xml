@@ -790,7 +790,7 @@
       </mets:div>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
+      <mets:div TYPE="physSequence" ID="phys_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
