@@ -20,45 +20,96 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
+                  <mods:shelfLocator>HAB Wolfenbüttel, H: S 87.2° Helmst.</mods:shelfLocator>
+                  <mods:url>Dig: http://diglib.hab.de/drucke/s-87-2f-helmst/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Frankfurt (Main)</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1699</mods:dateIssued>
+                  <mods:publisher>
+                     Fritsch
+                  </mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
-                  <mods:dateCaptured encoding="w3cdtf"/>
+                  <mods:dateCaptured encoding="w3cdtf">2024-04-16T09:05:22Z</mods:dateCaptured>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Historiographie</mods:classification>
+               <mods:identifier type="urn">urn:nbn:de:gbv:23-drucke/s-87-2f-helmst1</mods:identifier>
+               <mods:identifier type="purl">http://diglib.hab.de/drucke/s-87-2f-helmst/start.htm</mods:identifier>
+               <mods:identifier type="vd17">12:116527G</mods:identifier>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Unparteiische unparteiischen Teil</mods:title>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Unparteyische Kirchen- und Ketzer-Historie</mods:title>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Anderer Theil Der Kirchen- und Kätzer-Historie : von Anno 1500. biß 1688.</mods:title>
+               </mods:titleInfo>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Gottfrid Arnolds Unparteyische Kirchen- und Ketzer-Historie</mods:title>
+                  <mods:subTitle>von Anfang des Neuen Testaments biß auff das Jahr Christi 1688.</mods:subTitle>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Unparteyische Kirchen- und Ketzer-Historie</mods:title>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Kirchen- und Ketzer-Historie</mods:title>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Anderer Theil Der Kirchen- und Kätzer-Historie : von Anno 1500. biß 1688</mods:title>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Fortsetzung und Erläuterung Oder Dritter und Vierdter Theil der unpartheyischen Kirchen- und Ketzer-Historie</mods:title>
+               </mods:titleInfo>
+               <mods:titleInfo type="alternative">
+                  <mods:title>Erläuterter und fortgesetzter unpartheyischer Kirchen- und Ketzer-Historie Vierter Theil</mods:title>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
                      <mods:title/>
                   </mods:titleInfo>
                </mods:relatedItem>
-               <mods:name type="personal">
+               <mods:name type="personal" valueURI="http://d-nb.info/gnd/118650386">
+                  <mods:namePart type="given">Gottfried</mods:namePart>
+                  <mods:namePart type="family">Arnold</mods:namePart>
+                  <mods:displayForm>Arnold, Gottfried</mods:displayForm>
                   <mods:role>
-                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                     <mods:roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/aut">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+               </mods:name>
+               <mods:name type="personal" valueURI="http://d-nb.info/gnd/118535730">
+                  <mods:namePart type="termsOfAddress">Brandenburg, Marck-Graf, III.</mods:namePart>
+                  <mods:displayForm>Friderich &lt;Brandenburg, Marck-Graf, III.&gt;</mods:displayForm>
+                     <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/dte">dte</mods:roleTerm>
+                     </mods:role>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:namePart type="termsOfAddress">Brandenburg, Markgraf</mods:namePart>
+                  <mods:displayForm>Friedrich &lt;Brandenburg, Markgraf&gt;</mods:displayForm>
+                     <mods:role>
+                        <mods:roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/dte">dte</mods:roleTerm>
+                     </mods:role>
+               </mods:name>
+               <mods:name type="personal" valueURI="http://d-nb.info/gnd/11682543X">
+                  <mods:namePart type="given">Thomas</mods:namePart>
+                  <mods:namePart type="family">Fritsch</mods:namePart>
+                  <mods:displayForm>Fritsch, Thomas</mods:displayForm>
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/prt">prt</mods:roleTerm>
+                  </mods:role>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[11] Bl., 422, 728 S., [26] Bl</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +119,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Gottfrid Arnolds Unparteyische Kirchen- und Ketzer-Historie. von Anfang des Neuen Testaments biß auff das Jahr Christi 1688.. von Anfang des Neuen Testaments biß auff das Jahr Christi 1688.</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
