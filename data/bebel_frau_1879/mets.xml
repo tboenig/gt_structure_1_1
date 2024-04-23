@@ -20,29 +20,31 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation> University of Illinois Urbana-Champaign</mods:physicalLocation>
+                  <mods:shelfLocator>FILM 396 B38F1879</mods:shelfLocator>
+                  <mods:url>https://babel.hathitrust.org/cgi/pt?id=uiuo.ark:/13960/t2q52hw06&amp;seq=5</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Zürich-Hottingen</mods:placeTerm>
                   </mods:place>
                   <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:publisher>Verlag der Volksbuchhandlung</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Gesellschaft</mods:classification>
+               <mods:identifier type="urn"> urn:oclc:record:1043031933</mods:identifier>
+               <mods:identifier type="purl">https://archive.org/details/diefrauunddersoz00bebe/diefrauunddersoz00bebe/</mods:identifier>
+               <mods:identifier type="ark">ark:/13960/t2q52hw06</mods:identifier>
                <mods:titleInfo>
-                  <mods:title/>
-                  <mods:subTitle/>
+                  <mods:title>Die Frau und der Sozialismus</mods:title>
                </mods:titleInfo>
                <mods:language>
-                  <mods:languageTerm authority="iso639-2b" type="code"/>
+                  <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
                </mods:language>
                <mods:relatedItem type="series">
                   <mods:titleInfo>
@@ -53,12 +55,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Bebel</mods:namePart>
+                  <mods:namePart type="given">August </mods:namePart>
+                  <mods:displayForm>Bebel, August</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>180 S. ; 22 cm.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
