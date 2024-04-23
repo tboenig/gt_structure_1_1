@@ -28,7 +28,7 @@
                   <mods:place>
                      <mods:placeTerm type="text">Zürich-Hottingen</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1879</mods:dateIssued>
                   <mods:publisher>Verlag der Volksbuchhandlung</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
