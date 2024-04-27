@@ -231,7 +231,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0014.xml">bebel_frau_1879_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0014.xml">bebel_frau_1879_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -250,7 +250,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0018.xml">bebel_frau_1879_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0018.xml">bebel_frau_1879_0018.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -269,7 +269,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0028.xml">bebel_frau_1879_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0028.xml">bebel_frau_1879_0028.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -288,7 +288,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0168.xml">bebel_frau_1879_0168.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0168.xml">bebel_frau_1879_0168.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -307,7 +307,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0020.xml">bebel_frau_1879_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0020.xml">bebel_frau_1879_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -326,7 +326,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0011.xml">bebel_frau_1879_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0011.xml">bebel_frau_1879_0011.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -345,7 +345,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0019.xml">bebel_frau_1879_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0019.xml">bebel_frau_1879_0019.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -364,7 +364,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0012.xml">bebel_frau_1879_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0012.xml">bebel_frau_1879_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -383,7 +383,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0010.xml">bebel_frau_1879_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0010.xml">bebel_frau_1879_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -402,7 +402,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0186.xml">bebel_frau_1879_0186.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0186.xml">bebel_frau_1879_0186.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -421,7 +421,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0013.xml">bebel_frau_1879_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0013.xml">bebel_frau_1879_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -440,7 +440,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0176.xml">bebel_frau_1879_0176.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0176.xml">bebel_frau_1879_0176.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -459,7 +459,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0025.xml">bebel_frau_1879_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0025.xml">bebel_frau_1879_0025.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -478,7 +478,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0015.xml">bebel_frau_1879_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0015.xml">bebel_frau_1879_0015.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -497,7 +497,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0029.xml">bebel_frau_1879_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0029.xml">bebel_frau_1879_0029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -516,7 +516,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0146.xml">bebel_frau_1879_0146.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0146.xml">bebel_frau_1879_0146.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -535,7 +535,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0022.xml">bebel_frau_1879_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0022.xml">bebel_frau_1879_0022.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -554,7 +554,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0024.xml">bebel_frau_1879_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0024.xml">bebel_frau_1879_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -573,7 +573,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0188.xml">bebel_frau_1879_0188.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0188.xml">bebel_frau_1879_0188.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -592,7 +592,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0017.xml">bebel_frau_1879_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bebel_frau_1879/GT-PAGE/bebel_frau_1879_0017.xml">bebel_frau_1879_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -658,7 +658,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0295.xml">bach_versuch02_1762_0295.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0295.xml">bach_versuch02_1762_0295.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -677,7 +677,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0024.xml">bach_versuch02_1762_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0024.xml">bach_versuch02_1762_0024.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -696,7 +696,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0001.xml">bach_versuch02_1762_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0001.xml">bach_versuch02_1762_0001.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -715,7 +715,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0007.xml">bach_versuch02_1762_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0007.xml">bach_versuch02_1762_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -734,7 +734,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0299.xml">bach_versuch02_1762_0299.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0299.xml">bach_versuch02_1762_0299.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -753,7 +753,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0023.xml">bach_versuch02_1762_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0023.xml">bach_versuch02_1762_0023.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -772,7 +772,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0006.xml">bach_versuch02_1762_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0006.xml">bach_versuch02_1762_0006.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -791,7 +791,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0025.xml">bach_versuch02_1762_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0025.xml">bach_versuch02_1762_0025.xml</a>
                            </td>
                            <td>21</td>
                            <td>0</td>
@@ -810,7 +810,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0022.xml">bach_versuch02_1762_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0022.xml">bach_versuch02_1762_0022.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -829,7 +829,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0008.xml">bach_versuch02_1762_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0008.xml">bach_versuch02_1762_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -848,7 +848,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0012.xml">bach_versuch02_1762_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0012.xml">bach_versuch02_1762_0012.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -867,7 +867,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0005.xml">bach_versuch02_1762_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0005.xml">bach_versuch02_1762_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -886,7 +886,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0349.xml">bach_versuch02_1762_0349.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0349.xml">bach_versuch02_1762_0349.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -905,7 +905,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0014.xml">bach_versuch02_1762_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0014.xml">bach_versuch02_1762_0014.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -924,7 +924,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0339.xml">bach_versuch02_1762_0339.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0339.xml">bach_versuch02_1762_0339.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -943,7 +943,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0009.xml">bach_versuch02_1762_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0009.xml">bach_versuch02_1762_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -962,7 +962,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0293.xml">bach_versuch02_1762_0293.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0293.xml">bach_versuch02_1762_0293.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -981,7 +981,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0004.xml">bach_versuch02_1762_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0004.xml">bach_versuch02_1762_0004.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1000,7 +1000,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0020.xml">bach_versuch02_1762_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0020.xml">bach_versuch02_1762_0020.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -1019,7 +1019,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0352.xml">bach_versuch02_1762_0352.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0352.xml">bach_versuch02_1762_0352.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -1038,7 +1038,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0010.xml">bach_versuch02_1762_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0010.xml">bach_versuch02_1762_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -1057,7 +1057,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0019.xml">bach_versuch02_1762_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0019.xml">bach_versuch02_1762_0019.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -1076,7 +1076,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0003.xml">bach_versuch02_1762_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch02_1762/GT-PAGE/bach_versuch02_1762_0003.xml">bach_versuch02_1762_0003.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1142,7 +1142,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0107.xml">alexis_ruhe02_1852_0107.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0107.xml">alexis_ruhe02_1852_0107.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1161,7 +1161,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0183.xml">alexis_ruhe02_1852_0183.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0183.xml">alexis_ruhe02_1852_0183.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1180,7 +1180,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0344.xml">alexis_ruhe02_1852_0344.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0344.xml">alexis_ruhe02_1852_0344.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1199,7 +1199,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0173.xml">alexis_ruhe02_1852_0173.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0173.xml">alexis_ruhe02_1852_0173.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1218,7 +1218,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0225.xml">alexis_ruhe02_1852_0225.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0225.xml">alexis_ruhe02_1852_0225.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -1237,7 +1237,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0235.xml">alexis_ruhe02_1852_0235.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0235.xml">alexis_ruhe02_1852_0235.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1256,7 +1256,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0273.xml">alexis_ruhe02_1852_0273.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0273.xml">alexis_ruhe02_1852_0273.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -1275,7 +1275,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0295.xml">alexis_ruhe02_1852_0295.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0295.xml">alexis_ruhe02_1852_0295.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -1294,7 +1294,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0323.xml">alexis_ruhe02_1852_0323.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0323.xml">alexis_ruhe02_1852_0323.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1313,7 +1313,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0185.xml">alexis_ruhe02_1852_0185.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0185.xml">alexis_ruhe02_1852_0185.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1332,7 +1332,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0169.xml">alexis_ruhe02_1852_0169.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0169.xml">alexis_ruhe02_1852_0169.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1351,7 +1351,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0179.xml">alexis_ruhe02_1852_0179.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0179.xml">alexis_ruhe02_1852_0179.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1370,7 +1370,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0177.xml">alexis_ruhe02_1852_0177.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0177.xml">alexis_ruhe02_1852_0177.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1389,7 +1389,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0289.xml">alexis_ruhe02_1852_0289.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0289.xml">alexis_ruhe02_1852_0289.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -1408,7 +1408,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0332.xml">alexis_ruhe02_1852_0332.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0332.xml">alexis_ruhe02_1852_0332.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -1427,7 +1427,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0012.xml">alexis_ruhe02_1852_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0012.xml">alexis_ruhe02_1852_0012.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1446,7 +1446,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0139.xml">alexis_ruhe02_1852_0139.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0139.xml">alexis_ruhe02_1852_0139.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -1465,7 +1465,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0340.xml">alexis_ruhe02_1852_0340.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0340.xml">alexis_ruhe02_1852_0340.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1484,7 +1484,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0338.xml">alexis_ruhe02_1852_0338.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0338.xml">alexis_ruhe02_1852_0338.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1503,7 +1503,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0190.xml">alexis_ruhe02_1852_0190.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe02_1852/GT-PAGE/alexis_ruhe02_1852_0190.xml">alexis_ruhe02_1852_0190.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1569,7 +1569,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1121.xml">beck_eisen05_1903_1121.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1121.xml">beck_eisen05_1903_1121.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -1588,7 +1588,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0022.xml">beck_eisen05_1903_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0022.xml">beck_eisen05_1903_0022.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1607,7 +1607,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1410.xml">beck_eisen05_1903_1410.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1410.xml">beck_eisen05_1903_1410.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1626,7 +1626,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0020.xml">beck_eisen05_1903_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0020.xml">beck_eisen05_1903_0020.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1645,7 +1645,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0029.xml">beck_eisen05_1903_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0029.xml">beck_eisen05_1903_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1664,7 +1664,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0023.xml">beck_eisen05_1903_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0023.xml">beck_eisen05_1903_0023.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -1683,7 +1683,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0018.xml">beck_eisen05_1903_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0018.xml">beck_eisen05_1903_0018.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1702,7 +1702,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0026.xml">beck_eisen05_1903_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0026.xml">beck_eisen05_1903_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1721,7 +1721,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1407.xml">beck_eisen05_1903_1407.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1407.xml">beck_eisen05_1903_1407.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1740,7 +1740,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1427.xml">beck_eisen05_1903_1427.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1427.xml">beck_eisen05_1903_1427.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1759,7 +1759,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1411.xml">beck_eisen05_1903_1411.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1411.xml">beck_eisen05_1903_1411.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1778,7 +1778,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0025.xml">beck_eisen05_1903_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0025.xml">beck_eisen05_1903_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1797,7 +1797,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0012.xml">beck_eisen05_1903_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0012.xml">beck_eisen05_1903_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -1816,7 +1816,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0024.xml">beck_eisen05_1903_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0024.xml">beck_eisen05_1903_0024.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -1835,7 +1835,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1409.xml">beck_eisen05_1903_1409.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1409.xml">beck_eisen05_1903_1409.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1854,7 +1854,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1393.xml">beck_eisen05_1903_1393.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1393.xml">beck_eisen05_1903_1393.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -1873,7 +1873,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1408.xml">beck_eisen05_1903_1408.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1408.xml">beck_eisen05_1903_1408.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1892,7 +1892,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0028.xml">beck_eisen05_1903_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0028.xml">beck_eisen05_1903_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -1911,7 +1911,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1425.xml">beck_eisen05_1903_1425.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_1425.xml">beck_eisen05_1903_1425.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -1930,7 +1930,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0019.xml">beck_eisen05_1903_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen05_1903/GT-PAGE/beck_eisen05_1903_0019.xml">beck_eisen05_1903_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -1996,7 +1996,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0282.xml">becke_soldaten_1605_0282.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0282.xml">becke_soldaten_1605_0282.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -2015,7 +2015,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0025.xml">becke_soldaten_1605_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0025.xml">becke_soldaten_1605_0025.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -2034,7 +2034,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0009.xml">becke_soldaten_1605_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0009.xml">becke_soldaten_1605_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -2053,7 +2053,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0018.xml">becke_soldaten_1605_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0018.xml">becke_soldaten_1605_0018.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -2072,7 +2072,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0277.xml">becke_soldaten_1605_0277.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0277.xml">becke_soldaten_1605_0277.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2091,7 +2091,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0278.xml">becke_soldaten_1605_0278.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0278.xml">becke_soldaten_1605_0278.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -2110,7 +2110,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0014.xml">becke_soldaten_1605_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0014.xml">becke_soldaten_1605_0014.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -2129,7 +2129,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0023.xml">becke_soldaten_1605_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0023.xml">becke_soldaten_1605_0023.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -2148,7 +2148,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0280.xml">becke_soldaten_1605_0280.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0280.xml">becke_soldaten_1605_0280.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -2167,7 +2167,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0008.xml">becke_soldaten_1605_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0008.xml">becke_soldaten_1605_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2186,7 +2186,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0016.xml">becke_soldaten_1605_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0016.xml">becke_soldaten_1605_0016.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -2205,7 +2205,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0003.xml">becke_soldaten_1605_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0003.xml">becke_soldaten_1605_0003.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2224,7 +2224,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0276.xml">becke_soldaten_1605_0276.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0276.xml">becke_soldaten_1605_0276.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -2243,7 +2243,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0007.xml">becke_soldaten_1605_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0007.xml">becke_soldaten_1605_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2262,7 +2262,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0020.xml">becke_soldaten_1605_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0020.xml">becke_soldaten_1605_0020.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -2281,7 +2281,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0275.xml">becke_soldaten_1605_0275.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0275.xml">becke_soldaten_1605_0275.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2300,7 +2300,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0005.xml">becke_soldaten_1605_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0005.xml">becke_soldaten_1605_0005.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -2319,7 +2319,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0011.xml">becke_soldaten_1605_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0011.xml">becke_soldaten_1605_0011.xml</a>
                            </td>
                            <td>19</td>
                            <td>0</td>
@@ -2338,7 +2338,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0004.xml">becke_soldaten_1605_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0004.xml">becke_soldaten_1605_0004.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -2357,7 +2357,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0013.xml">becke_soldaten_1605_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0013.xml">becke_soldaten_1605_0013.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -2376,7 +2376,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0279.xml">becke_soldaten_1605_0279.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0279.xml">becke_soldaten_1605_0279.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2395,7 +2395,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0006.xml">becke_soldaten_1605_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0006.xml">becke_soldaten_1605_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2414,7 +2414,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0281.xml">becke_soldaten_1605_0281.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0281.xml">becke_soldaten_1605_0281.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -2433,7 +2433,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0022.xml">becke_soldaten_1605_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0022.xml">becke_soldaten_1605_0022.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2452,7 +2452,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0024.xml">becke_soldaten_1605_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0024.xml">becke_soldaten_1605_0024.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -2471,7 +2471,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0021.xml">becke_soldaten_1605_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0021.xml">becke_soldaten_1605_0021.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2490,7 +2490,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0010.xml">becke_soldaten_1605_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0010.xml">becke_soldaten_1605_0010.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2509,7 +2509,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0017.xml">becke_soldaten_1605_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0017.xml">becke_soldaten_1605_0017.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2528,7 +2528,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0019.xml">becke_soldaten_1605_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becke_soldaten_1605/GT-PAGE/becke_soldaten_1605_0019.xml">becke_soldaten_1605_0019.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2594,7 +2594,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0170.xml">alexis_ruhe05_1852_0170.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0170.xml">alexis_ruhe05_1852_0170.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -2613,7 +2613,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0144.xml">alexis_ruhe05_1852_0144.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0144.xml">alexis_ruhe05_1852_0144.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2632,7 +2632,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0274.xml">alexis_ruhe05_1852_0274.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0274.xml">alexis_ruhe05_1852_0274.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2651,7 +2651,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0370.xml">alexis_ruhe05_1852_0370.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0370.xml">alexis_ruhe05_1852_0370.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -2670,7 +2670,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0388.xml">alexis_ruhe05_1852_0388.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0388.xml">alexis_ruhe05_1852_0388.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2689,7 +2689,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0026.xml">alexis_ruhe05_1852_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0026.xml">alexis_ruhe05_1852_0026.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2708,7 +2708,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0136.xml">alexis_ruhe05_1852_0136.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0136.xml">alexis_ruhe05_1852_0136.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -2727,7 +2727,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0022.xml">alexis_ruhe05_1852_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0022.xml">alexis_ruhe05_1852_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2746,7 +2746,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0033.xml">alexis_ruhe05_1852_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0033.xml">alexis_ruhe05_1852_0033.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -2765,7 +2765,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0020.xml">alexis_ruhe05_1852_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0020.xml">alexis_ruhe05_1852_0020.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2784,7 +2784,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0014.xml">alexis_ruhe05_1852_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0014.xml">alexis_ruhe05_1852_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2803,7 +2803,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0376.xml">alexis_ruhe05_1852_0376.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0376.xml">alexis_ruhe05_1852_0376.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -2822,7 +2822,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0372.xml">alexis_ruhe05_1852_0372.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0372.xml">alexis_ruhe05_1852_0372.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2841,7 +2841,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0334.xml">alexis_ruhe05_1852_0334.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0334.xml">alexis_ruhe05_1852_0334.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2860,7 +2860,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0024.xml">alexis_ruhe05_1852_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0024.xml">alexis_ruhe05_1852_0024.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -2879,7 +2879,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0386.xml">alexis_ruhe05_1852_0386.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0386.xml">alexis_ruhe05_1852_0386.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -2898,7 +2898,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0192.xml">alexis_ruhe05_1852_0192.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0192.xml">alexis_ruhe05_1852_0192.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -2917,7 +2917,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0198.xml">alexis_ruhe05_1852_0198.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0198.xml">alexis_ruhe05_1852_0198.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -2936,7 +2936,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0374.xml">alexis_ruhe05_1852_0374.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0374.xml">alexis_ruhe05_1852_0374.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -2955,7 +2955,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0066.xml">alexis_ruhe05_1852_0066.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe05_1852/GT-PAGE/alexis_ruhe05_1852_0066.xml">alexis_ruhe05_1852_0066.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -3021,7 +3021,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0013.xml">anhaltkoethen_fruchtbringende_1628_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0013.xml">anhaltkoethen_fruchtbringende_1628_0013.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3040,7 +3040,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0045.xml">anhaltkoethen_fruchtbringende_1628_0045.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0045.xml">anhaltkoethen_fruchtbringende_1628_0045.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3059,7 +3059,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0003.xml">anhaltkoethen_fruchtbringende_1628_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0003.xml">anhaltkoethen_fruchtbringende_1628_0003.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3078,7 +3078,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0009.xml">anhaltkoethen_fruchtbringende_1628_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0009.xml">anhaltkoethen_fruchtbringende_1628_0009.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3097,7 +3097,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0012.xml">anhaltkoethen_fruchtbringende_1628_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0012.xml">anhaltkoethen_fruchtbringende_1628_0012.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3116,7 +3116,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0011.xml">anhaltkoethen_fruchtbringende_1628_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0011.xml">anhaltkoethen_fruchtbringende_1628_0011.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3135,7 +3135,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0030.xml">anhaltkoethen_fruchtbringende_1628_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0030.xml">anhaltkoethen_fruchtbringende_1628_0030.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3154,7 +3154,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0006.xml">anhaltkoethen_fruchtbringende_1628_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0006.xml">anhaltkoethen_fruchtbringende_1628_0006.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -3173,7 +3173,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0020.xml">anhaltkoethen_fruchtbringende_1628_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0020.xml">anhaltkoethen_fruchtbringende_1628_0020.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3192,7 +3192,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0034.xml">anhaltkoethen_fruchtbringende_1628_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0034.xml">anhaltkoethen_fruchtbringende_1628_0034.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3211,7 +3211,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0015.xml">anhaltkoethen_fruchtbringende_1628_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0015.xml">anhaltkoethen_fruchtbringende_1628_0015.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3230,7 +3230,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0008.xml">anhaltkoethen_fruchtbringende_1628_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0008.xml">anhaltkoethen_fruchtbringende_1628_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -3249,7 +3249,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0005.xml">anhaltkoethen_fruchtbringende_1628_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0005.xml">anhaltkoethen_fruchtbringende_1628_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -3268,7 +3268,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0007.xml">anhaltkoethen_fruchtbringende_1628_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0007.xml">anhaltkoethen_fruchtbringende_1628_0007.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -3287,7 +3287,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0016.xml">anhaltkoethen_fruchtbringende_1628_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0016.xml">anhaltkoethen_fruchtbringende_1628_0016.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3306,7 +3306,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0026.xml">anhaltkoethen_fruchtbringende_1628_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0026.xml">anhaltkoethen_fruchtbringende_1628_0026.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3325,7 +3325,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0046.xml">anhaltkoethen_fruchtbringende_1628_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0046.xml">anhaltkoethen_fruchtbringende_1628_0046.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3344,7 +3344,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0047.xml">anhaltkoethen_fruchtbringende_1628_0047.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0047.xml">anhaltkoethen_fruchtbringende_1628_0047.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3363,7 +3363,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0010.xml">anhaltkoethen_fruchtbringende_1628_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0010.xml">anhaltkoethen_fruchtbringende_1628_0010.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3382,7 +3382,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0039.xml">anhaltkoethen_fruchtbringende_1628_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0039.xml">anhaltkoethen_fruchtbringende_1628_0039.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3401,7 +3401,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0029.xml">anhaltkoethen_fruchtbringende_1628_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0029.xml">anhaltkoethen_fruchtbringende_1628_0029.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3420,7 +3420,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0022.xml">anhaltkoethen_fruchtbringende_1628_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0022.xml">anhaltkoethen_fruchtbringende_1628_0022.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -3439,7 +3439,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0054.xml">anhaltkoethen_fruchtbringende_1628_0054.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anhaltkoethen_fruchtbringende_1628/GT-PAGE/anhaltkoethen_fruchtbringende_1628_0054.xml">anhaltkoethen_fruchtbringende_1628_0054.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -3505,7 +3505,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0019.xml">achenwall_staatswissenschaft_1749_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0019.xml">achenwall_staatswissenschaft_1749_0019.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -3524,7 +3524,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0023.xml">achenwall_staatswissenschaft_1749_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0023.xml">achenwall_staatswissenschaft_1749_0023.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -3543,7 +3543,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0015.xml">achenwall_staatswissenschaft_1749_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0015.xml">achenwall_staatswissenschaft_1749_0015.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -3562,7 +3562,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0028.xml">achenwall_staatswissenschaft_1749_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0028.xml">achenwall_staatswissenschaft_1749_0028.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -3581,7 +3581,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0011.xml">achenwall_staatswissenschaft_1749_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0011.xml">achenwall_staatswissenschaft_1749_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -3600,7 +3600,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0029.xml">achenwall_staatswissenschaft_1749_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0029.xml">achenwall_staatswissenschaft_1749_0029.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -3619,7 +3619,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0018.xml">achenwall_staatswissenschaft_1749_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0018.xml">achenwall_staatswissenschaft_1749_0018.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -3638,7 +3638,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0008.xml">achenwall_staatswissenschaft_1749_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0008.xml">achenwall_staatswissenschaft_1749_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -3657,7 +3657,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0003.xml">achenwall_staatswissenschaft_1749_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0003.xml">achenwall_staatswissenschaft_1749_0003.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3676,7 +3676,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0013.xml">achenwall_staatswissenschaft_1749_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0013.xml">achenwall_staatswissenschaft_1749_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -3695,7 +3695,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0167.xml">achenwall_staatswissenschaft_1749_0167.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0167.xml">achenwall_staatswissenschaft_1749_0167.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -3714,7 +3714,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0020.xml">achenwall_staatswissenschaft_1749_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0020.xml">achenwall_staatswissenschaft_1749_0020.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -3733,7 +3733,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0016.xml">achenwall_staatswissenschaft_1749_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0016.xml">achenwall_staatswissenschaft_1749_0016.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -3752,7 +3752,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0030.xml">achenwall_staatswissenschaft_1749_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0030.xml">achenwall_staatswissenschaft_1749_0030.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -3771,7 +3771,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0009.xml">achenwall_staatswissenschaft_1749_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0009.xml">achenwall_staatswissenschaft_1749_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3790,7 +3790,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0211.xml">achenwall_staatswissenschaft_1749_0211.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0211.xml">achenwall_staatswissenschaft_1749_0211.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -3809,7 +3809,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0012.xml">achenwall_staatswissenschaft_1749_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0012.xml">achenwall_staatswissenschaft_1749_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3828,7 +3828,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0026.xml">achenwall_staatswissenschaft_1749_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0026.xml">achenwall_staatswissenschaft_1749_0026.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -3847,7 +3847,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0007.xml">achenwall_staatswissenschaft_1749_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0007.xml">achenwall_staatswissenschaft_1749_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -3866,7 +3866,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0225.xml">achenwall_staatswissenschaft_1749_0225.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0225.xml">achenwall_staatswissenschaft_1749_0225.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -3885,7 +3885,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0010.xml">achenwall_staatswissenschaft_1749_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0010.xml">achenwall_staatswissenschaft_1749_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -3904,7 +3904,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0014.xml">achenwall_staatswissenschaft_1749_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0014.xml">achenwall_staatswissenschaft_1749_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -3923,7 +3923,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0017.xml">achenwall_staatswissenschaft_1749_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/achenwall_staatswissenschaft_1749/GT-PAGE/achenwall_staatswissenschaft_1749_0017.xml">achenwall_staatswissenschaft_1749_0017.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -3989,7 +3989,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0018.xml">bengel_abriss01_1751_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0018.xml">bengel_abriss01_1751_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4008,7 +4008,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0020.xml">bengel_abriss01_1751_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0020.xml">bengel_abriss01_1751_0020.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4027,7 +4027,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0017.xml">bengel_abriss01_1751_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0017.xml">bengel_abriss01_1751_0017.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4046,7 +4046,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0029.xml">bengel_abriss01_1751_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0029.xml">bengel_abriss01_1751_0029.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4065,7 +4065,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0032.xml">bengel_abriss01_1751_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0032.xml">bengel_abriss01_1751_0032.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4084,7 +4084,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0016.xml">bengel_abriss01_1751_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0016.xml">bengel_abriss01_1751_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4103,7 +4103,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0015.xml">bengel_abriss01_1751_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0015.xml">bengel_abriss01_1751_0015.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4122,7 +4122,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0008.xml">bengel_abriss01_1751_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0008.xml">bengel_abriss01_1751_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4141,7 +4141,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0010.xml">bengel_abriss01_1751_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0010.xml">bengel_abriss01_1751_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4160,7 +4160,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0013.xml">bengel_abriss01_1751_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0013.xml">bengel_abriss01_1751_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4179,7 +4179,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0033.xml">bengel_abriss01_1751_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0033.xml">bengel_abriss01_1751_0033.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4198,7 +4198,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0014.xml">bengel_abriss01_1751_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0014.xml">bengel_abriss01_1751_0014.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4217,7 +4217,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0030.xml">bengel_abriss01_1751_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0030.xml">bengel_abriss01_1751_0030.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4236,7 +4236,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0009.xml">bengel_abriss01_1751_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0009.xml">bengel_abriss01_1751_0009.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4255,7 +4255,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0007.xml">bengel_abriss01_1751_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0007.xml">bengel_abriss01_1751_0007.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4274,7 +4274,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0039.xml">bengel_abriss01_1751_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0039.xml">bengel_abriss01_1751_0039.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4293,7 +4293,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0037.xml">bengel_abriss01_1751_0037.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0037.xml">bengel_abriss01_1751_0037.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4312,7 +4312,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0019.xml">bengel_abriss01_1751_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0019.xml">bengel_abriss01_1751_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4331,7 +4331,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0028.xml">bengel_abriss01_1751_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0028.xml">bengel_abriss01_1751_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4350,7 +4350,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0011.xml">bengel_abriss01_1751_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0011.xml">bengel_abriss01_1751_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4369,7 +4369,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0005.xml">bengel_abriss01_1751_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0005.xml">bengel_abriss01_1751_0005.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -4388,7 +4388,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0012.xml">bengel_abriss01_1751_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bengel_abriss01_1751/GT-PAGE/bengel_abriss01_1751_0012.xml">bengel_abriss01_1751_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4454,7 +4454,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0123.xml">altmann_elementarorganismen_1890_0123.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0123.xml">altmann_elementarorganismen_1890_0123.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4473,7 +4473,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0037.xml">altmann_elementarorganismen_1890_0037.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0037.xml">altmann_elementarorganismen_1890_0037.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4492,7 +4492,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0121.xml">altmann_elementarorganismen_1890_0121.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0121.xml">altmann_elementarorganismen_1890_0121.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4511,7 +4511,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0040.xml">altmann_elementarorganismen_1890_0040.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0040.xml">altmann_elementarorganismen_1890_0040.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4530,7 +4530,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0133.xml">altmann_elementarorganismen_1890_0133.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0133.xml">altmann_elementarorganismen_1890_0133.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4549,7 +4549,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0108.xml">altmann_elementarorganismen_1890_0108.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0108.xml">altmann_elementarorganismen_1890_0108.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4568,7 +4568,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0082.xml">altmann_elementarorganismen_1890_0082.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0082.xml">altmann_elementarorganismen_1890_0082.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4587,7 +4587,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0034.xml">altmann_elementarorganismen_1890_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0034.xml">altmann_elementarorganismen_1890_0034.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4606,7 +4606,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0135.xml">altmann_elementarorganismen_1890_0135.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0135.xml">altmann_elementarorganismen_1890_0135.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4625,7 +4625,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0160.xml">altmann_elementarorganismen_1890_0160.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0160.xml">altmann_elementarorganismen_1890_0160.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -4644,7 +4644,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0038.xml">altmann_elementarorganismen_1890_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0038.xml">altmann_elementarorganismen_1890_0038.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4663,7 +4663,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0116.xml">altmann_elementarorganismen_1890_0116.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0116.xml">altmann_elementarorganismen_1890_0116.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4682,7 +4682,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0120.xml">altmann_elementarorganismen_1890_0120.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0120.xml">altmann_elementarorganismen_1890_0120.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4701,7 +4701,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0088.xml">altmann_elementarorganismen_1890_0088.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0088.xml">altmann_elementarorganismen_1890_0088.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4720,7 +4720,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0026.xml">altmann_elementarorganismen_1890_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0026.xml">altmann_elementarorganismen_1890_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4739,7 +4739,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0118.xml">altmann_elementarorganismen_1890_0118.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0118.xml">altmann_elementarorganismen_1890_0118.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4758,7 +4758,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0046.xml">altmann_elementarorganismen_1890_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0046.xml">altmann_elementarorganismen_1890_0046.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4777,7 +4777,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0021.xml">altmann_elementarorganismen_1890_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0021.xml">altmann_elementarorganismen_1890_0021.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4796,7 +4796,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0128.xml">altmann_elementarorganismen_1890_0128.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0128.xml">altmann_elementarorganismen_1890_0128.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -4815,7 +4815,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0110.xml">altmann_elementarorganismen_1890_0110.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/altmann_elementarorganismen_1890/GT-PAGE/altmann_elementarorganismen_1890_0110.xml">altmann_elementarorganismen_1890_0110.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -4881,7 +4881,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0006.xml">benner_herrnhuterey03_1748_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0006.xml">benner_herrnhuterey03_1748_0006.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -4900,7 +4900,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0017.xml">benner_herrnhuterey03_1748_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0017.xml">benner_herrnhuterey03_1748_0017.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -4919,7 +4919,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0128.xml">benner_herrnhuterey03_1748_0128.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0128.xml">benner_herrnhuterey03_1748_0128.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -4938,7 +4938,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0010.xml">benner_herrnhuterey03_1748_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0010.xml">benner_herrnhuterey03_1748_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4957,7 +4957,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0001.xml">benner_herrnhuterey03_1748_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0001.xml">benner_herrnhuterey03_1748_0001.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -4976,7 +4976,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0024.xml">benner_herrnhuterey03_1748_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0024.xml">benner_herrnhuterey03_1748_0024.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -4995,7 +4995,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0028.xml">benner_herrnhuterey03_1748_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0028.xml">benner_herrnhuterey03_1748_0028.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5014,7 +5014,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0039.xml">benner_herrnhuterey03_1748_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0039.xml">benner_herrnhuterey03_1748_0039.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -5033,7 +5033,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0218.xml">benner_herrnhuterey03_1748_0218.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0218.xml">benner_herrnhuterey03_1748_0218.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5052,7 +5052,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0160.xml">benner_herrnhuterey03_1748_0160.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0160.xml">benner_herrnhuterey03_1748_0160.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5071,7 +5071,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0008.xml">benner_herrnhuterey03_1748_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0008.xml">benner_herrnhuterey03_1748_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5090,7 +5090,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0026.xml">benner_herrnhuterey03_1748_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0026.xml">benner_herrnhuterey03_1748_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5109,7 +5109,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0009.xml">benner_herrnhuterey03_1748_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0009.xml">benner_herrnhuterey03_1748_0009.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5128,7 +5128,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0020.xml">benner_herrnhuterey03_1748_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0020.xml">benner_herrnhuterey03_1748_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5147,7 +5147,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0150.xml">benner_herrnhuterey03_1748_0150.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0150.xml">benner_herrnhuterey03_1748_0150.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5166,7 +5166,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0005.xml">benner_herrnhuterey03_1748_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0005.xml">benner_herrnhuterey03_1748_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5185,7 +5185,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0147.xml">benner_herrnhuterey03_1748_0147.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0147.xml">benner_herrnhuterey03_1748_0147.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5204,7 +5204,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0004.xml">benner_herrnhuterey03_1748_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0004.xml">benner_herrnhuterey03_1748_0004.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5223,7 +5223,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0003.xml">benner_herrnhuterey03_1748_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0003.xml">benner_herrnhuterey03_1748_0003.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5242,7 +5242,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0018.xml">benner_herrnhuterey03_1748_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0018.xml">benner_herrnhuterey03_1748_0018.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5261,7 +5261,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0146.xml">benner_herrnhuterey03_1748_0146.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0146.xml">benner_herrnhuterey03_1748_0146.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5280,7 +5280,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0193.xml">benner_herrnhuterey03_1748_0193.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0193.xml">benner_herrnhuterey03_1748_0193.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5299,7 +5299,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0030.xml">benner_herrnhuterey03_1748_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0030.xml">benner_herrnhuterey03_1748_0030.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5318,7 +5318,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0007.xml">benner_herrnhuterey03_1748_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0007.xml">benner_herrnhuterey03_1748_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5337,7 +5337,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0011.xml">benner_herrnhuterey03_1748_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0011.xml">benner_herrnhuterey03_1748_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5356,7 +5356,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0156.xml">benner_herrnhuterey03_1748_0156.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey03_1748/GT-PAGE/benner_herrnhuterey03_1748_0156.xml">benner_herrnhuterey03_1748_0156.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5422,7 +5422,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0226.xml">arnimb_goethe03_1835_0226.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0226.xml">arnimb_goethe03_1835_0226.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5441,7 +5441,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0182.xml">arnimb_goethe03_1835_0182.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0182.xml">arnimb_goethe03_1835_0182.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5460,7 +5460,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0013.xml">arnimb_goethe03_1835_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0013.xml">arnimb_goethe03_1835_0013.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5479,7 +5479,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0014.xml">arnimb_goethe03_1835_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0014.xml">arnimb_goethe03_1835_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5498,7 +5498,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0255.xml">arnimb_goethe03_1835_0255.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0255.xml">arnimb_goethe03_1835_0255.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -5517,26 +5517,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0200.xml">arnimb_goethe03_1835_0200.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0015.xml">arnimb_goethe03_1835_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0200.xml">arnimb_goethe03_1835_0200.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5555,7 +5536,26 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0020.xml">arnimb_goethe03_1835_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0015.xml">arnimb_goethe03_1835_0015.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0020.xml">arnimb_goethe03_1835_0020.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5574,7 +5574,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0207.xml">arnimb_goethe03_1835_0207.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0207.xml">arnimb_goethe03_1835_0207.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5593,7 +5593,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0254.xml">arnimb_goethe03_1835_0254.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0254.xml">arnimb_goethe03_1835_0254.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -5612,7 +5612,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0019.xml">arnimb_goethe03_1835_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0019.xml">arnimb_goethe03_1835_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5631,7 +5631,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0012.xml">arnimb_goethe03_1835_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0012.xml">arnimb_goethe03_1835_0012.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5650,7 +5650,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0017.xml">arnimb_goethe03_1835_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0017.xml">arnimb_goethe03_1835_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5669,7 +5669,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0016.xml">arnimb_goethe03_1835_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0016.xml">arnimb_goethe03_1835_0016.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -5688,7 +5688,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0018.xml">arnimb_goethe03_1835_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0018.xml">arnimb_goethe03_1835_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5707,7 +5707,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0256.xml">arnimb_goethe03_1835_0256.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0256.xml">arnimb_goethe03_1835_0256.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -5726,7 +5726,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0021.xml">arnimb_goethe03_1835_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0021.xml">arnimb_goethe03_1835_0021.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -5745,7 +5745,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0011.xml">arnimb_goethe03_1835_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0011.xml">arnimb_goethe03_1835_0011.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -5764,7 +5764,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0235.xml">arnimb_goethe03_1835_0235.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe03_1835/GT-PAGE/arnimb_goethe03_1835_0235.xml">arnimb_goethe03_1835_0235.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -5830,7 +5830,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0043.xml">arnold_cyprian_1700_0043.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0043.xml">arnold_cyprian_1700_0043.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5849,7 +5849,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0027.xml">arnold_cyprian_1700_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0027.xml">arnold_cyprian_1700_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5868,7 +5868,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0017.xml">arnold_cyprian_1700_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0017.xml">arnold_cyprian_1700_0017.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5887,7 +5887,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0041.xml">arnold_cyprian_1700_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0041.xml">arnold_cyprian_1700_0041.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5906,7 +5906,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0025.xml">arnold_cyprian_1700_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0025.xml">arnold_cyprian_1700_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5925,7 +5925,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0018.xml">arnold_cyprian_1700_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0018.xml">arnold_cyprian_1700_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5944,7 +5944,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0008.xml">arnold_cyprian_1700_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0008.xml">arnold_cyprian_1700_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -5963,7 +5963,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0028.xml">arnold_cyprian_1700_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0028.xml">arnold_cyprian_1700_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -5982,7 +5982,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0036.xml">arnold_cyprian_1700_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0036.xml">arnold_cyprian_1700_0036.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6001,7 +6001,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0022.xml">arnold_cyprian_1700_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0022.xml">arnold_cyprian_1700_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6020,7 +6020,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0009.xml">arnold_cyprian_1700_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0009.xml">arnold_cyprian_1700_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6039,7 +6039,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0033.xml">arnold_cyprian_1700_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0033.xml">arnold_cyprian_1700_0033.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6058,7 +6058,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0011.xml">arnold_cyprian_1700_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0011.xml">arnold_cyprian_1700_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6077,7 +6077,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0020.xml">arnold_cyprian_1700_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0020.xml">arnold_cyprian_1700_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6096,7 +6096,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0038.xml">arnold_cyprian_1700_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0038.xml">arnold_cyprian_1700_0038.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6115,7 +6115,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0010.xml">arnold_cyprian_1700_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0010.xml">arnold_cyprian_1700_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6134,7 +6134,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0044.xml">arnold_cyprian_1700_0044.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0044.xml">arnold_cyprian_1700_0044.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -6153,7 +6153,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0026.xml">arnold_cyprian_1700_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0026.xml">arnold_cyprian_1700_0026.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6172,7 +6172,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0042.xml">arnold_cyprian_1700_0042.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0042.xml">arnold_cyprian_1700_0042.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6191,7 +6191,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0004.xml">arnold_cyprian_1700_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0004.xml">arnold_cyprian_1700_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6210,7 +6210,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0039.xml">arnold_cyprian_1700_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0039.xml">arnold_cyprian_1700_0039.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6229,7 +6229,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0002.xml">arnold_cyprian_1700_0002.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0002.xml">arnold_cyprian_1700_0002.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -6248,30 +6248,30 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0006.xml">arnold_cyprian_1700_0006.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0012.xml">arnold_cyprian_1700_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0006.xml">arnold_cyprian_1700_0006.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0012.xml">arnold_cyprian_1700_0012.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -6286,7 +6286,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0007.xml">arnold_cyprian_1700_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_cyprian_1700/GT-PAGE/arnold_cyprian_1700_0007.xml">arnold_cyprian_1700_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6352,7 +6352,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0299.xml">arnimb_goethe02_1835_0299.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0299.xml">arnimb_goethe02_1835_0299.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -6371,7 +6371,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0011.xml">arnimb_goethe02_1835_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0011.xml">arnimb_goethe02_1835_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6390,7 +6390,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0021.xml">arnimb_goethe02_1835_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0021.xml">arnimb_goethe02_1835_0021.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6409,7 +6409,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0239.xml">arnimb_goethe02_1835_0239.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0239.xml">arnimb_goethe02_1835_0239.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -6428,7 +6428,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0016.xml">arnimb_goethe02_1835_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0016.xml">arnimb_goethe02_1835_0016.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6447,7 +6447,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0020.xml">arnimb_goethe02_1835_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0020.xml">arnimb_goethe02_1835_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6466,7 +6466,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0022.xml">arnimb_goethe02_1835_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0022.xml">arnimb_goethe02_1835_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -6485,7 +6485,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0019.xml">arnimb_goethe02_1835_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0019.xml">arnimb_goethe02_1835_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6504,7 +6504,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0253.xml">arnimb_goethe02_1835_0253.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0253.xml">arnimb_goethe02_1835_0253.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -6523,7 +6523,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0015.xml">arnimb_goethe02_1835_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0015.xml">arnimb_goethe02_1835_0015.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6542,7 +6542,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0179.xml">arnimb_goethe02_1835_0179.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0179.xml">arnimb_goethe02_1835_0179.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -6561,7 +6561,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0013.xml">arnimb_goethe02_1835_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0013.xml">arnimb_goethe02_1835_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6580,7 +6580,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0227.xml">arnimb_goethe02_1835_0227.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0227.xml">arnimb_goethe02_1835_0227.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -6599,7 +6599,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0240.xml">arnimb_goethe02_1835_0240.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0240.xml">arnimb_goethe02_1835_0240.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -6618,7 +6618,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0035.xml">arnimb_goethe02_1835_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0035.xml">arnimb_goethe02_1835_0035.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -6637,7 +6637,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0014.xml">arnimb_goethe02_1835_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0014.xml">arnimb_goethe02_1835_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6656,7 +6656,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0012.xml">arnimb_goethe02_1835_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0012.xml">arnimb_goethe02_1835_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6675,7 +6675,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0018.xml">arnimb_goethe02_1835_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0018.xml">arnimb_goethe02_1835_0018.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -6694,7 +6694,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0017.xml">arnimb_goethe02_1835_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0017.xml">arnimb_goethe02_1835_0017.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -6713,7 +6713,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0100.xml">arnimb_goethe02_1835_0100.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe02_1835/GT-PAGE/arnimb_goethe02_1835_0100.xml">arnimb_goethe02_1835_0100.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -6779,7 +6779,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0526.xml">beckmann_technologie_1777_0526.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0526.xml">beckmann_technologie_1777_0526.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6798,7 +6798,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0541.xml">beckmann_technologie_1777_0541.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0541.xml">beckmann_technologie_1777_0541.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6817,7 +6817,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0530.xml">beckmann_technologie_1777_0530.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0530.xml">beckmann_technologie_1777_0530.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6836,7 +6836,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0527.xml">beckmann_technologie_1777_0527.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0527.xml">beckmann_technologie_1777_0527.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6855,7 +6855,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0012.xml">beckmann_technologie_1777_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0012.xml">beckmann_technologie_1777_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6874,7 +6874,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0521.xml">beckmann_technologie_1777_0521.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0521.xml">beckmann_technologie_1777_0521.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6893,7 +6893,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0543.xml">beckmann_technologie_1777_0543.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0543.xml">beckmann_technologie_1777_0543.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6912,7 +6912,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0535.xml">beckmann_technologie_1777_0535.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0535.xml">beckmann_technologie_1777_0535.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6931,7 +6931,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0545.xml">beckmann_technologie_1777_0545.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0545.xml">beckmann_technologie_1777_0545.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6950,7 +6950,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0532.xml">beckmann_technologie_1777_0532.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0532.xml">beckmann_technologie_1777_0532.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -6969,7 +6969,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0533.xml">beckmann_technologie_1777_0533.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0533.xml">beckmann_technologie_1777_0533.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -6988,7 +6988,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0524.xml">beckmann_technologie_1777_0524.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0524.xml">beckmann_technologie_1777_0524.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7007,7 +7007,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0009.xml">beckmann_technologie_1777_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0009.xml">beckmann_technologie_1777_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7026,7 +7026,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0015.xml">beckmann_technologie_1777_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0015.xml">beckmann_technologie_1777_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7045,7 +7045,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0007.xml">beckmann_technologie_1777_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0007.xml">beckmann_technologie_1777_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7064,7 +7064,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0538.xml">beckmann_technologie_1777_0538.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0538.xml">beckmann_technologie_1777_0538.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7083,7 +7083,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0542.xml">beckmann_technologie_1777_0542.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0542.xml">beckmann_technologie_1777_0542.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7102,7 +7102,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0010.xml">beckmann_technologie_1777_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0010.xml">beckmann_technologie_1777_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7121,7 +7121,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0008.xml">beckmann_technologie_1777_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0008.xml">beckmann_technologie_1777_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7140,7 +7140,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0528.xml">beckmann_technologie_1777_0528.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0528.xml">beckmann_technologie_1777_0528.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7159,7 +7159,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0005.xml">beckmann_technologie_1777_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0005.xml">beckmann_technologie_1777_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7178,7 +7178,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0539.xml">beckmann_technologie_1777_0539.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0539.xml">beckmann_technologie_1777_0539.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7197,7 +7197,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0540.xml">beckmann_technologie_1777_0540.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0540.xml">beckmann_technologie_1777_0540.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7216,7 +7216,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0525.xml">beckmann_technologie_1777_0525.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0525.xml">beckmann_technologie_1777_0525.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -7235,7 +7235,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0011.xml">beckmann_technologie_1777_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0011.xml">beckmann_technologie_1777_0011.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7254,7 +7254,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0014.xml">beckmann_technologie_1777_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0014.xml">beckmann_technologie_1777_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7273,7 +7273,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0544.xml">beckmann_technologie_1777_0544.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0544.xml">beckmann_technologie_1777_0544.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7292,7 +7292,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0537.xml">beckmann_technologie_1777_0537.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0537.xml">beckmann_technologie_1777_0537.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7311,7 +7311,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0013.xml">beckmann_technologie_1777_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0013.xml">beckmann_technologie_1777_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7330,7 +7330,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0523.xml">beckmann_technologie_1777_0523.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beckmann_technologie_1777/GT-PAGE/beckmann_technologie_1777_0523.xml">beckmann_technologie_1777_0523.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7396,7 +7396,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0018.xml">arent_dichtercharaktere_1885_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0018.xml">arent_dichtercharaktere_1885_0018.xml</a>
                            </td>
                            <td>28</td>
                            <td>0</td>
@@ -7415,7 +7415,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0318.xml">arent_dichtercharaktere_1885_0318.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0318.xml">arent_dichtercharaktere_1885_0318.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -7434,7 +7434,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0015.xml">arent_dichtercharaktere_1885_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0015.xml">arent_dichtercharaktere_1885_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7453,7 +7453,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0008.xml">arent_dichtercharaktere_1885_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0008.xml">arent_dichtercharaktere_1885_0008.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -7472,7 +7472,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0028.xml">arent_dichtercharaktere_1885_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0028.xml">arent_dichtercharaktere_1885_0028.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -7491,7 +7491,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0012.xml">arent_dichtercharaktere_1885_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0012.xml">arent_dichtercharaktere_1885_0012.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -7510,7 +7510,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0010.xml">arent_dichtercharaktere_1885_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0010.xml">arent_dichtercharaktere_1885_0010.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -7529,7 +7529,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0315.xml">arent_dichtercharaktere_1885_0315.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0315.xml">arent_dichtercharaktere_1885_0315.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -7548,7 +7548,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0011.xml">arent_dichtercharaktere_1885_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0011.xml">arent_dichtercharaktere_1885_0011.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -7567,7 +7567,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0320.xml">arent_dichtercharaktere_1885_0320.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0320.xml">arent_dichtercharaktere_1885_0320.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7586,7 +7586,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0014.xml">arent_dichtercharaktere_1885_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0014.xml">arent_dichtercharaktere_1885_0014.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -7605,7 +7605,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0322.xml">arent_dichtercharaktere_1885_0322.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0322.xml">arent_dichtercharaktere_1885_0322.xml</a>
                            </td>
                            <td>21</td>
                            <td>0</td>
@@ -7624,7 +7624,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0026.xml">arent_dichtercharaktere_1885_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0026.xml">arent_dichtercharaktere_1885_0026.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7643,7 +7643,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0024.xml">arent_dichtercharaktere_1885_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0024.xml">arent_dichtercharaktere_1885_0024.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -7662,7 +7662,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0079.xml">arent_dichtercharaktere_1885_0079.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0079.xml">arent_dichtercharaktere_1885_0079.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -7681,7 +7681,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0317.xml">arent_dichtercharaktere_1885_0317.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0317.xml">arent_dichtercharaktere_1885_0317.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -7700,7 +7700,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0007.xml">arent_dichtercharaktere_1885_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0007.xml">arent_dichtercharaktere_1885_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7719,7 +7719,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0017.xml">arent_dichtercharaktere_1885_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0017.xml">arent_dichtercharaktere_1885_0017.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7738,7 +7738,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0009.xml">arent_dichtercharaktere_1885_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0009.xml">arent_dichtercharaktere_1885_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7757,7 +7757,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0013.xml">arent_dichtercharaktere_1885_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0013.xml">arent_dichtercharaktere_1885_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -7776,7 +7776,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0316.xml">arent_dichtercharaktere_1885_0316.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0316.xml">arent_dichtercharaktere_1885_0316.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7795,7 +7795,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0016.xml">arent_dichtercharaktere_1885_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0016.xml">arent_dichtercharaktere_1885_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -7814,7 +7814,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0031.xml">arent_dichtercharaktere_1885_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0031.xml">arent_dichtercharaktere_1885_0031.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -7833,7 +7833,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0078.xml">arent_dichtercharaktere_1885_0078.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0078.xml">arent_dichtercharaktere_1885_0078.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -7852,7 +7852,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0006.xml">arent_dichtercharaktere_1885_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arent_dichtercharaktere_1885/GT-PAGE/arent_dichtercharaktere_1885_0006.xml">arent_dichtercharaktere_1885_0006.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -7918,7 +7918,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0055.xml">arnima_invalide_1818_0055.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0055.xml">arnima_invalide_1818_0055.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -7937,7 +7937,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0043.xml">arnima_invalide_1818_0043.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0043.xml">arnima_invalide_1818_0043.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7956,7 +7956,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0010.xml">arnima_invalide_1818_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0010.xml">arnima_invalide_1818_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7975,7 +7975,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0039.xml">arnima_invalide_1818_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0039.xml">arnima_invalide_1818_0039.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -7994,7 +7994,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0014.xml">arnima_invalide_1818_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0014.xml">arnima_invalide_1818_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8013,7 +8013,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0034.xml">arnima_invalide_1818_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0034.xml">arnima_invalide_1818_0034.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8032,7 +8032,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0041.xml">arnima_invalide_1818_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0041.xml">arnima_invalide_1818_0041.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8051,7 +8051,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0053.xml">arnima_invalide_1818_0053.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0053.xml">arnima_invalide_1818_0053.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8070,7 +8070,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0040.xml">arnima_invalide_1818_0040.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0040.xml">arnima_invalide_1818_0040.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8089,7 +8089,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0033.xml">arnima_invalide_1818_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0033.xml">arnima_invalide_1818_0033.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8108,7 +8108,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0035.xml">arnima_invalide_1818_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0035.xml">arnima_invalide_1818_0035.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8127,7 +8127,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0013.xml">arnima_invalide_1818_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0013.xml">arnima_invalide_1818_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8146,7 +8146,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0045.xml">arnima_invalide_1818_0045.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0045.xml">arnima_invalide_1818_0045.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8165,7 +8165,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0054.xml">arnima_invalide_1818_0054.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0054.xml">arnima_invalide_1818_0054.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8184,7 +8184,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0046.xml">arnima_invalide_1818_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0046.xml">arnima_invalide_1818_0046.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8203,7 +8203,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0017.xml">arnima_invalide_1818_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0017.xml">arnima_invalide_1818_0017.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8222,7 +8222,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0051.xml">arnima_invalide_1818_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0051.xml">arnima_invalide_1818_0051.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8241,7 +8241,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0009.xml">arnima_invalide_1818_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0009.xml">arnima_invalide_1818_0009.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8260,7 +8260,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0052.xml">arnima_invalide_1818_0052.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0052.xml">arnima_invalide_1818_0052.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8279,7 +8279,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0049.xml">arnima_invalide_1818_0049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnima_invalide_1818/GT-PAGE/arnima_invalide_1818_0049.xml">arnima_invalide_1818_0049.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8345,7 +8345,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0213.xml">behrens_hercynia_1703_0213.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0213.xml">behrens_hercynia_1703_0213.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -8364,7 +8364,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0214.xml">behrens_hercynia_1703_0214.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0214.xml">behrens_hercynia_1703_0214.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8383,7 +8383,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0013.xml">behrens_hercynia_1703_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0013.xml">behrens_hercynia_1703_0013.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -8402,7 +8402,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0215.xml">behrens_hercynia_1703_0215.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0215.xml">behrens_hercynia_1703_0215.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -8421,7 +8421,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0227.xml">behrens_hercynia_1703_0227.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0227.xml">behrens_hercynia_1703_0227.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8440,7 +8440,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0224.xml">behrens_hercynia_1703_0224.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0224.xml">behrens_hercynia_1703_0224.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8459,7 +8459,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0016.xml">behrens_hercynia_1703_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0016.xml">behrens_hercynia_1703_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -8478,7 +8478,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0010.xml">behrens_hercynia_1703_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0010.xml">behrens_hercynia_1703_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8497,7 +8497,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0223.xml">behrens_hercynia_1703_0223.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0223.xml">behrens_hercynia_1703_0223.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -8516,7 +8516,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0012.xml">behrens_hercynia_1703_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0012.xml">behrens_hercynia_1703_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8535,7 +8535,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0025.xml">behrens_hercynia_1703_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0025.xml">behrens_hercynia_1703_0025.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8554,7 +8554,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0219.xml">behrens_hercynia_1703_0219.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0219.xml">behrens_hercynia_1703_0219.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8573,7 +8573,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0009.xml">behrens_hercynia_1703_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0009.xml">behrens_hercynia_1703_0009.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -8592,7 +8592,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0033.xml">behrens_hercynia_1703_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0033.xml">behrens_hercynia_1703_0033.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8611,7 +8611,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0225.xml">behrens_hercynia_1703_0225.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0225.xml">behrens_hercynia_1703_0225.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -8630,7 +8630,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0228.xml">behrens_hercynia_1703_0228.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0228.xml">behrens_hercynia_1703_0228.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -8649,7 +8649,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0220.xml">behrens_hercynia_1703_0220.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0220.xml">behrens_hercynia_1703_0220.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -8668,7 +8668,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0011.xml">behrens_hercynia_1703_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0011.xml">behrens_hercynia_1703_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8687,7 +8687,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0015.xml">behrens_hercynia_1703_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0015.xml">behrens_hercynia_1703_0015.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8706,7 +8706,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0221.xml">behrens_hercynia_1703_0221.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0221.xml">behrens_hercynia_1703_0221.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -8725,7 +8725,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0218.xml">behrens_hercynia_1703_0218.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0218.xml">behrens_hercynia_1703_0218.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8744,7 +8744,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0007.xml">behrens_hercynia_1703_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0007.xml">behrens_hercynia_1703_0007.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8763,7 +8763,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0217.xml">behrens_hercynia_1703_0217.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0217.xml">behrens_hercynia_1703_0217.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -8782,7 +8782,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0226.xml">behrens_hercynia_1703_0226.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0226.xml">behrens_hercynia_1703_0226.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -8801,7 +8801,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0216.xml">behrens_hercynia_1703_0216.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0216.xml">behrens_hercynia_1703_0216.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -8820,7 +8820,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0222.xml">behrens_hercynia_1703_0222.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0222.xml">behrens_hercynia_1703_0222.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -8839,7 +8839,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0014.xml">behrens_hercynia_1703_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/behrens_hercynia_1703/GT-PAGE/behrens_hercynia_1703_0014.xml">behrens_hercynia_1703_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -8905,7 +8905,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0347.xml">arnimb_guenderode01_1840_0347.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0347.xml">arnimb_guenderode01_1840_0347.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -8924,7 +8924,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0024.xml">arnimb_guenderode01_1840_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0024.xml">arnimb_guenderode01_1840_0024.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -8943,7 +8943,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0227.xml">arnimb_guenderode01_1840_0227.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0227.xml">arnimb_guenderode01_1840_0227.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8962,7 +8962,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0109.xml">arnimb_guenderode01_1840_0109.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0109.xml">arnimb_guenderode01_1840_0109.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -8981,7 +8981,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0144.xml">arnimb_guenderode01_1840_0144.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0144.xml">arnimb_guenderode01_1840_0144.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9000,7 +9000,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0197.xml">arnimb_guenderode01_1840_0197.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0197.xml">arnimb_guenderode01_1840_0197.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9019,7 +9019,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0284.xml">arnimb_guenderode01_1840_0284.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0284.xml">arnimb_guenderode01_1840_0284.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9038,7 +9038,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0431.xml">arnimb_guenderode01_1840_0431.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0431.xml">arnimb_guenderode01_1840_0431.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9057,7 +9057,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0135.xml">arnimb_guenderode01_1840_0135.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0135.xml">arnimb_guenderode01_1840_0135.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9076,7 +9076,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0267.xml">arnimb_guenderode01_1840_0267.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0267.xml">arnimb_guenderode01_1840_0267.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9095,7 +9095,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0083.xml">arnimb_guenderode01_1840_0083.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0083.xml">arnimb_guenderode01_1840_0083.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9114,7 +9114,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0277.xml">arnimb_guenderode01_1840_0277.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0277.xml">arnimb_guenderode01_1840_0277.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9133,7 +9133,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0046.xml">arnimb_guenderode01_1840_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0046.xml">arnimb_guenderode01_1840_0046.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9152,7 +9152,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0132.xml">arnimb_guenderode01_1840_0132.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0132.xml">arnimb_guenderode01_1840_0132.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9171,7 +9171,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0367.xml">arnimb_guenderode01_1840_0367.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0367.xml">arnimb_guenderode01_1840_0367.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9190,7 +9190,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0309.xml">arnimb_guenderode01_1840_0309.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0309.xml">arnimb_guenderode01_1840_0309.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9209,7 +9209,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0269.xml">arnimb_guenderode01_1840_0269.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0269.xml">arnimb_guenderode01_1840_0269.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9228,7 +9228,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0050.xml">arnimb_guenderode01_1840_0050.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0050.xml">arnimb_guenderode01_1840_0050.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9247,7 +9247,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0263.xml">arnimb_guenderode01_1840_0263.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0263.xml">arnimb_guenderode01_1840_0263.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9266,7 +9266,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0291.xml">arnimb_guenderode01_1840_0291.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode01_1840/GT-PAGE/arnimb_guenderode01_1840_0291.xml">arnimb_guenderode01_1840_0291.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -9332,7 +9332,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0012.xml">abel_leibmedicus_1699_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0012.xml">abel_leibmedicus_1699_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9351,7 +9351,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0032.xml">abel_leibmedicus_1699_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0032.xml">abel_leibmedicus_1699_0032.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -9370,7 +9370,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0341.xml">abel_leibmedicus_1699_0341.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0341.xml">abel_leibmedicus_1699_0341.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -9389,7 +9389,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0033.xml">abel_leibmedicus_1699_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0033.xml">abel_leibmedicus_1699_0033.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -9408,7 +9408,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0013.xml">abel_leibmedicus_1699_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0013.xml">abel_leibmedicus_1699_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9427,7 +9427,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0400.xml">abel_leibmedicus_1699_0400.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0400.xml">abel_leibmedicus_1699_0400.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -9446,7 +9446,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0345.xml">abel_leibmedicus_1699_0345.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0345.xml">abel_leibmedicus_1699_0345.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -9465,7 +9465,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0028.xml">abel_leibmedicus_1699_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0028.xml">abel_leibmedicus_1699_0028.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -9484,7 +9484,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0010.xml">abel_leibmedicus_1699_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0010.xml">abel_leibmedicus_1699_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9503,7 +9503,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0029.xml">abel_leibmedicus_1699_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0029.xml">abel_leibmedicus_1699_0029.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -9522,7 +9522,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0343.xml">abel_leibmedicus_1699_0343.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0343.xml">abel_leibmedicus_1699_0343.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -9541,7 +9541,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0342.xml">abel_leibmedicus_1699_0342.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0342.xml">abel_leibmedicus_1699_0342.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -9560,7 +9560,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0034.xml">abel_leibmedicus_1699_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0034.xml">abel_leibmedicus_1699_0034.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -9579,7 +9579,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0026.xml">abel_leibmedicus_1699_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0026.xml">abel_leibmedicus_1699_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -9598,7 +9598,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0363.xml">abel_leibmedicus_1699_0363.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0363.xml">abel_leibmedicus_1699_0363.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -9617,7 +9617,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0379.xml">abel_leibmedicus_1699_0379.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0379.xml">abel_leibmedicus_1699_0379.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -9636,7 +9636,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0007.xml">abel_leibmedicus_1699_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0007.xml">abel_leibmedicus_1699_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -9655,7 +9655,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0009.xml">abel_leibmedicus_1699_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0009.xml">abel_leibmedicus_1699_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9674,7 +9674,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0017.xml">abel_leibmedicus_1699_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0017.xml">abel_leibmedicus_1699_0017.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -9693,7 +9693,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0027.xml">abel_leibmedicus_1699_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0027.xml">abel_leibmedicus_1699_0027.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -9712,7 +9712,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0016.xml">abel_leibmedicus_1699_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0016.xml">abel_leibmedicus_1699_0016.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -9731,7 +9731,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0011.xml">abel_leibmedicus_1699_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0011.xml">abel_leibmedicus_1699_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9750,7 +9750,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0014.xml">abel_leibmedicus_1699_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0014.xml">abel_leibmedicus_1699_0014.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -9769,7 +9769,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0030.xml">abel_leibmedicus_1699_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0030.xml">abel_leibmedicus_1699_0030.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -9788,7 +9788,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0346.xml">abel_leibmedicus_1699_0346.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0346.xml">abel_leibmedicus_1699_0346.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -9807,7 +9807,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0377.xml">abel_leibmedicus_1699_0377.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0377.xml">abel_leibmedicus_1699_0377.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -9826,7 +9826,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0008.xml">abel_leibmedicus_1699_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0008.xml">abel_leibmedicus_1699_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -9845,7 +9845,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0015.xml">abel_leibmedicus_1699_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abel_leibmedicus_1699/GT-PAGE/abel_leibmedicus_1699_0015.xml">abel_leibmedicus_1699_0015.xml</a>
                            </td>
                            <td>20</td>
                            <td>0</td>
@@ -9911,7 +9911,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0025.xml">beer_lebensbeschreibung_1680_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0025.xml">beer_lebensbeschreibung_1680_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9930,7 +9930,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0012.xml">beer_lebensbeschreibung_1680_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0012.xml">beer_lebensbeschreibung_1680_0012.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -9949,7 +9949,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0027.xml">beer_lebensbeschreibung_1680_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0027.xml">beer_lebensbeschreibung_1680_0027.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -9968,7 +9968,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0020.xml">beer_lebensbeschreibung_1680_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0020.xml">beer_lebensbeschreibung_1680_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -9987,7 +9987,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0009.xml">beer_lebensbeschreibung_1680_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0009.xml">beer_lebensbeschreibung_1680_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10006,7 +10006,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0024.xml">beer_lebensbeschreibung_1680_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0024.xml">beer_lebensbeschreibung_1680_0024.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10025,7 +10025,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0013.xml">beer_lebensbeschreibung_1680_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0013.xml">beer_lebensbeschreibung_1680_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10044,7 +10044,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0007.xml">beer_lebensbeschreibung_1680_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0007.xml">beer_lebensbeschreibung_1680_0007.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -10063,7 +10063,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0011.xml">beer_lebensbeschreibung_1680_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0011.xml">beer_lebensbeschreibung_1680_0011.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -10082,7 +10082,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0019.xml">beer_lebensbeschreibung_1680_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0019.xml">beer_lebensbeschreibung_1680_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10101,7 +10101,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0015.xml">beer_lebensbeschreibung_1680_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0015.xml">beer_lebensbeschreibung_1680_0015.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10120,7 +10120,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0021.xml">beer_lebensbeschreibung_1680_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0021.xml">beer_lebensbeschreibung_1680_0021.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10139,7 +10139,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0022.xml">beer_lebensbeschreibung_1680_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0022.xml">beer_lebensbeschreibung_1680_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10158,7 +10158,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0016.xml">beer_lebensbeschreibung_1680_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0016.xml">beer_lebensbeschreibung_1680_0016.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10177,7 +10177,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0023.xml">beer_lebensbeschreibung_1680_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0023.xml">beer_lebensbeschreibung_1680_0023.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10196,7 +10196,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0017.xml">beer_lebensbeschreibung_1680_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0017.xml">beer_lebensbeschreibung_1680_0017.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10215,7 +10215,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0028.xml">beer_lebensbeschreibung_1680_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0028.xml">beer_lebensbeschreibung_1680_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10234,7 +10234,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0010.xml">beer_lebensbeschreibung_1680_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0010.xml">beer_lebensbeschreibung_1680_0010.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10253,7 +10253,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0014.xml">beer_lebensbeschreibung_1680_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0014.xml">beer_lebensbeschreibung_1680_0014.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10272,7 +10272,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0026.xml">beer_lebensbeschreibung_1680_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_lebensbeschreibung_1680/GT-PAGE/beer_lebensbeschreibung_1680_0026.xml">beer_lebensbeschreibung_1680_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10338,7 +10338,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0005.xml">basedow_weisheit_1768_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0005.xml">basedow_weisheit_1768_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10357,7 +10357,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0010.xml">basedow_weisheit_1768_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0010.xml">basedow_weisheit_1768_0010.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10376,7 +10376,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0009.xml">basedow_weisheit_1768_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0009.xml">basedow_weisheit_1768_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -10395,7 +10395,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0014.xml">basedow_weisheit_1768_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0014.xml">basedow_weisheit_1768_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10414,7 +10414,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0205.xml">basedow_weisheit_1768_0205.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0205.xml">basedow_weisheit_1768_0205.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10433,7 +10433,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0008.xml">basedow_weisheit_1768_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0008.xml">basedow_weisheit_1768_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10452,7 +10452,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0018.xml">basedow_weisheit_1768_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0018.xml">basedow_weisheit_1768_0018.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10471,7 +10471,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0039.xml">basedow_weisheit_1768_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0039.xml">basedow_weisheit_1768_0039.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -10490,7 +10490,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0023.xml">basedow_weisheit_1768_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0023.xml">basedow_weisheit_1768_0023.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10509,7 +10509,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0017.xml">basedow_weisheit_1768_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0017.xml">basedow_weisheit_1768_0017.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10528,7 +10528,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0006.xml">basedow_weisheit_1768_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0006.xml">basedow_weisheit_1768_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10547,7 +10547,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0001.xml">basedow_weisheit_1768_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0001.xml">basedow_weisheit_1768_0001.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10566,7 +10566,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0013.xml">basedow_weisheit_1768_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0013.xml">basedow_weisheit_1768_0013.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -10585,7 +10585,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0201.xml">basedow_weisheit_1768_0201.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0201.xml">basedow_weisheit_1768_0201.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10604,7 +10604,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0015.xml">basedow_weisheit_1768_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0015.xml">basedow_weisheit_1768_0015.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10623,7 +10623,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0021.xml">basedow_weisheit_1768_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0021.xml">basedow_weisheit_1768_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10642,7 +10642,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0019.xml">basedow_weisheit_1768_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0019.xml">basedow_weisheit_1768_0019.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10661,7 +10661,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0022.xml">basedow_weisheit_1768_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0022.xml">basedow_weisheit_1768_0022.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -10680,7 +10680,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0012.xml">basedow_weisheit_1768_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0012.xml">basedow_weisheit_1768_0012.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10699,7 +10699,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0007.xml">basedow_weisheit_1768_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0007.xml">basedow_weisheit_1768_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -10718,7 +10718,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0016.xml">basedow_weisheit_1768_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0016.xml">basedow_weisheit_1768_0016.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10737,7 +10737,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0011.xml">basedow_weisheit_1768_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_weisheit_1768/GT-PAGE/basedow_weisheit_1768_0011.xml">basedow_weisheit_1768_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10803,7 +10803,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0140.xml">andreas_fenitschka_1898_0140.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0140.xml">andreas_fenitschka_1898_0140.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -10822,7 +10822,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0177.xml">andreas_fenitschka_1898_0177.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0177.xml">andreas_fenitschka_1898_0177.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -10841,7 +10841,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0179.xml">andreas_fenitschka_1898_0179.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0179.xml">andreas_fenitschka_1898_0179.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -10860,7 +10860,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0014.xml">andreas_fenitschka_1898_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0014.xml">andreas_fenitschka_1898_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -10879,7 +10879,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0161.xml">andreas_fenitschka_1898_0161.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0161.xml">andreas_fenitschka_1898_0161.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -10898,7 +10898,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0052.xml">andreas_fenitschka_1898_0052.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0052.xml">andreas_fenitschka_1898_0052.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -10917,7 +10917,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0015.xml">andreas_fenitschka_1898_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0015.xml">andreas_fenitschka_1898_0015.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -10936,7 +10936,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0126.xml">andreas_fenitschka_1898_0126.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0126.xml">andreas_fenitschka_1898_0126.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -10955,7 +10955,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0175.xml">andreas_fenitschka_1898_0175.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0175.xml">andreas_fenitschka_1898_0175.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -10974,7 +10974,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0160.xml">andreas_fenitschka_1898_0160.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0160.xml">andreas_fenitschka_1898_0160.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -10993,7 +10993,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0051.xml">andreas_fenitschka_1898_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0051.xml">andreas_fenitschka_1898_0051.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11012,7 +11012,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0083.xml">andreas_fenitschka_1898_0083.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0083.xml">andreas_fenitschka_1898_0083.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11031,7 +11031,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0169.xml">andreas_fenitschka_1898_0169.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0169.xml">andreas_fenitschka_1898_0169.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -11050,7 +11050,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0026.xml">andreas_fenitschka_1898_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0026.xml">andreas_fenitschka_1898_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -11069,7 +11069,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0154.xml">andreas_fenitschka_1898_0154.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0154.xml">andreas_fenitschka_1898_0154.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -11088,7 +11088,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0180.xml">andreas_fenitschka_1898_0180.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0180.xml">andreas_fenitschka_1898_0180.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11107,7 +11107,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0013.xml">andreas_fenitschka_1898_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0013.xml">andreas_fenitschka_1898_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11126,7 +11126,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0173.xml">andreas_fenitschka_1898_0173.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0173.xml">andreas_fenitschka_1898_0173.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -11145,7 +11145,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0130.xml">andreas_fenitschka_1898_0130.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0130.xml">andreas_fenitschka_1898_0130.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11164,7 +11164,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0125.xml">andreas_fenitschka_1898_0125.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/andreas_fenitschka_1898/GT-PAGE/andreas_fenitschka_1898_0125.xml">andreas_fenitschka_1898_0125.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -11230,7 +11230,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0037.xml">arnimb_guenderode02_1840_0037.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0037.xml">arnimb_guenderode02_1840_0037.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11249,7 +11249,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0212.xml">arnimb_guenderode02_1840_0212.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0212.xml">arnimb_guenderode02_1840_0212.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11268,7 +11268,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0253.xml">arnimb_guenderode02_1840_0253.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0253.xml">arnimb_guenderode02_1840_0253.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11287,7 +11287,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0280.xml">arnimb_guenderode02_1840_0280.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0280.xml">arnimb_guenderode02_1840_0280.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11306,7 +11306,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0218.xml">arnimb_guenderode02_1840_0218.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0218.xml">arnimb_guenderode02_1840_0218.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11325,7 +11325,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0286.xml">arnimb_guenderode02_1840_0286.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0286.xml">arnimb_guenderode02_1840_0286.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11344,7 +11344,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0252.xml">arnimb_guenderode02_1840_0252.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0252.xml">arnimb_guenderode02_1840_0252.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -11363,7 +11363,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0310.xml">arnimb_guenderode02_1840_0310.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0310.xml">arnimb_guenderode02_1840_0310.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11382,7 +11382,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0068.xml">arnimb_guenderode02_1840_0068.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0068.xml">arnimb_guenderode02_1840_0068.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11401,7 +11401,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0273.xml">arnimb_guenderode02_1840_0273.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0273.xml">arnimb_guenderode02_1840_0273.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11420,7 +11420,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0308.xml">arnimb_guenderode02_1840_0308.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0308.xml">arnimb_guenderode02_1840_0308.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -11439,7 +11439,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0059.xml">arnimb_guenderode02_1840_0059.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0059.xml">arnimb_guenderode02_1840_0059.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11458,7 +11458,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0298.xml">arnimb_guenderode02_1840_0298.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0298.xml">arnimb_guenderode02_1840_0298.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11477,7 +11477,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0150.xml">arnimb_guenderode02_1840_0150.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0150.xml">arnimb_guenderode02_1840_0150.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11496,7 +11496,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0025.xml">arnimb_guenderode02_1840_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0025.xml">arnimb_guenderode02_1840_0025.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11515,7 +11515,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0292.xml">arnimb_guenderode02_1840_0292.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0292.xml">arnimb_guenderode02_1840_0292.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11534,7 +11534,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0092.xml">arnimb_guenderode02_1840_0092.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0092.xml">arnimb_guenderode02_1840_0092.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11553,7 +11553,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0313.xml">arnimb_guenderode02_1840_0313.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0313.xml">arnimb_guenderode02_1840_0313.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -11572,7 +11572,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0021.xml">arnimb_guenderode02_1840_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0021.xml">arnimb_guenderode02_1840_0021.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11591,7 +11591,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0162.xml">arnimb_guenderode02_1840_0162.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_guenderode02_1840/GT-PAGE/arnimb_guenderode02_1840_0162.xml">arnimb_guenderode02_1840_0162.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11657,7 +11657,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0048.xml">beer_nero_1685_0048.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0048.xml">beer_nero_1685_0048.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -11676,7 +11676,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0009.xml">beer_nero_1685_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0009.xml">beer_nero_1685_0009.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11695,7 +11695,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0045.xml">beer_nero_1685_0045.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0045.xml">beer_nero_1685_0045.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11714,7 +11714,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0015.xml">beer_nero_1685_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0015.xml">beer_nero_1685_0015.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -11733,7 +11733,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0032.xml">beer_nero_1685_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0032.xml">beer_nero_1685_0032.xml</a>
                            </td>
                            <td>25</td>
                            <td>0</td>
@@ -11752,7 +11752,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0021.xml">beer_nero_1685_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0021.xml">beer_nero_1685_0021.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -11771,7 +11771,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0044.xml">beer_nero_1685_0044.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0044.xml">beer_nero_1685_0044.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -11790,7 +11790,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0010.xml">beer_nero_1685_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0010.xml">beer_nero_1685_0010.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11809,7 +11809,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0031.xml">beer_nero_1685_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0031.xml">beer_nero_1685_0031.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11828,7 +11828,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0008.xml">beer_nero_1685_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0008.xml">beer_nero_1685_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -11847,7 +11847,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0046.xml">beer_nero_1685_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0046.xml">beer_nero_1685_0046.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -11866,7 +11866,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0040.xml">beer_nero_1685_0040.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0040.xml">beer_nero_1685_0040.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11885,7 +11885,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0017.xml">beer_nero_1685_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0017.xml">beer_nero_1685_0017.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11904,7 +11904,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0013.xml">beer_nero_1685_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0013.xml">beer_nero_1685_0013.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -11923,7 +11923,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0052.xml">beer_nero_1685_0052.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0052.xml">beer_nero_1685_0052.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -11942,7 +11942,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0051.xml">beer_nero_1685_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0051.xml">beer_nero_1685_0051.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -11961,7 +11961,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0016.xml">beer_nero_1685_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0016.xml">beer_nero_1685_0016.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -11980,7 +11980,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0007.xml">beer_nero_1685_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0007.xml">beer_nero_1685_0007.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -11999,7 +11999,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0012.xml">beer_nero_1685_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0012.xml">beer_nero_1685_0012.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -12018,7 +12018,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0014.xml">beer_nero_1685_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0014.xml">beer_nero_1685_0014.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -12037,7 +12037,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0011.xml">beer_nero_1685_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_nero_1685/GT-PAGE/beer_nero_1685_0011.xml">beer_nero_1685_0011.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -12103,7 +12103,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0410.xml">becher_psychosophia_1683_0410.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0410.xml">becher_psychosophia_1683_0410.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12122,7 +12122,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0007.xml">becher_psychosophia_1683_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0007.xml">becher_psychosophia_1683_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12141,7 +12141,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0418.xml">becher_psychosophia_1683_0418.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0418.xml">becher_psychosophia_1683_0418.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -12160,7 +12160,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0413.xml">becher_psychosophia_1683_0413.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0413.xml">becher_psychosophia_1683_0413.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -12179,7 +12179,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0013.xml">becher_psychosophia_1683_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0013.xml">becher_psychosophia_1683_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12198,7 +12198,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0414.xml">becher_psychosophia_1683_0414.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0414.xml">becher_psychosophia_1683_0414.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -12217,7 +12217,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0406.xml">becher_psychosophia_1683_0406.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0406.xml">becher_psychosophia_1683_0406.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12236,7 +12236,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0405.xml">becher_psychosophia_1683_0405.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0405.xml">becher_psychosophia_1683_0405.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12255,7 +12255,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0407.xml">becher_psychosophia_1683_0407.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0407.xml">becher_psychosophia_1683_0407.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -12274,7 +12274,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0424.xml">becher_psychosophia_1683_0424.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0424.xml">becher_psychosophia_1683_0424.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -12293,7 +12293,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0417.xml">becher_psychosophia_1683_0417.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0417.xml">becher_psychosophia_1683_0417.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12312,7 +12312,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0425.xml">becher_psychosophia_1683_0425.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0425.xml">becher_psychosophia_1683_0425.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12331,7 +12331,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0423.xml">becher_psychosophia_1683_0423.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0423.xml">becher_psychosophia_1683_0423.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -12350,7 +12350,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0412.xml">becher_psychosophia_1683_0412.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0412.xml">becher_psychosophia_1683_0412.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12369,7 +12369,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0420.xml">becher_psychosophia_1683_0420.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0420.xml">becher_psychosophia_1683_0420.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12388,7 +12388,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0011.xml">becher_psychosophia_1683_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0011.xml">becher_psychosophia_1683_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12407,7 +12407,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0009.xml">becher_psychosophia_1683_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0009.xml">becher_psychosophia_1683_0009.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -12426,7 +12426,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0421.xml">becher_psychosophia_1683_0421.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0421.xml">becher_psychosophia_1683_0421.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12445,7 +12445,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0409.xml">becher_psychosophia_1683_0409.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0409.xml">becher_psychosophia_1683_0409.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12464,7 +12464,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0416.xml">becher_psychosophia_1683_0416.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0416.xml">becher_psychosophia_1683_0416.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12483,7 +12483,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0419.xml">becher_psychosophia_1683_0419.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0419.xml">becher_psychosophia_1683_0419.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -12502,7 +12502,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0015.xml">becher_psychosophia_1683_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0015.xml">becher_psychosophia_1683_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12521,7 +12521,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0422.xml">becher_psychosophia_1683_0422.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0422.xml">becher_psychosophia_1683_0422.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12540,7 +12540,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0012.xml">becher_psychosophia_1683_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0012.xml">becher_psychosophia_1683_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12559,7 +12559,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0411.xml">becher_psychosophia_1683_0411.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0411.xml">becher_psychosophia_1683_0411.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12578,7 +12578,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0014.xml">becher_psychosophia_1683_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0014.xml">becher_psychosophia_1683_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12597,7 +12597,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0010.xml">becher_psychosophia_1683_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0010.xml">becher_psychosophia_1683_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12616,7 +12616,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0408.xml">becher_psychosophia_1683_0408.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0408.xml">becher_psychosophia_1683_0408.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -12635,7 +12635,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0016.xml">becher_psychosophia_1683_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_psychosophia_1683/GT-PAGE/becher_psychosophia_1683_0016.xml">becher_psychosophia_1683_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12701,7 +12701,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0022.xml">beier_buchhandel_1690_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0022.xml">beier_buchhandel_1690_0022.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12720,7 +12720,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0016.xml">beier_buchhandel_1690_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0016.xml">beier_buchhandel_1690_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12739,7 +12739,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0026.xml">beier_buchhandel_1690_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0026.xml">beier_buchhandel_1690_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12758,7 +12758,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0008.xml">beier_buchhandel_1690_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0008.xml">beier_buchhandel_1690_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12777,7 +12777,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0019.xml">beier_buchhandel_1690_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0019.xml">beier_buchhandel_1690_0019.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12796,7 +12796,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0011.xml">beier_buchhandel_1690_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0011.xml">beier_buchhandel_1690_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12815,7 +12815,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0015.xml">beier_buchhandel_1690_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0015.xml">beier_buchhandel_1690_0015.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12834,7 +12834,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0005.xml">beier_buchhandel_1690_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0005.xml">beier_buchhandel_1690_0005.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -12853,7 +12853,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0036.xml">beier_buchhandel_1690_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0036.xml">beier_buchhandel_1690_0036.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12872,7 +12872,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0020.xml">beier_buchhandel_1690_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0020.xml">beier_buchhandel_1690_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -12891,7 +12891,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0018.xml">beier_buchhandel_1690_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0018.xml">beier_buchhandel_1690_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -12910,7 +12910,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0013.xml">beier_buchhandel_1690_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0013.xml">beier_buchhandel_1690_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -12929,7 +12929,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0024.xml">beier_buchhandel_1690_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0024.xml">beier_buchhandel_1690_0024.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12948,7 +12948,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0007.xml">beier_buchhandel_1690_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0007.xml">beier_buchhandel_1690_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12967,7 +12967,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0034.xml">beier_buchhandel_1690_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0034.xml">beier_buchhandel_1690_0034.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -12986,7 +12986,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0017.xml">beier_buchhandel_1690_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0017.xml">beier_buchhandel_1690_0017.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13005,7 +13005,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0032.xml">beier_buchhandel_1690_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0032.xml">beier_buchhandel_1690_0032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13024,7 +13024,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0014.xml">beier_buchhandel_1690_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0014.xml">beier_buchhandel_1690_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13043,7 +13043,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0010.xml">beier_buchhandel_1690_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0010.xml">beier_buchhandel_1690_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13062,7 +13062,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0030.xml">beier_buchhandel_1690_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0030.xml">beier_buchhandel_1690_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13081,7 +13081,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0012.xml">beier_buchhandel_1690_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0012.xml">beier_buchhandel_1690_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13100,7 +13100,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0028.xml">beier_buchhandel_1690_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0028.xml">beier_buchhandel_1690_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13119,7 +13119,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0009.xml">beier_buchhandel_1690_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beier_buchhandel_1690/GT-PAGE/beier_buchhandel_1690_0009.xml">beier_buchhandel_1690_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13185,7 +13185,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0271.xml">arnim_wunderhorn03_1808_0271.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0271.xml">arnim_wunderhorn03_1808_0271.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13204,7 +13204,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0313.xml">arnim_wunderhorn03_1808_0313.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0313.xml">arnim_wunderhorn03_1808_0313.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13223,7 +13223,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0374.xml">arnim_wunderhorn03_1808_0374.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0374.xml">arnim_wunderhorn03_1808_0374.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -13242,7 +13242,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0268.xml">arnim_wunderhorn03_1808_0268.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0268.xml">arnim_wunderhorn03_1808_0268.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -13261,7 +13261,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0371.xml">arnim_wunderhorn03_1808_0371.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0371.xml">arnim_wunderhorn03_1808_0371.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -13280,7 +13280,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0359.xml">arnim_wunderhorn03_1808_0359.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0359.xml">arnim_wunderhorn03_1808_0359.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13299,7 +13299,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0375.xml">arnim_wunderhorn03_1808_0375.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0375.xml">arnim_wunderhorn03_1808_0375.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -13318,7 +13318,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0344.xml">arnim_wunderhorn03_1808_0344.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0344.xml">arnim_wunderhorn03_1808_0344.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13337,7 +13337,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0272.xml">arnim_wunderhorn03_1808_0272.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0272.xml">arnim_wunderhorn03_1808_0272.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13356,7 +13356,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0372.xml">arnim_wunderhorn03_1808_0372.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0372.xml">arnim_wunderhorn03_1808_0372.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -13375,7 +13375,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0311.xml">arnim_wunderhorn03_1808_0311.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0311.xml">arnim_wunderhorn03_1808_0311.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -13394,7 +13394,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0315.xml">arnim_wunderhorn03_1808_0315.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0315.xml">arnim_wunderhorn03_1808_0315.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -13413,7 +13413,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0373.xml">arnim_wunderhorn03_1808_0373.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0373.xml">arnim_wunderhorn03_1808_0373.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -13432,7 +13432,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0312.xml">arnim_wunderhorn03_1808_0312.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0312.xml">arnim_wunderhorn03_1808_0312.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13451,7 +13451,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0265.xml">arnim_wunderhorn03_1808_0265.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0265.xml">arnim_wunderhorn03_1808_0265.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -13470,7 +13470,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0270.xml">arnim_wunderhorn03_1808_0270.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0270.xml">arnim_wunderhorn03_1808_0270.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -13489,7 +13489,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0275.xml">arnim_wunderhorn03_1808_0275.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0275.xml">arnim_wunderhorn03_1808_0275.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13508,7 +13508,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0309.xml">arnim_wunderhorn03_1808_0309.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0309.xml">arnim_wunderhorn03_1808_0309.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13527,7 +13527,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0310.xml">arnim_wunderhorn03_1808_0310.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0310.xml">arnim_wunderhorn03_1808_0310.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13546,7 +13546,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0269.xml">arnim_wunderhorn03_1808_0269.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnim_wunderhorn03_1808/GT-PAGE/arnim_wunderhorn03_1808_0269.xml">arnim_wunderhorn03_1808_0269.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -13612,7 +13612,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0272.xml">bauer_buehnenleben_1871_0272.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0272.xml">bauer_buehnenleben_1871_0272.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13631,7 +13631,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0365.xml">bauer_buehnenleben_1871_0365.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0365.xml">bauer_buehnenleben_1871_0365.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -13650,7 +13650,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0155.xml">bauer_buehnenleben_1871_0155.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0155.xml">bauer_buehnenleben_1871_0155.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13669,7 +13669,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0141.xml">bauer_buehnenleben_1871_0141.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0141.xml">bauer_buehnenleben_1871_0141.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13688,7 +13688,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0375.xml">bauer_buehnenleben_1871_0375.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0375.xml">bauer_buehnenleben_1871_0375.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13707,7 +13707,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0246.xml">bauer_buehnenleben_1871_0246.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0246.xml">bauer_buehnenleben_1871_0246.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13726,7 +13726,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0049.xml">bauer_buehnenleben_1871_0049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0049.xml">bauer_buehnenleben_1871_0049.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13745,7 +13745,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0169.xml">bauer_buehnenleben_1871_0169.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0169.xml">bauer_buehnenleben_1871_0169.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -13764,7 +13764,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0204.xml">bauer_buehnenleben_1871_0204.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0204.xml">bauer_buehnenleben_1871_0204.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13783,7 +13783,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0331.xml">bauer_buehnenleben_1871_0331.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0331.xml">bauer_buehnenleben_1871_0331.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -13802,7 +13802,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0349.xml">bauer_buehnenleben_1871_0349.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0349.xml">bauer_buehnenleben_1871_0349.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13821,7 +13821,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0122.xml">bauer_buehnenleben_1871_0122.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0122.xml">bauer_buehnenleben_1871_0122.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13840,7 +13840,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0163.xml">bauer_buehnenleben_1871_0163.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0163.xml">bauer_buehnenleben_1871_0163.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13859,7 +13859,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0123.xml">bauer_buehnenleben_1871_0123.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0123.xml">bauer_buehnenleben_1871_0123.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13878,7 +13878,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0142.xml">bauer_buehnenleben_1871_0142.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0142.xml">bauer_buehnenleben_1871_0142.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -13897,7 +13897,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0292.xml">bauer_buehnenleben_1871_0292.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0292.xml">bauer_buehnenleben_1871_0292.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -13916,7 +13916,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0125.xml">bauer_buehnenleben_1871_0125.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0125.xml">bauer_buehnenleben_1871_0125.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -13935,7 +13935,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0157.xml">bauer_buehnenleben_1871_0157.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0157.xml">bauer_buehnenleben_1871_0157.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -13954,7 +13954,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0235.xml">bauer_buehnenleben_1871_0235.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0235.xml">bauer_buehnenleben_1871_0235.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -13973,7 +13973,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0269.xml">bauer_buehnenleben_1871_0269.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauer_buehnenleben_1871/GT-PAGE/bauer_buehnenleben_1871_0269.xml">bauer_buehnenleben_1871_0269.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -14039,7 +14039,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0042.xml">baumstark_encyclopaedie_1835_0042.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0042.xml">baumstark_encyclopaedie_1835_0042.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -14058,7 +14058,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0008.xml">baumstark_encyclopaedie_1835_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0008.xml">baumstark_encyclopaedie_1835_0008.xml</a>
                            </td>
                            <td>0</td>
                            <td>0</td>
@@ -14077,7 +14077,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0039.xml">baumstark_encyclopaedie_1835_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0039.xml">baumstark_encyclopaedie_1835_0039.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -14096,7 +14096,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0023.xml">baumstark_encyclopaedie_1835_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0023.xml">baumstark_encyclopaedie_1835_0023.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14115,7 +14115,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0014.xml">baumstark_encyclopaedie_1835_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0014.xml">baumstark_encyclopaedie_1835_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14134,7 +14134,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0029.xml">baumstark_encyclopaedie_1835_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0029.xml">baumstark_encyclopaedie_1835_0029.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -14153,7 +14153,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0012.xml">baumstark_encyclopaedie_1835_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0012.xml">baumstark_encyclopaedie_1835_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14172,7 +14172,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0034.xml">baumstark_encyclopaedie_1835_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/baumstark_encyclopaedie_1835/GT-PAGE/baumstark_encyclopaedie_1835_0034.xml">baumstark_encyclopaedie_1835_0034.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14238,7 +14238,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0044.xml">basedow_philanthropinum_1774_0044.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0044.xml">basedow_philanthropinum_1774_0044.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14257,7 +14257,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0007.xml">basedow_philanthropinum_1774_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0007.xml">basedow_philanthropinum_1774_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14276,7 +14276,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0040.xml">basedow_philanthropinum_1774_0040.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0040.xml">basedow_philanthropinum_1774_0040.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14295,7 +14295,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0013.xml">basedow_philanthropinum_1774_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0013.xml">basedow_philanthropinum_1774_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -14314,7 +14314,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0020.xml">basedow_philanthropinum_1774_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0020.xml">basedow_philanthropinum_1774_0020.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -14333,7 +14333,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0017.xml">basedow_philanthropinum_1774_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0017.xml">basedow_philanthropinum_1774_0017.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14352,7 +14352,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0010.xml">basedow_philanthropinum_1774_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0010.xml">basedow_philanthropinum_1774_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14371,7 +14371,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0006.xml">basedow_philanthropinum_1774_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0006.xml">basedow_philanthropinum_1774_0006.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -14390,7 +14390,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0019.xml">basedow_philanthropinum_1774_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0019.xml">basedow_philanthropinum_1774_0019.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14409,7 +14409,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0009.xml">basedow_philanthropinum_1774_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0009.xml">basedow_philanthropinum_1774_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14428,7 +14428,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0014.xml">basedow_philanthropinum_1774_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0014.xml">basedow_philanthropinum_1774_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14447,7 +14447,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0018.xml">basedow_philanthropinum_1774_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0018.xml">basedow_philanthropinum_1774_0018.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14466,7 +14466,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0043.xml">basedow_philanthropinum_1774_0043.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0043.xml">basedow_philanthropinum_1774_0043.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14485,7 +14485,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0015.xml">basedow_philanthropinum_1774_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0015.xml">basedow_philanthropinum_1774_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14504,7 +14504,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0005.xml">basedow_philanthropinum_1774_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0005.xml">basedow_philanthropinum_1774_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14523,7 +14523,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0042.xml">basedow_philanthropinum_1774_0042.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0042.xml">basedow_philanthropinum_1774_0042.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14542,26 +14542,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0034.xml">basedow_philanthropinum_1774_0034.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0021.xml">basedow_philanthropinum_1774_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0034.xml">basedow_philanthropinum_1774_0034.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14580,7 +14561,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0016.xml">basedow_philanthropinum_1774_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0021.xml">basedow_philanthropinum_1774_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14599,7 +14580,26 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0041.xml">basedow_philanthropinum_1774_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0016.xml">basedow_philanthropinum_1774_0016.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0041.xml">basedow_philanthropinum_1774_0041.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14618,7 +14618,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0012.xml">basedow_philanthropinum_1774_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0012.xml">basedow_philanthropinum_1774_0012.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14637,7 +14637,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0008.xml">basedow_philanthropinum_1774_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0008.xml">basedow_philanthropinum_1774_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14656,7 +14656,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0045.xml">basedow_philanthropinum_1774_0045.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0045.xml">basedow_philanthropinum_1774_0045.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14675,7 +14675,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0011.xml">basedow_philanthropinum_1774_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/basedow_philanthropinum_1774/GT-PAGE/basedow_philanthropinum_1774_0011.xml">basedow_philanthropinum_1774_0011.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -14741,7 +14741,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0031.xml">arndt_christentum04_1610_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0031.xml">arndt_christentum04_1610_0031.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -14760,7 +14760,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0030.xml">arndt_christentum04_1610_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0030.xml">arndt_christentum04_1610_0030.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -14779,7 +14779,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0362.xml">arndt_christentum04_1610_0362.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0362.xml">arndt_christentum04_1610_0362.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -14798,7 +14798,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0005.xml">arndt_christentum04_1610_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0005.xml">arndt_christentum04_1610_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -14817,7 +14817,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0035.xml">arndt_christentum04_1610_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0035.xml">arndt_christentum04_1610_0035.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -14836,7 +14836,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0032.xml">arndt_christentum04_1610_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0032.xml">arndt_christentum04_1610_0032.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -14855,7 +14855,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0026.xml">arndt_christentum04_1610_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0026.xml">arndt_christentum04_1610_0026.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -14874,7 +14874,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0011.xml">arndt_christentum04_1610_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0011.xml">arndt_christentum04_1610_0011.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14893,7 +14893,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0015.xml">arndt_christentum04_1610_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0015.xml">arndt_christentum04_1610_0015.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -14912,7 +14912,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0034.xml">arndt_christentum04_1610_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0034.xml">arndt_christentum04_1610_0034.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -14931,7 +14931,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0012.xml">arndt_christentum04_1610_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0012.xml">arndt_christentum04_1610_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -14950,7 +14950,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0009.xml">arndt_christentum04_1610_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0009.xml">arndt_christentum04_1610_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -14969,7 +14969,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0024.xml">arndt_christentum04_1610_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0024.xml">arndt_christentum04_1610_0024.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -14988,7 +14988,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0028.xml">arndt_christentum04_1610_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0028.xml">arndt_christentum04_1610_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15007,7 +15007,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0025.xml">arndt_christentum04_1610_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0025.xml">arndt_christentum04_1610_0025.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15026,7 +15026,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0023.xml">arndt_christentum04_1610_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0023.xml">arndt_christentum04_1610_0023.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -15045,7 +15045,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0006.xml">arndt_christentum04_1610_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0006.xml">arndt_christentum04_1610_0006.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15064,7 +15064,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0007.xml">arndt_christentum04_1610_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0007.xml">arndt_christentum04_1610_0007.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -15083,7 +15083,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0008.xml">arndt_christentum04_1610_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0008.xml">arndt_christentum04_1610_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15102,7 +15102,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0013.xml">arndt_christentum04_1610_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0013.xml">arndt_christentum04_1610_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15121,7 +15121,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0016.xml">arndt_christentum04_1610_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0016.xml">arndt_christentum04_1610_0016.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15140,7 +15140,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0029.xml">arndt_christentum04_1610_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0029.xml">arndt_christentum04_1610_0029.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -15159,7 +15159,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0010.xml">arndt_christentum04_1610_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0010.xml">arndt_christentum04_1610_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15178,7 +15178,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0033.xml">arndt_christentum04_1610_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum04_1610/GT-PAGE/arndt_christentum04_1610_0033.xml">arndt_christentum04_1610_0033.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -15244,7 +15244,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1185.xml">arnold_ketzerhistorie01_1699_1185.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1185.xml">arnold_ketzerhistorie01_1699_1185.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15263,7 +15263,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1171.xml">arnold_ketzerhistorie01_1699_1171.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1171.xml">arnold_ketzerhistorie01_1699_1171.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15282,7 +15282,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0025.xml">arnold_ketzerhistorie01_1699_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0025.xml">arnold_ketzerhistorie01_1699_0025.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -15301,7 +15301,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1174.xml">arnold_ketzerhistorie01_1699_1174.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1174.xml">arnold_ketzerhistorie01_1699_1174.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15320,7 +15320,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0024.xml">arnold_ketzerhistorie01_1699_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0024.xml">arnold_ketzerhistorie01_1699_0024.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -15339,7 +15339,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0011.xml">arnold_ketzerhistorie01_1699_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0011.xml">arnold_ketzerhistorie01_1699_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15358,7 +15358,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1170.xml">arnold_ketzerhistorie01_1699_1170.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1170.xml">arnold_ketzerhistorie01_1699_1170.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15377,7 +15377,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0016.xml">arnold_ketzerhistorie01_1699_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0016.xml">arnold_ketzerhistorie01_1699_0016.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15396,7 +15396,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0023.xml">arnold_ketzerhistorie01_1699_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0023.xml">arnold_ketzerhistorie01_1699_0023.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -15415,7 +15415,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1209.xml">arnold_ketzerhistorie01_1699_1209.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1209.xml">arnold_ketzerhistorie01_1699_1209.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15434,7 +15434,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1176.xml">arnold_ketzerhistorie01_1699_1176.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1176.xml">arnold_ketzerhistorie01_1699_1176.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15453,7 +15453,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0013.xml">arnold_ketzerhistorie01_1699_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0013.xml">arnold_ketzerhistorie01_1699_0013.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15472,7 +15472,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1179.xml">arnold_ketzerhistorie01_1699_1179.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1179.xml">arnold_ketzerhistorie01_1699_1179.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15491,7 +15491,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1175.xml">arnold_ketzerhistorie01_1699_1175.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1175.xml">arnold_ketzerhistorie01_1699_1175.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15510,7 +15510,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1187.xml">arnold_ketzerhistorie01_1699_1187.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1187.xml">arnold_ketzerhistorie01_1699_1187.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15529,7 +15529,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1169.xml">arnold_ketzerhistorie01_1699_1169.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1169.xml">arnold_ketzerhistorie01_1699_1169.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -15548,7 +15548,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1189.xml">arnold_ketzerhistorie01_1699_1189.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1189.xml">arnold_ketzerhistorie01_1699_1189.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15567,7 +15567,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1172.xml">arnold_ketzerhistorie01_1699_1172.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1172.xml">arnold_ketzerhistorie01_1699_1172.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15586,7 +15586,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0014.xml">arnold_ketzerhistorie01_1699_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0014.xml">arnold_ketzerhistorie01_1699_0014.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15605,7 +15605,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0012.xml">arnold_ketzerhistorie01_1699_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0012.xml">arnold_ketzerhistorie01_1699_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15624,7 +15624,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1173.xml">arnold_ketzerhistorie01_1699_1173.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1173.xml">arnold_ketzerhistorie01_1699_1173.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15643,7 +15643,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0010.xml">arnold_ketzerhistorie01_1699_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0010.xml">arnold_ketzerhistorie01_1699_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15662,7 +15662,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0015.xml">arnold_ketzerhistorie01_1699_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0015.xml">arnold_ketzerhistorie01_1699_0015.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15681,7 +15681,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1178.xml">arnold_ketzerhistorie01_1699_1178.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1178.xml">arnold_ketzerhistorie01_1699_1178.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15700,7 +15700,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1181.xml">arnold_ketzerhistorie01_1699_1181.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1181.xml">arnold_ketzerhistorie01_1699_1181.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15719,7 +15719,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0007.xml">arnold_ketzerhistorie01_1699_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0007.xml">arnold_ketzerhistorie01_1699_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15738,7 +15738,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1177.xml">arnold_ketzerhistorie01_1699_1177.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_1177.xml">arnold_ketzerhistorie01_1699_1177.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -15804,7 +15804,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0015.xml">arndt_christentum02_1610_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0015.xml">arndt_christentum02_1610_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15823,7 +15823,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0010.xml">arndt_christentum02_1610_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0010.xml">arndt_christentum02_1610_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -15842,7 +15842,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0746.xml">arndt_christentum02_1610_0746.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0746.xml">arndt_christentum02_1610_0746.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -15861,7 +15861,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0018.xml">arndt_christentum02_1610_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0018.xml">arndt_christentum02_1610_0018.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -15880,7 +15880,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0020.xml">arndt_christentum02_1610_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0020.xml">arndt_christentum02_1610_0020.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -15899,7 +15899,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0748.xml">arndt_christentum02_1610_0748.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0748.xml">arndt_christentum02_1610_0748.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -15918,7 +15918,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0017.xml">arndt_christentum02_1610_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0017.xml">arndt_christentum02_1610_0017.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -15937,7 +15937,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0747.xml">arndt_christentum02_1610_0747.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0747.xml">arndt_christentum02_1610_0747.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15956,7 +15956,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0013.xml">arndt_christentum02_1610_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0013.xml">arndt_christentum02_1610_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -15975,7 +15975,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0030.xml">arndt_christentum02_1610_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0030.xml">arndt_christentum02_1610_0030.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -15994,7 +15994,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0014.xml">arndt_christentum02_1610_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0014.xml">arndt_christentum02_1610_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16013,7 +16013,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0012.xml">arndt_christentum02_1610_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0012.xml">arndt_christentum02_1610_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16032,7 +16032,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0028.xml">arndt_christentum02_1610_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0028.xml">arndt_christentum02_1610_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -16051,7 +16051,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0032.xml">arndt_christentum02_1610_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0032.xml">arndt_christentum02_1610_0032.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -16070,7 +16070,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0043.xml">arndt_christentum02_1610_0043.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0043.xml">arndt_christentum02_1610_0043.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -16089,7 +16089,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0045.xml">arndt_christentum02_1610_0045.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0045.xml">arndt_christentum02_1610_0045.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -16108,7 +16108,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0011.xml">arndt_christentum02_1610_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0011.xml">arndt_christentum02_1610_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16127,7 +16127,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0743.xml">arndt_christentum02_1610_0743.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0743.xml">arndt_christentum02_1610_0743.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -16146,7 +16146,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0046.xml">arndt_christentum02_1610_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0046.xml">arndt_christentum02_1610_0046.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -16165,7 +16165,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0038.xml">arndt_christentum02_1610_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0038.xml">arndt_christentum02_1610_0038.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16184,7 +16184,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0745.xml">arndt_christentum02_1610_0745.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0745.xml">arndt_christentum02_1610_0745.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16203,7 +16203,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0009.xml">arndt_christentum02_1610_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0009.xml">arndt_christentum02_1610_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16222,7 +16222,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0749.xml">arndt_christentum02_1610_0749.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0749.xml">arndt_christentum02_1610_0749.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -16241,7 +16241,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0026.xml">arndt_christentum02_1610_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0026.xml">arndt_christentum02_1610_0026.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -16260,7 +16260,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0022.xml">arndt_christentum02_1610_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0022.xml">arndt_christentum02_1610_0022.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -16279,7 +16279,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0744.xml">arndt_christentum02_1610_0744.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0744.xml">arndt_christentum02_1610_0744.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16298,7 +16298,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0016.xml">arndt_christentum02_1610_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0016.xml">arndt_christentum02_1610_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16317,7 +16317,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0029.xml">arndt_christentum02_1610_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum02_1610/GT-PAGE/arndt_christentum02_1610_0029.xml">arndt_christentum02_1610_0029.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -16383,7 +16383,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0034.xml">beck_eisen01_1884_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0034.xml">beck_eisen01_1884_0034.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -16402,7 +16402,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1027.xml">beck_eisen01_1884_1027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1027.xml">beck_eisen01_1884_1027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16421,7 +16421,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1033.xml">beck_eisen01_1884_1033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1033.xml">beck_eisen01_1884_1033.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -16440,7 +16440,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0024.xml">beck_eisen01_1884_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0024.xml">beck_eisen01_1884_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16459,7 +16459,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1032.xml">beck_eisen01_1884_1032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1032.xml">beck_eisen01_1884_1032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16478,7 +16478,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0021.xml">beck_eisen01_1884_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0021.xml">beck_eisen01_1884_0021.xml</a>
                            </td>
                            <td>31</td>
                            <td>0</td>
@@ -16497,7 +16497,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1063.xml">beck_eisen01_1884_1063.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1063.xml">beck_eisen01_1884_1063.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -16516,7 +16516,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1028.xml">beck_eisen01_1884_1028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1028.xml">beck_eisen01_1884_1028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16535,7 +16535,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1049.xml">beck_eisen01_1884_1049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1049.xml">beck_eisen01_1884_1049.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -16554,7 +16554,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1030.xml">beck_eisen01_1884_1030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1030.xml">beck_eisen01_1884_1030.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16573,7 +16573,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0028.xml">beck_eisen01_1884_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0028.xml">beck_eisen01_1884_0028.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -16592,7 +16592,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0029.xml">beck_eisen01_1884_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0029.xml">beck_eisen01_1884_0029.xml</a>
                            </td>
                            <td>39</td>
                            <td>0</td>
@@ -16611,7 +16611,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1047.xml">beck_eisen01_1884_1047.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1047.xml">beck_eisen01_1884_1047.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16630,7 +16630,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1031.xml">beck_eisen01_1884_1031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1031.xml">beck_eisen01_1884_1031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16649,7 +16649,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0027.xml">beck_eisen01_1884_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0027.xml">beck_eisen01_1884_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16668,7 +16668,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0031.xml">beck_eisen01_1884_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0031.xml">beck_eisen01_1884_0031.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -16687,7 +16687,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0035.xml">beck_eisen01_1884_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0035.xml">beck_eisen01_1884_0035.xml</a>
                            </td>
                            <td>19</td>
                            <td>0</td>
@@ -16706,7 +16706,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0026.xml">beck_eisen01_1884_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0026.xml">beck_eisen01_1884_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -16725,7 +16725,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0036.xml">beck_eisen01_1884_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_0036.xml">beck_eisen01_1884_0036.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -16744,7 +16744,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1029.xml">beck_eisen01_1884_1029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen01_1884/GT-PAGE/beck_eisen01_1884_1029.xml">beck_eisen01_1884_1029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16810,7 +16810,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0014.xml">bauller_lasterspiegel_1681_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0014.xml">bauller_lasterspiegel_1681_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -16829,7 +16829,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_1151.xml">bauller_lasterspiegel_1681_1151.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_1151.xml">bauller_lasterspiegel_1681_1151.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -16848,7 +16848,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0057.xml">bauller_lasterspiegel_1681_0057.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0057.xml">bauller_lasterspiegel_1681_0057.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16867,7 +16867,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0028.xml">bauller_lasterspiegel_1681_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0028.xml">bauller_lasterspiegel_1681_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -16886,7 +16886,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0065.xml">bauller_lasterspiegel_1681_0065.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0065.xml">bauller_lasterspiegel_1681_0065.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -16905,7 +16905,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0063.xml">bauller_lasterspiegel_1681_0063.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0063.xml">bauller_lasterspiegel_1681_0063.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16924,26 +16924,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0059.xml">bauller_lasterspiegel_1681_0059.xml</a>
-                           </td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0043.xml">bauller_lasterspiegel_1681_0043.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0059.xml">bauller_lasterspiegel_1681_0059.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16962,7 +16943,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0017.xml">bauller_lasterspiegel_1681_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0043.xml">bauller_lasterspiegel_1681_0043.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -16981,7 +16962,26 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0031.xml">bauller_lasterspiegel_1681_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0017.xml">bauller_lasterspiegel_1681_0017.xml</a>
+                           </td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0031.xml">bauller_lasterspiegel_1681_0031.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -17000,7 +17000,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0030.xml">bauller_lasterspiegel_1681_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0030.xml">bauller_lasterspiegel_1681_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17019,7 +17019,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0069.xml">bauller_lasterspiegel_1681_0069.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0069.xml">bauller_lasterspiegel_1681_0069.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17038,7 +17038,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0012.xml">bauller_lasterspiegel_1681_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0012.xml">bauller_lasterspiegel_1681_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17057,7 +17057,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0016.xml">bauller_lasterspiegel_1681_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0016.xml">bauller_lasterspiegel_1681_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17076,7 +17076,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0009.xml">bauller_lasterspiegel_1681_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0009.xml">bauller_lasterspiegel_1681_0009.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17095,7 +17095,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0033.xml">bauller_lasterspiegel_1681_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0033.xml">bauller_lasterspiegel_1681_0033.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17114,7 +17114,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0027.xml">bauller_lasterspiegel_1681_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0027.xml">bauller_lasterspiegel_1681_0027.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -17133,7 +17133,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0039.xml">bauller_lasterspiegel_1681_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0039.xml">bauller_lasterspiegel_1681_0039.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17152,7 +17152,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0051.xml">bauller_lasterspiegel_1681_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0051.xml">bauller_lasterspiegel_1681_0051.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17171,7 +17171,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0013.xml">bauller_lasterspiegel_1681_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0013.xml">bauller_lasterspiegel_1681_0013.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17190,7 +17190,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0011.xml">bauller_lasterspiegel_1681_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0011.xml">bauller_lasterspiegel_1681_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17209,7 +17209,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0035.xml">bauller_lasterspiegel_1681_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0035.xml">bauller_lasterspiegel_1681_0035.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17228,7 +17228,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0015.xml">bauller_lasterspiegel_1681_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0015.xml">bauller_lasterspiegel_1681_0015.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17247,7 +17247,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0029.xml">bauller_lasterspiegel_1681_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0029.xml">bauller_lasterspiegel_1681_0029.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -17266,7 +17266,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_1152.xml">bauller_lasterspiegel_1681_1152.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_1152.xml">bauller_lasterspiegel_1681_1152.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -17285,7 +17285,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0049.xml">bauller_lasterspiegel_1681_0049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0049.xml">bauller_lasterspiegel_1681_0049.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17304,7 +17304,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0018.xml">bauller_lasterspiegel_1681_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bauller_lasterspiegel_1681/GT-PAGE/bauller_lasterspiegel_1681_0018.xml">bauller_lasterspiegel_1681_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17370,7 +17370,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1351.xml">beck_eisen02_1895_1351.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1351.xml">beck_eisen02_1895_1351.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -17389,7 +17389,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0028.xml">beck_eisen02_1895_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0028.xml">beck_eisen02_1895_0028.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -17408,7 +17408,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1327.xml">beck_eisen02_1895_1327.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1327.xml">beck_eisen02_1895_1327.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17427,7 +17427,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0016.xml">beck_eisen02_1895_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0016.xml">beck_eisen02_1895_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17446,7 +17446,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0024.xml">beck_eisen02_1895_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0024.xml">beck_eisen02_1895_0024.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17465,7 +17465,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0026.xml">beck_eisen02_1895_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0026.xml">beck_eisen02_1895_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17484,7 +17484,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1337.xml">beck_eisen02_1895_1337.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1337.xml">beck_eisen02_1895_1337.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17503,7 +17503,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1328.xml">beck_eisen02_1895_1328.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1328.xml">beck_eisen02_1895_1328.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -17522,7 +17522,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0831.xml">beck_eisen02_1895_0831.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0831.xml">beck_eisen02_1895_0831.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -17541,7 +17541,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0012.xml">beck_eisen02_1895_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0012.xml">beck_eisen02_1895_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17560,7 +17560,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0029.xml">beck_eisen02_1895_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0029.xml">beck_eisen02_1895_0029.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -17579,7 +17579,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1335.xml">beck_eisen02_1895_1335.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1335.xml">beck_eisen02_1895_1335.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -17598,7 +17598,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0031.xml">beck_eisen02_1895_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0031.xml">beck_eisen02_1895_0031.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17617,7 +17617,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0030.xml">beck_eisen02_1895_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0030.xml">beck_eisen02_1895_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17636,7 +17636,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1354.xml">beck_eisen02_1895_1354.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1354.xml">beck_eisen02_1895_1354.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -17655,7 +17655,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1353.xml">beck_eisen02_1895_1353.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1353.xml">beck_eisen02_1895_1353.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17674,7 +17674,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0027.xml">beck_eisen02_1895_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0027.xml">beck_eisen02_1895_0027.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17693,7 +17693,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1147.xml">beck_eisen02_1895_1147.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1147.xml">beck_eisen02_1895_1147.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -17712,7 +17712,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1329.xml">beck_eisen02_1895_1329.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_1329.xml">beck_eisen02_1895_1329.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17731,7 +17731,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0830.xml">beck_eisen02_1895_0830.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen02_1895/GT-PAGE/beck_eisen02_1895_0830.xml">beck_eisen02_1895_0830.xml</a>
                            </td>
                            <td>1</td>
                            <td>0</td>
@@ -17797,7 +17797,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0018.xml">bastian_voelkergedanke_1881_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0018.xml">bastian_voelkergedanke_1881_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17816,7 +17816,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0020.xml">bastian_voelkergedanke_1881_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0020.xml">bastian_voelkergedanke_1881_0020.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17835,7 +17835,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0021.xml">bastian_voelkergedanke_1881_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0021.xml">bastian_voelkergedanke_1881_0021.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17854,7 +17854,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0019.xml">bastian_voelkergedanke_1881_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0019.xml">bastian_voelkergedanke_1881_0019.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17873,7 +17873,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0025.xml">bastian_voelkergedanke_1881_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0025.xml">bastian_voelkergedanke_1881_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17892,7 +17892,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0015.xml">bastian_voelkergedanke_1881_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0015.xml">bastian_voelkergedanke_1881_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -17911,7 +17911,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0013.xml">bastian_voelkergedanke_1881_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0013.xml">bastian_voelkergedanke_1881_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -17930,7 +17930,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0011.xml">bastian_voelkergedanke_1881_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0011.xml">bastian_voelkergedanke_1881_0011.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -17949,7 +17949,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0044.xml">bastian_voelkergedanke_1881_0044.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0044.xml">bastian_voelkergedanke_1881_0044.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -17968,7 +17968,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0014.xml">bastian_voelkergedanke_1881_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0014.xml">bastian_voelkergedanke_1881_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -17987,7 +17987,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0010.xml">bastian_voelkergedanke_1881_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0010.xml">bastian_voelkergedanke_1881_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18006,7 +18006,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0039.xml">bastian_voelkergedanke_1881_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0039.xml">bastian_voelkergedanke_1881_0039.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18025,7 +18025,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0041.xml">bastian_voelkergedanke_1881_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0041.xml">bastian_voelkergedanke_1881_0041.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18044,7 +18044,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0023.xml">bastian_voelkergedanke_1881_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0023.xml">bastian_voelkergedanke_1881_0023.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18063,7 +18063,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0030.xml">bastian_voelkergedanke_1881_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0030.xml">bastian_voelkergedanke_1881_0030.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18082,7 +18082,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0017.xml">bastian_voelkergedanke_1881_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0017.xml">bastian_voelkergedanke_1881_0017.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18101,7 +18101,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0032.xml">bastian_voelkergedanke_1881_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0032.xml">bastian_voelkergedanke_1881_0032.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -18120,7 +18120,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0029.xml">bastian_voelkergedanke_1881_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0029.xml">bastian_voelkergedanke_1881_0029.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18139,7 +18139,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0038.xml">bastian_voelkergedanke_1881_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0038.xml">bastian_voelkergedanke_1881_0038.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18158,7 +18158,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0012.xml">bastian_voelkergedanke_1881_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bastian_voelkergedanke_1881/GT-PAGE/bastian_voelkergedanke_1881_0012.xml">bastian_voelkergedanke_1881_0012.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18224,7 +18224,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0014.xml">becher_narrheit_1682_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0014.xml">becher_narrheit_1682_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18243,7 +18243,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0030.xml">becher_narrheit_1682_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0030.xml">becher_narrheit_1682_0030.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18262,7 +18262,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0034.xml">becher_narrheit_1682_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0034.xml">becher_narrheit_1682_0034.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18281,7 +18281,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0007.xml">becher_narrheit_1682_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0007.xml">becher_narrheit_1682_0007.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18300,7 +18300,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0015.xml">becher_narrheit_1682_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0015.xml">becher_narrheit_1682_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18319,7 +18319,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0035.xml">becher_narrheit_1682_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0035.xml">becher_narrheit_1682_0035.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18338,7 +18338,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0019.xml">becher_narrheit_1682_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0019.xml">becher_narrheit_1682_0019.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18357,7 +18357,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0013.xml">becher_narrheit_1682_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0013.xml">becher_narrheit_1682_0013.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18376,7 +18376,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0005.xml">becher_narrheit_1682_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0005.xml">becher_narrheit_1682_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18395,7 +18395,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0006.xml">becher_narrheit_1682_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0006.xml">becher_narrheit_1682_0006.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18414,7 +18414,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0004.xml">becher_narrheit_1682_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0004.xml">becher_narrheit_1682_0004.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18433,7 +18433,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0011.xml">becher_narrheit_1682_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0011.xml">becher_narrheit_1682_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18452,7 +18452,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0008.xml">becher_narrheit_1682_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0008.xml">becher_narrheit_1682_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18471,7 +18471,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0009.xml">becher_narrheit_1682_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0009.xml">becher_narrheit_1682_0009.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18490,7 +18490,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0029.xml">becher_narrheit_1682_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0029.xml">becher_narrheit_1682_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18509,7 +18509,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0003.xml">becher_narrheit_1682_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0003.xml">becher_narrheit_1682_0003.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18528,7 +18528,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0010.xml">becher_narrheit_1682_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0010.xml">becher_narrheit_1682_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18547,7 +18547,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0041.xml">becher_narrheit_1682_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0041.xml">becher_narrheit_1682_0041.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18566,7 +18566,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0027.xml">becher_narrheit_1682_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0027.xml">becher_narrheit_1682_0027.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18585,7 +18585,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0020.xml">becher_narrheit_1682_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0020.xml">becher_narrheit_1682_0020.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -18604,7 +18604,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0028.xml">becher_narrheit_1682_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_narrheit_1682/GT-PAGE/becher_narrheit_1682_0028.xml">becher_narrheit_1682_0028.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18670,7 +18670,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0027.xml">benner_herrnhuterey04_1748_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0027.xml">benner_herrnhuterey04_1748_0027.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18689,7 +18689,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0157.xml">benner_herrnhuterey04_1748_0157.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0157.xml">benner_herrnhuterey04_1748_0157.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -18708,7 +18708,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0003.xml">benner_herrnhuterey04_1748_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0003.xml">benner_herrnhuterey04_1748_0003.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18727,7 +18727,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0004.xml">benner_herrnhuterey04_1748_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0004.xml">benner_herrnhuterey04_1748_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -18746,7 +18746,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0029.xml">benner_herrnhuterey04_1748_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0029.xml">benner_herrnhuterey04_1748_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18765,7 +18765,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0023.xml">benner_herrnhuterey04_1748_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0023.xml">benner_herrnhuterey04_1748_0023.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18784,7 +18784,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0018.xml">benner_herrnhuterey04_1748_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0018.xml">benner_herrnhuterey04_1748_0018.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18803,7 +18803,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0007.xml">benner_herrnhuterey04_1748_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0007.xml">benner_herrnhuterey04_1748_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18822,7 +18822,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0013.xml">benner_herrnhuterey04_1748_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0013.xml">benner_herrnhuterey04_1748_0013.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -18841,7 +18841,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0024.xml">benner_herrnhuterey04_1748_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0024.xml">benner_herrnhuterey04_1748_0024.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18860,7 +18860,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0011.xml">benner_herrnhuterey04_1748_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0011.xml">benner_herrnhuterey04_1748_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18879,7 +18879,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0128.xml">benner_herrnhuterey04_1748_0128.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0128.xml">benner_herrnhuterey04_1748_0128.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -18898,7 +18898,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0125.xml">benner_herrnhuterey04_1748_0125.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0125.xml">benner_herrnhuterey04_1748_0125.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18917,7 +18917,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0016.xml">benner_herrnhuterey04_1748_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0016.xml">benner_herrnhuterey04_1748_0016.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -18936,7 +18936,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0030.xml">benner_herrnhuterey04_1748_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0030.xml">benner_herrnhuterey04_1748_0030.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -18955,7 +18955,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0026.xml">benner_herrnhuterey04_1748_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0026.xml">benner_herrnhuterey04_1748_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -18974,7 +18974,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0010.xml">benner_herrnhuterey04_1748_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0010.xml">benner_herrnhuterey04_1748_0010.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -18993,7 +18993,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0005.xml">benner_herrnhuterey04_1748_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0005.xml">benner_herrnhuterey04_1748_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19012,7 +19012,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0022.xml">benner_herrnhuterey04_1748_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0022.xml">benner_herrnhuterey04_1748_0022.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -19031,7 +19031,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0008.xml">benner_herrnhuterey04_1748_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0008.xml">benner_herrnhuterey04_1748_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19050,7 +19050,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0028.xml">benner_herrnhuterey04_1748_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0028.xml">benner_herrnhuterey04_1748_0028.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19069,7 +19069,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0006.xml">benner_herrnhuterey04_1748_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0006.xml">benner_herrnhuterey04_1748_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19088,7 +19088,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0001.xml">benner_herrnhuterey04_1748_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0001.xml">benner_herrnhuterey04_1748_0001.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19107,7 +19107,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0072.xml">benner_herrnhuterey04_1748_0072.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0072.xml">benner_herrnhuterey04_1748_0072.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -19126,7 +19126,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0020.xml">benner_herrnhuterey04_1748_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0020.xml">benner_herrnhuterey04_1748_0020.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -19145,7 +19145,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0009.xml">benner_herrnhuterey04_1748_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0009.xml">benner_herrnhuterey04_1748_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19211,7 +19211,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0013.xml">benner_herrnhuterey01_1746_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0013.xml">benner_herrnhuterey01_1746_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19230,7 +19230,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0014.xml">benner_herrnhuterey01_1746_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0014.xml">benner_herrnhuterey01_1746_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19249,7 +19249,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0001.xml">benner_herrnhuterey01_1746_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0001.xml">benner_herrnhuterey01_1746_0001.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19268,7 +19268,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0051.xml">benner_herrnhuterey01_1746_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0051.xml">benner_herrnhuterey01_1746_0051.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19287,7 +19287,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0003.xml">benner_herrnhuterey01_1746_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0003.xml">benner_herrnhuterey01_1746_0003.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19306,7 +19306,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0005.xml">benner_herrnhuterey01_1746_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0005.xml">benner_herrnhuterey01_1746_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19325,7 +19325,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0009.xml">benner_herrnhuterey01_1746_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0009.xml">benner_herrnhuterey01_1746_0009.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -19344,7 +19344,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0083.xml">benner_herrnhuterey01_1746_0083.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0083.xml">benner_herrnhuterey01_1746_0083.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19363,7 +19363,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0109.xml">benner_herrnhuterey01_1746_0109.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0109.xml">benner_herrnhuterey01_1746_0109.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19382,7 +19382,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0155.xml">benner_herrnhuterey01_1746_0155.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0155.xml">benner_herrnhuterey01_1746_0155.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19401,7 +19401,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0011.xml">benner_herrnhuterey01_1746_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0011.xml">benner_herrnhuterey01_1746_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19420,7 +19420,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0008.xml">benner_herrnhuterey01_1746_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0008.xml">benner_herrnhuterey01_1746_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19439,7 +19439,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0027.xml">benner_herrnhuterey01_1746_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0027.xml">benner_herrnhuterey01_1746_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19458,7 +19458,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0085.xml">benner_herrnhuterey01_1746_0085.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0085.xml">benner_herrnhuterey01_1746_0085.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19477,7 +19477,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0007.xml">benner_herrnhuterey01_1746_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0007.xml">benner_herrnhuterey01_1746_0007.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -19496,7 +19496,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0125.xml">benner_herrnhuterey01_1746_0125.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0125.xml">benner_herrnhuterey01_1746_0125.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -19515,7 +19515,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0033.xml">benner_herrnhuterey01_1746_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0033.xml">benner_herrnhuterey01_1746_0033.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -19534,7 +19534,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0084.xml">benner_herrnhuterey01_1746_0084.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0084.xml">benner_herrnhuterey01_1746_0084.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19553,7 +19553,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0169.xml">benner_herrnhuterey01_1746_0169.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0169.xml">benner_herrnhuterey01_1746_0169.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19572,7 +19572,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0006.xml">benner_herrnhuterey01_1746_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0006.xml">benner_herrnhuterey01_1746_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19591,7 +19591,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0004.xml">benner_herrnhuterey01_1746_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0004.xml">benner_herrnhuterey01_1746_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19610,7 +19610,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0010.xml">benner_herrnhuterey01_1746_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0010.xml">benner_herrnhuterey01_1746_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19629,7 +19629,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0018.xml">benner_herrnhuterey01_1746_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey01_1746/GT-PAGE/benner_herrnhuterey01_1746_0018.xml">benner_herrnhuterey01_1746_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -19695,7 +19695,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0694.xml">abschatz_gedichte_1704_0694.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0694.xml">abschatz_gedichte_1704_0694.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -19714,7 +19714,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0007.xml">abschatz_gedichte_1704_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0007.xml">abschatz_gedichte_1704_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -19733,7 +19733,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0048.xml">abschatz_gedichte_1704_0048.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0048.xml">abschatz_gedichte_1704_0048.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -19752,7 +19752,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0011.xml">abschatz_gedichte_1704_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0011.xml">abschatz_gedichte_1704_0011.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19771,7 +19771,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0008.xml">abschatz_gedichte_1704_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0008.xml">abschatz_gedichte_1704_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19790,7 +19790,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0464.xml">abschatz_gedichte_1704_0464.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0464.xml">abschatz_gedichte_1704_0464.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -19809,7 +19809,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0013.xml">abschatz_gedichte_1704_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0013.xml">abschatz_gedichte_1704_0013.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -19828,7 +19828,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0015.xml">abschatz_gedichte_1704_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0015.xml">abschatz_gedichte_1704_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19847,7 +19847,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0577.xml">abschatz_gedichte_1704_0577.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0577.xml">abschatz_gedichte_1704_0577.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -19866,7 +19866,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0415.xml">abschatz_gedichte_1704_0415.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0415.xml">abschatz_gedichte_1704_0415.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -19885,7 +19885,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0576.xml">abschatz_gedichte_1704_0576.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0576.xml">abschatz_gedichte_1704_0576.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -19904,7 +19904,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0575.xml">abschatz_gedichte_1704_0575.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0575.xml">abschatz_gedichte_1704_0575.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -19923,7 +19923,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0508.xml">abschatz_gedichte_1704_0508.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0508.xml">abschatz_gedichte_1704_0508.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -19942,7 +19942,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0543.xml">abschatz_gedichte_1704_0543.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0543.xml">abschatz_gedichte_1704_0543.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -19961,7 +19961,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0405.xml">abschatz_gedichte_1704_0405.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0405.xml">abschatz_gedichte_1704_0405.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -19980,7 +19980,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0012.xml">abschatz_gedichte_1704_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0012.xml">abschatz_gedichte_1704_0012.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -19999,7 +19999,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0690.xml">abschatz_gedichte_1704_0690.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0690.xml">abschatz_gedichte_1704_0690.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -20018,7 +20018,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0435.xml">abschatz_gedichte_1704_0435.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0435.xml">abschatz_gedichte_1704_0435.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -20037,7 +20037,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0401.xml">abschatz_gedichte_1704_0401.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0401.xml">abschatz_gedichte_1704_0401.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -20056,7 +20056,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0544.xml">abschatz_gedichte_1704_0544.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0544.xml">abschatz_gedichte_1704_0544.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -20075,7 +20075,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0009.xml">abschatz_gedichte_1704_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0009.xml">abschatz_gedichte_1704_0009.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -20094,7 +20094,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0409.xml">abschatz_gedichte_1704_0409.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0409.xml">abschatz_gedichte_1704_0409.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -20113,7 +20113,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0005.xml">abschatz_gedichte_1704_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0005.xml">abschatz_gedichte_1704_0005.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20132,7 +20132,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0507.xml">abschatz_gedichte_1704_0507.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0507.xml">abschatz_gedichte_1704_0507.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20151,7 +20151,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0686.xml">abschatz_gedichte_1704_0686.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0686.xml">abschatz_gedichte_1704_0686.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -20170,7 +20170,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0503.xml">abschatz_gedichte_1704_0503.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0503.xml">abschatz_gedichte_1704_0503.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -20189,7 +20189,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0465.xml">abschatz_gedichte_1704_0465.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0465.xml">abschatz_gedichte_1704_0465.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -20208,7 +20208,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0010.xml">abschatz_gedichte_1704_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0010.xml">abschatz_gedichte_1704_0010.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -20227,7 +20227,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0697.xml">abschatz_gedichte_1704_0697.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0697.xml">abschatz_gedichte_1704_0697.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -20246,7 +20246,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0014.xml">abschatz_gedichte_1704_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/abschatz_gedichte_1704/GT-PAGE/abschatz_gedichte_1704_0014.xml">abschatz_gedichte_1704_0014.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -20312,7 +20312,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0036.xml">alexis_ruhe01_1852_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0036.xml">alexis_ruhe01_1852_0036.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20331,7 +20331,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0024.xml">alexis_ruhe01_1852_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0024.xml">alexis_ruhe01_1852_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20350,7 +20350,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0111.xml">alexis_ruhe01_1852_0111.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0111.xml">alexis_ruhe01_1852_0111.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20369,7 +20369,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0320.xml">alexis_ruhe01_1852_0320.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0320.xml">alexis_ruhe01_1852_0320.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20388,7 +20388,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0069.xml">alexis_ruhe01_1852_0069.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0069.xml">alexis_ruhe01_1852_0069.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20407,7 +20407,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0127.xml">alexis_ruhe01_1852_0127.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0127.xml">alexis_ruhe01_1852_0127.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -20426,7 +20426,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0034.xml">alexis_ruhe01_1852_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0034.xml">alexis_ruhe01_1852_0034.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -20445,7 +20445,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0056.xml">alexis_ruhe01_1852_0056.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0056.xml">alexis_ruhe01_1852_0056.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20464,7 +20464,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0032.xml">alexis_ruhe01_1852_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0032.xml">alexis_ruhe01_1852_0032.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -20483,7 +20483,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0020.xml">alexis_ruhe01_1852_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0020.xml">alexis_ruhe01_1852_0020.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20502,7 +20502,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0063.xml">alexis_ruhe01_1852_0063.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0063.xml">alexis_ruhe01_1852_0063.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20521,7 +20521,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0026.xml">alexis_ruhe01_1852_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0026.xml">alexis_ruhe01_1852_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20540,7 +20540,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0016.xml">alexis_ruhe01_1852_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0016.xml">alexis_ruhe01_1852_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20559,7 +20559,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0018.xml">alexis_ruhe01_1852_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0018.xml">alexis_ruhe01_1852_0018.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20578,7 +20578,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0216.xml">alexis_ruhe01_1852_0216.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0216.xml">alexis_ruhe01_1852_0216.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20597,7 +20597,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0030.xml">alexis_ruhe01_1852_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0030.xml">alexis_ruhe01_1852_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20616,7 +20616,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0218.xml">alexis_ruhe01_1852_0218.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0218.xml">alexis_ruhe01_1852_0218.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20635,7 +20635,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0022.xml">alexis_ruhe01_1852_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0022.xml">alexis_ruhe01_1852_0022.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20654,7 +20654,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0038.xml">alexis_ruhe01_1852_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0038.xml">alexis_ruhe01_1852_0038.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20673,7 +20673,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0350.xml">alexis_ruhe01_1852_0350.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe01_1852/GT-PAGE/alexis_ruhe01_1852_0350.xml">alexis_ruhe01_1852_0350.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20739,7 +20739,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0047.xml">arndt_christentum01_1610_0047.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0047.xml">arndt_christentum01_1610_0047.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -20758,7 +20758,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0014.xml">arndt_christentum01_1610_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0014.xml">arndt_christentum01_1610_0014.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20777,7 +20777,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0046.xml">arndt_christentum01_1610_0046.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0046.xml">arndt_christentum01_1610_0046.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20796,7 +20796,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0015.xml">arndt_christentum01_1610_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0015.xml">arndt_christentum01_1610_0015.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20815,7 +20815,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0048.xml">arndt_christentum01_1610_0048.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0048.xml">arndt_christentum01_1610_0048.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20834,7 +20834,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0009.xml">arndt_christentum01_1610_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0009.xml">arndt_christentum01_1610_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20853,7 +20853,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0022.xml">arndt_christentum01_1610_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0022.xml">arndt_christentum01_1610_0022.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -20872,7 +20872,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0024.xml">arndt_christentum01_1610_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0024.xml">arndt_christentum01_1610_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -20891,7 +20891,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0008.xml">arndt_christentum01_1610_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0008.xml">arndt_christentum01_1610_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -20910,7 +20910,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0051.xml">arndt_christentum01_1610_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0051.xml">arndt_christentum01_1610_0051.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20929,7 +20929,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0040.xml">arndt_christentum01_1610_0040.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0040.xml">arndt_christentum01_1610_0040.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -20948,7 +20948,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0049.xml">arndt_christentum01_1610_0049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0049.xml">arndt_christentum01_1610_0049.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -20967,102 +20967,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0023.xml">arndt_christentum01_1610_0023.xml</a>
-                           </td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0011.xml">arndt_christentum01_1610_0011.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0035.xml">arndt_christentum01_1610_0035.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0037.xml">arndt_christentum01_1610_0037.xml</a>
-                           </td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0016.xml">arndt_christentum01_1610_0016.xml</a>
-                           </td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0038.xml">arndt_christentum01_1610_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0023.xml">arndt_christentum01_1610_0023.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21081,7 +20986,64 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0010.xml">arndt_christentum01_1610_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0011.xml">arndt_christentum01_1610_0011.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0035.xml">arndt_christentum01_1610_0035.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0037.xml">arndt_christentum01_1610_0037.xml</a>
+                           </td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0016.xml">arndt_christentum01_1610_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21100,7 +21062,45 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0025.xml">arndt_christentum01_1610_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0038.xml">arndt_christentum01_1610_0038.xml</a>
+                           </td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0010.xml">arndt_christentum01_1610_0010.xml</a>
+                           </td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0025.xml">arndt_christentum01_1610_0025.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -21119,7 +21119,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0013.xml">arndt_christentum01_1610_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0013.xml">arndt_christentum01_1610_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21138,7 +21138,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0050.xml">arndt_christentum01_1610_0050.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0050.xml">arndt_christentum01_1610_0050.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21157,7 +21157,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0012.xml">arndt_christentum01_1610_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0012.xml">arndt_christentum01_1610_0012.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21176,7 +21176,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0034.xml">arndt_christentum01_1610_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0034.xml">arndt_christentum01_1610_0034.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21195,7 +21195,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0036.xml">arndt_christentum01_1610_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum01_1610/GT-PAGE/arndt_christentum01_1610_0036.xml">arndt_christentum01_1610_0036.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21261,7 +21261,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0032.xml">arndt_christentum03_1610_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0032.xml">arndt_christentum03_1610_0032.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21280,7 +21280,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0010.xml">arndt_christentum03_1610_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0010.xml">arndt_christentum03_1610_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21299,7 +21299,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0037.xml">arndt_christentum03_1610_0037.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0037.xml">arndt_christentum03_1610_0037.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -21318,7 +21318,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0041.xml">arndt_christentum03_1610_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0041.xml">arndt_christentum03_1610_0041.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21337,7 +21337,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0031.xml">arndt_christentum03_1610_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0031.xml">arndt_christentum03_1610_0031.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21356,7 +21356,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0013.xml">arndt_christentum03_1610_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0013.xml">arndt_christentum03_1610_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21375,7 +21375,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0016.xml">arndt_christentum03_1610_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0016.xml">arndt_christentum03_1610_0016.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21394,7 +21394,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0030.xml">arndt_christentum03_1610_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0030.xml">arndt_christentum03_1610_0030.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -21413,7 +21413,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0017.xml">arndt_christentum03_1610_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0017.xml">arndt_christentum03_1610_0017.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21432,7 +21432,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0039.xml">arndt_christentum03_1610_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0039.xml">arndt_christentum03_1610_0039.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -21451,7 +21451,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0034.xml">arndt_christentum03_1610_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0034.xml">arndt_christentum03_1610_0034.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -21470,7 +21470,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0023.xml">arndt_christentum03_1610_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0023.xml">arndt_christentum03_1610_0023.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -21489,7 +21489,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0029.xml">arndt_christentum03_1610_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0029.xml">arndt_christentum03_1610_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21508,7 +21508,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0007.xml">arndt_christentum03_1610_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0007.xml">arndt_christentum03_1610_0007.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21527,7 +21527,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0005.xml">arndt_christentum03_1610_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0005.xml">arndt_christentum03_1610_0005.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21546,7 +21546,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0022.xml">arndt_christentum03_1610_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0022.xml">arndt_christentum03_1610_0022.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -21565,7 +21565,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0008.xml">arndt_christentum03_1610_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0008.xml">arndt_christentum03_1610_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21584,7 +21584,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0009.xml">arndt_christentum03_1610_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0009.xml">arndt_christentum03_1610_0009.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21603,7 +21603,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0021.xml">arndt_christentum03_1610_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0021.xml">arndt_christentum03_1610_0021.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -21622,7 +21622,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0027.xml">arndt_christentum03_1610_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0027.xml">arndt_christentum03_1610_0027.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -21641,7 +21641,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0217.xml">arndt_christentum03_1610_0217.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0217.xml">arndt_christentum03_1610_0217.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21660,7 +21660,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0012.xml">arndt_christentum03_1610_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0012.xml">arndt_christentum03_1610_0012.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21679,7 +21679,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0006.xml">arndt_christentum03_1610_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0006.xml">arndt_christentum03_1610_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21698,7 +21698,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0033.xml">arndt_christentum03_1610_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0033.xml">arndt_christentum03_1610_0033.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -21717,7 +21717,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0026.xml">arndt_christentum03_1610_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0026.xml">arndt_christentum03_1610_0026.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -21736,7 +21736,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0011.xml">arndt_christentum03_1610_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arndt_christentum03_1610/GT-PAGE/arndt_christentum03_1610_0011.xml">arndt_christentum03_1610_0011.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -21802,7 +21802,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0009.xml">becher_discurs_1668_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0009.xml">becher_discurs_1668_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21821,7 +21821,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0029.xml">becher_discurs_1668_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0029.xml">becher_discurs_1668_0029.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21840,7 +21840,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0034.xml">becher_discurs_1668_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0034.xml">becher_discurs_1668_0034.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21859,7 +21859,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0015.xml">becher_discurs_1668_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0015.xml">becher_discurs_1668_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -21878,7 +21878,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0031.xml">becher_discurs_1668_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0031.xml">becher_discurs_1668_0031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21897,7 +21897,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0023.xml">becher_discurs_1668_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0023.xml">becher_discurs_1668_0023.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21916,7 +21916,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0013.xml">becher_discurs_1668_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0013.xml">becher_discurs_1668_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21935,7 +21935,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0035.xml">becher_discurs_1668_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0035.xml">becher_discurs_1668_0035.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -21954,7 +21954,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0038.xml">becher_discurs_1668_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0038.xml">becher_discurs_1668_0038.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -21973,7 +21973,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0027.xml">becher_discurs_1668_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0027.xml">becher_discurs_1668_0027.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -21992,7 +21992,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0025.xml">becher_discurs_1668_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0025.xml">becher_discurs_1668_0025.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22011,7 +22011,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0021.xml">becher_discurs_1668_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0021.xml">becher_discurs_1668_0021.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22030,7 +22030,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0037.xml">becher_discurs_1668_0037.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0037.xml">becher_discurs_1668_0037.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22049,7 +22049,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0012.xml">becher_discurs_1668_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0012.xml">becher_discurs_1668_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22068,7 +22068,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0007.xml">becher_discurs_1668_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0007.xml">becher_discurs_1668_0007.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22087,7 +22087,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0008.xml">becher_discurs_1668_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0008.xml">becher_discurs_1668_0008.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22106,7 +22106,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0020.xml">becher_discurs_1668_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0020.xml">becher_discurs_1668_0020.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22125,7 +22125,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0014.xml">becher_discurs_1668_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0014.xml">becher_discurs_1668_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22144,7 +22144,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0010.xml">becher_discurs_1668_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0010.xml">becher_discurs_1668_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22163,7 +22163,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0032.xml">becher_discurs_1668_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0032.xml">becher_discurs_1668_0032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22182,7 +22182,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0017.xml">becher_discurs_1668_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0017.xml">becher_discurs_1668_0017.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22201,7 +22201,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0033.xml">becher_discurs_1668_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0033.xml">becher_discurs_1668_0033.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22220,7 +22220,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0036.xml">becher_discurs_1668_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0036.xml">becher_discurs_1668_0036.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22239,7 +22239,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0028.xml">becher_discurs_1668_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0028.xml">becher_discurs_1668_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22258,7 +22258,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0011.xml">becher_discurs_1668_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/becher_discurs_1668/GT-PAGE/becher_discurs_1668_0011.xml">becher_discurs_1668_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22324,7 +22324,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0010.xml">benner_herrnhuterey02_1747_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0010.xml">benner_herrnhuterey02_1747_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22343,7 +22343,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0217.xml">benner_herrnhuterey02_1747_0217.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0217.xml">benner_herrnhuterey02_1747_0217.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22362,7 +22362,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0006.xml">benner_herrnhuterey02_1747_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0006.xml">benner_herrnhuterey02_1747_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22381,7 +22381,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0004.xml">benner_herrnhuterey02_1747_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0004.xml">benner_herrnhuterey02_1747_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22400,7 +22400,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0207.xml">benner_herrnhuterey02_1747_0207.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0207.xml">benner_herrnhuterey02_1747_0207.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22419,7 +22419,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0030.xml">benner_herrnhuterey02_1747_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0030.xml">benner_herrnhuterey02_1747_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22438,7 +22438,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0017.xml">benner_herrnhuterey02_1747_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0017.xml">benner_herrnhuterey02_1747_0017.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -22457,7 +22457,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0008.xml">benner_herrnhuterey02_1747_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0008.xml">benner_herrnhuterey02_1747_0008.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22476,7 +22476,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0211.xml">benner_herrnhuterey02_1747_0211.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0211.xml">benner_herrnhuterey02_1747_0211.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22495,7 +22495,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0009.xml">benner_herrnhuterey02_1747_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0009.xml">benner_herrnhuterey02_1747_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22514,7 +22514,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0018.xml">benner_herrnhuterey02_1747_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0018.xml">benner_herrnhuterey02_1747_0018.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -22533,7 +22533,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0210.xml">benner_herrnhuterey02_1747_0210.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0210.xml">benner_herrnhuterey02_1747_0210.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22552,7 +22552,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0206.xml">benner_herrnhuterey02_1747_0206.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0206.xml">benner_herrnhuterey02_1747_0206.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22571,7 +22571,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0003.xml">benner_herrnhuterey02_1747_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0003.xml">benner_herrnhuterey02_1747_0003.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22590,7 +22590,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0011.xml">benner_herrnhuterey02_1747_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0011.xml">benner_herrnhuterey02_1747_0011.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -22609,7 +22609,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0028.xml">benner_herrnhuterey02_1747_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0028.xml">benner_herrnhuterey02_1747_0028.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22628,7 +22628,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0001.xml">benner_herrnhuterey02_1747_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0001.xml">benner_herrnhuterey02_1747_0001.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22647,7 +22647,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0012.xml">benner_herrnhuterey02_1747_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0012.xml">benner_herrnhuterey02_1747_0012.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22666,7 +22666,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0203.xml">benner_herrnhuterey02_1747_0203.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0203.xml">benner_herrnhuterey02_1747_0203.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22685,7 +22685,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0015.xml">benner_herrnhuterey02_1747_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0015.xml">benner_herrnhuterey02_1747_0015.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -22704,7 +22704,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0171.xml">benner_herrnhuterey02_1747_0171.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0171.xml">benner_herrnhuterey02_1747_0171.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22723,7 +22723,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0016.xml">benner_herrnhuterey02_1747_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0016.xml">benner_herrnhuterey02_1747_0016.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22742,7 +22742,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0005.xml">benner_herrnhuterey02_1747_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0005.xml">benner_herrnhuterey02_1747_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22761,7 +22761,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0014.xml">benner_herrnhuterey02_1747_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0014.xml">benner_herrnhuterey02_1747_0014.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -22780,7 +22780,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0007.xml">benner_herrnhuterey02_1747_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/benner_herrnhuterey02_1747/GT-PAGE/benner_herrnhuterey02_1747_0007.xml">benner_herrnhuterey02_1747_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22846,7 +22846,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0012.xml">albertinus_landtstoertzer01_1615_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0012.xml">albertinus_landtstoertzer01_1615_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22865,7 +22865,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0017.xml">albertinus_landtstoertzer01_1615_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0017.xml">albertinus_landtstoertzer01_1615_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22884,7 +22884,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0011.xml">albertinus_landtstoertzer01_1615_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0011.xml">albertinus_landtstoertzer01_1615_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22903,7 +22903,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0748.xml">albertinus_landtstoertzer01_1615_0748.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0748.xml">albertinus_landtstoertzer01_1615_0748.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -22922,7 +22922,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0016.xml">albertinus_landtstoertzer01_1615_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0016.xml">albertinus_landtstoertzer01_1615_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -22941,7 +22941,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0015.xml">albertinus_landtstoertzer01_1615_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0015.xml">albertinus_landtstoertzer01_1615_0015.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22960,7 +22960,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0028.xml">albertinus_landtstoertzer01_1615_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0028.xml">albertinus_landtstoertzer01_1615_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -22979,7 +22979,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0013.xml">albertinus_landtstoertzer01_1615_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0013.xml">albertinus_landtstoertzer01_1615_0013.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -22998,7 +22998,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0019.xml">albertinus_landtstoertzer01_1615_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0019.xml">albertinus_landtstoertzer01_1615_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23017,7 +23017,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0029.xml">albertinus_landtstoertzer01_1615_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0029.xml">albertinus_landtstoertzer01_1615_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23036,7 +23036,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0024.xml">albertinus_landtstoertzer01_1615_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0024.xml">albertinus_landtstoertzer01_1615_0024.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23055,7 +23055,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0747.xml">albertinus_landtstoertzer01_1615_0747.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0747.xml">albertinus_landtstoertzer01_1615_0747.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -23074,7 +23074,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0030.xml">albertinus_landtstoertzer01_1615_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0030.xml">albertinus_landtstoertzer01_1615_0030.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23093,7 +23093,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0031.xml">albertinus_landtstoertzer01_1615_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0031.xml">albertinus_landtstoertzer01_1615_0031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23112,7 +23112,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0026.xml">albertinus_landtstoertzer01_1615_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0026.xml">albertinus_landtstoertzer01_1615_0026.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23131,7 +23131,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0750.xml">albertinus_landtstoertzer01_1615_0750.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0750.xml">albertinus_landtstoertzer01_1615_0750.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -23150,7 +23150,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0749.xml">albertinus_landtstoertzer01_1615_0749.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0749.xml">albertinus_landtstoertzer01_1615_0749.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -23169,7 +23169,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0751.xml">albertinus_landtstoertzer01_1615_0751.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0751.xml">albertinus_landtstoertzer01_1615_0751.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -23188,7 +23188,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0014.xml">albertinus_landtstoertzer01_1615_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0014.xml">albertinus_landtstoertzer01_1615_0014.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23207,7 +23207,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0752.xml">albertinus_landtstoertzer01_1615_0752.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0752.xml">albertinus_landtstoertzer01_1615_0752.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -23226,7 +23226,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0025.xml">albertinus_landtstoertzer01_1615_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0025.xml">albertinus_landtstoertzer01_1615_0025.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23245,7 +23245,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0018.xml">albertinus_landtstoertzer01_1615_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0018.xml">albertinus_landtstoertzer01_1615_0018.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23264,7 +23264,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0009.xml">albertinus_landtstoertzer01_1615_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0009.xml">albertinus_landtstoertzer01_1615_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23283,7 +23283,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0746.xml">albertinus_landtstoertzer01_1615_0746.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/albertinus_landtstoertzer01_1615/GT-PAGE/albertinus_landtstoertzer01_1615_0746.xml">albertinus_landtstoertzer01_1615_0746.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -23349,7 +23349,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0029.xml">anthus_esskunst_1838_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0029.xml">anthus_esskunst_1838_0029.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23368,7 +23368,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0027.xml">anthus_esskunst_1838_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0027.xml">anthus_esskunst_1838_0027.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -23387,7 +23387,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0018.xml">anthus_esskunst_1838_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0018.xml">anthus_esskunst_1838_0018.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -23406,7 +23406,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0026.xml">anthus_esskunst_1838_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0026.xml">anthus_esskunst_1838_0026.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23425,7 +23425,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0023.xml">anthus_esskunst_1838_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0023.xml">anthus_esskunst_1838_0023.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23444,7 +23444,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0022.xml">anthus_esskunst_1838_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0022.xml">anthus_esskunst_1838_0022.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23463,7 +23463,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0010.xml">anthus_esskunst_1838_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0010.xml">anthus_esskunst_1838_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23482,7 +23482,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0028.xml">anthus_esskunst_1838_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0028.xml">anthus_esskunst_1838_0028.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23501,7 +23501,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0016.xml">anthus_esskunst_1838_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0016.xml">anthus_esskunst_1838_0016.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -23520,7 +23520,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0017.xml">anthus_esskunst_1838_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0017.xml">anthus_esskunst_1838_0017.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -23539,7 +23539,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0025.xml">anthus_esskunst_1838_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0025.xml">anthus_esskunst_1838_0025.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -23558,7 +23558,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0020.xml">anthus_esskunst_1838_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0020.xml">anthus_esskunst_1838_0020.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -23577,7 +23577,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0031.xml">anthus_esskunst_1838_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0031.xml">anthus_esskunst_1838_0031.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -23596,7 +23596,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0019.xml">anthus_esskunst_1838_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0019.xml">anthus_esskunst_1838_0019.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23615,7 +23615,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0032.xml">anthus_esskunst_1838_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0032.xml">anthus_esskunst_1838_0032.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23634,7 +23634,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0033.xml">anthus_esskunst_1838_0033.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0033.xml">anthus_esskunst_1838_0033.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23653,7 +23653,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0011.xml">anthus_esskunst_1838_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0011.xml">anthus_esskunst_1838_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23672,7 +23672,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0024.xml">anthus_esskunst_1838_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0024.xml">anthus_esskunst_1838_0024.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23691,7 +23691,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0021.xml">anthus_esskunst_1838_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0021.xml">anthus_esskunst_1838_0021.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23710,7 +23710,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0030.xml">anthus_esskunst_1838_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/anthus_esskunst_1838/GT-PAGE/anthus_esskunst_1838_0030.xml">anthus_esskunst_1838_0030.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -23776,7 +23776,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0029.xml">barclay_argenis_1626_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0029.xml">barclay_argenis_1626_0029.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -23795,7 +23795,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0013.xml">barclay_argenis_1626_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0013.xml">barclay_argenis_1626_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23814,7 +23814,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0047.xml">barclay_argenis_1626_0047.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0047.xml">barclay_argenis_1626_0047.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23833,7 +23833,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0052.xml">barclay_argenis_1626_0052.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0052.xml">barclay_argenis_1626_0052.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23852,7 +23852,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0010.xml">barclay_argenis_1626_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0010.xml">barclay_argenis_1626_0010.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23871,7 +23871,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0008.xml">barclay_argenis_1626_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0008.xml">barclay_argenis_1626_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -23890,7 +23890,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0034.xml">barclay_argenis_1626_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0034.xml">barclay_argenis_1626_0034.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -23909,7 +23909,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0005.xml">barclay_argenis_1626_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0005.xml">barclay_argenis_1626_0005.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -23928,7 +23928,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0017.xml">barclay_argenis_1626_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0017.xml">barclay_argenis_1626_0017.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -23947,7 +23947,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0038.xml">barclay_argenis_1626_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0038.xml">barclay_argenis_1626_0038.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -23966,7 +23966,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0023.xml">barclay_argenis_1626_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0023.xml">barclay_argenis_1626_0023.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -23985,7 +23985,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0027.xml">barclay_argenis_1626_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0027.xml">barclay_argenis_1626_0027.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -24004,7 +24004,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0035.xml">barclay_argenis_1626_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0035.xml">barclay_argenis_1626_0035.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -24023,7 +24023,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_1106.xml">barclay_argenis_1626_1106.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_1106.xml">barclay_argenis_1626_1106.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24042,7 +24042,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0016.xml">barclay_argenis_1626_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0016.xml">barclay_argenis_1626_0016.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24061,7 +24061,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0015.xml">barclay_argenis_1626_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0015.xml">barclay_argenis_1626_0015.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24080,7 +24080,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0031.xml">barclay_argenis_1626_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0031.xml">barclay_argenis_1626_0031.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -24099,7 +24099,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0011.xml">barclay_argenis_1626_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0011.xml">barclay_argenis_1626_0011.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24118,7 +24118,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_1115.xml">barclay_argenis_1626_1115.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_1115.xml">barclay_argenis_1626_1115.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24137,7 +24137,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0009.xml">barclay_argenis_1626_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0009.xml">barclay_argenis_1626_0009.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24156,7 +24156,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0019.xml">barclay_argenis_1626_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0019.xml">barclay_argenis_1626_0019.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24175,7 +24175,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0012.xml">barclay_argenis_1626_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0012.xml">barclay_argenis_1626_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24194,7 +24194,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0007.xml">barclay_argenis_1626_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0007.xml">barclay_argenis_1626_0007.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24213,7 +24213,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0014.xml">barclay_argenis_1626_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0014.xml">barclay_argenis_1626_0014.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24232,7 +24232,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0049.xml">barclay_argenis_1626_0049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/barclay_argenis_1626/GT-PAGE/barclay_argenis_1626_0049.xml">barclay_argenis_1626_0049.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24298,7 +24298,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0013.xml">arnold_ketzerhistorie02_1700_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0013.xml">arnold_ketzerhistorie02_1700_0013.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -24317,7 +24317,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1197.xml">arnold_ketzerhistorie02_1700_1197.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1197.xml">arnold_ketzerhistorie02_1700_1197.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24336,7 +24336,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0007.xml">arnold_ketzerhistorie02_1700_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0007.xml">arnold_ketzerhistorie02_1700_0007.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24355,7 +24355,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0030.xml">arnold_ketzerhistorie02_1700_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0030.xml">arnold_ketzerhistorie02_1700_0030.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -24374,7 +24374,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0009.xml">arnold_ketzerhistorie02_1700_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0009.xml">arnold_ketzerhistorie02_1700_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -24393,7 +24393,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1189.xml">arnold_ketzerhistorie02_1700_1189.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1189.xml">arnold_ketzerhistorie02_1700_1189.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24412,7 +24412,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0026.xml">arnold_ketzerhistorie02_1700_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0026.xml">arnold_ketzerhistorie02_1700_0026.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -24431,7 +24431,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0016.xml">arnold_ketzerhistorie02_1700_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0016.xml">arnold_ketzerhistorie02_1700_0016.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -24450,7 +24450,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1185.xml">arnold_ketzerhistorie02_1700_1185.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1185.xml">arnold_ketzerhistorie02_1700_1185.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24469,7 +24469,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1191.xml">arnold_ketzerhistorie02_1700_1191.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1191.xml">arnold_ketzerhistorie02_1700_1191.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -24488,7 +24488,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1187.xml">arnold_ketzerhistorie02_1700_1187.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1187.xml">arnold_ketzerhistorie02_1700_1187.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24507,7 +24507,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0029.xml">arnold_ketzerhistorie02_1700_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0029.xml">arnold_ketzerhistorie02_1700_0029.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -24526,7 +24526,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1188.xml">arnold_ketzerhistorie02_1700_1188.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1188.xml">arnold_ketzerhistorie02_1700_1188.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24545,7 +24545,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0010.xml">arnold_ketzerhistorie02_1700_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0010.xml">arnold_ketzerhistorie02_1700_0010.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24564,7 +24564,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0014.xml">arnold_ketzerhistorie02_1700_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0014.xml">arnold_ketzerhistorie02_1700_0014.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -24583,7 +24583,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1190.xml">arnold_ketzerhistorie02_1700_1190.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1190.xml">arnold_ketzerhistorie02_1700_1190.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -24602,7 +24602,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1184.xml">arnold_ketzerhistorie02_1700_1184.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1184.xml">arnold_ketzerhistorie02_1700_1184.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24621,7 +24621,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1186.xml">arnold_ketzerhistorie02_1700_1186.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1186.xml">arnold_ketzerhistorie02_1700_1186.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24640,7 +24640,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1193.xml">arnold_ketzerhistorie02_1700_1193.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1193.xml">arnold_ketzerhistorie02_1700_1193.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -24659,7 +24659,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1195.xml">arnold_ketzerhistorie02_1700_1195.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1195.xml">arnold_ketzerhistorie02_1700_1195.xml</a>
                            </td>
                            <td>18</td>
                            <td>0</td>
@@ -24678,7 +24678,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0011.xml">arnold_ketzerhistorie02_1700_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0011.xml">arnold_ketzerhistorie02_1700_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24697,7 +24697,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1194.xml">arnold_ketzerhistorie02_1700_1194.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1194.xml">arnold_ketzerhistorie02_1700_1194.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -24716,7 +24716,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1183.xml">arnold_ketzerhistorie02_1700_1183.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1183.xml">arnold_ketzerhistorie02_1700_1183.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -24735,7 +24735,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1192.xml">arnold_ketzerhistorie02_1700_1192.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1192.xml">arnold_ketzerhistorie02_1700_1192.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -24754,7 +24754,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1199.xml">arnold_ketzerhistorie02_1700_1199.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1199.xml">arnold_ketzerhistorie02_1700_1199.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24773,7 +24773,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1198.xml">arnold_ketzerhistorie02_1700_1198.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1198.xml">arnold_ketzerhistorie02_1700_1198.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24792,7 +24792,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0012.xml">arnold_ketzerhistorie02_1700_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0012.xml">arnold_ketzerhistorie02_1700_0012.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24811,7 +24811,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0015.xml">arnold_ketzerhistorie02_1700_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_0015.xml">arnold_ketzerhistorie02_1700_0015.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -24830,7 +24830,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1196.xml">arnold_ketzerhistorie02_1700_1196.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnold_ketzerhistorie02_1700/GT-PAGE/arnold_ketzerhistorie02_1700_1196.xml">arnold_ketzerhistorie02_1700_1196.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -24896,7 +24896,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1041.xml">beck_eisen04_1899_1041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1041.xml">beck_eisen04_1899_1041.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24915,7 +24915,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0028.xml">beck_eisen04_1899_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0028.xml">beck_eisen04_1899_0028.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -24934,7 +24934,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1049.xml">beck_eisen04_1899_1049.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1049.xml">beck_eisen04_1899_1049.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -24953,7 +24953,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0020.xml">beck_eisen04_1899_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0020.xml">beck_eisen04_1899_0020.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24972,7 +24972,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1029.xml">beck_eisen04_1899_1029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1029.xml">beck_eisen04_1899_1029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -24991,7 +24991,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0024.xml">beck_eisen04_1899_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0024.xml">beck_eisen04_1899_0024.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25010,7 +25010,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0014.xml">beck_eisen04_1899_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0014.xml">beck_eisen04_1899_0014.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25029,7 +25029,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1031.xml">beck_eisen04_1899_1031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1031.xml">beck_eisen04_1899_1031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25048,7 +25048,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0032.xml">beck_eisen04_1899_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0032.xml">beck_eisen04_1899_0032.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25067,7 +25067,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0023.xml">beck_eisen04_1899_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0023.xml">beck_eisen04_1899_0023.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25086,7 +25086,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0030.xml">beck_eisen04_1899_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0030.xml">beck_eisen04_1899_0030.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25105,7 +25105,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0029.xml">beck_eisen04_1899_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0029.xml">beck_eisen04_1899_0029.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25124,7 +25124,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1030.xml">beck_eisen04_1899_1030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1030.xml">beck_eisen04_1899_1030.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25143,7 +25143,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0026.xml">beck_eisen04_1899_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0026.xml">beck_eisen04_1899_0026.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25162,7 +25162,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0027.xml">beck_eisen04_1899_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0027.xml">beck_eisen04_1899_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25181,7 +25181,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1032.xml">beck_eisen04_1899_1032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_1032.xml">beck_eisen04_1899_1032.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25200,7 +25200,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0021.xml">beck_eisen04_1899_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0021.xml">beck_eisen04_1899_0021.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25219,7 +25219,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0031.xml">beck_eisen04_1899_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0031.xml">beck_eisen04_1899_0031.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25238,7 +25238,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0022.xml">beck_eisen04_1899_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0022.xml">beck_eisen04_1899_0022.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25257,7 +25257,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0012.xml">beck_eisen04_1899_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen04_1899/GT-PAGE/beck_eisen04_1899_0012.xml">beck_eisen04_1899_0012.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25323,7 +25323,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0023.xml">beck_eisen03_1897_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0023.xml">beck_eisen03_1897_0023.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25342,7 +25342,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0019.xml">beck_eisen03_1897_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0019.xml">beck_eisen03_1897_0019.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25361,7 +25361,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0022.xml">beck_eisen03_1897_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0022.xml">beck_eisen03_1897_0022.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25380,7 +25380,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0025.xml">beck_eisen03_1897_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0025.xml">beck_eisen03_1897_0025.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25399,7 +25399,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0021.xml">beck_eisen03_1897_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0021.xml">beck_eisen03_1897_0021.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25418,7 +25418,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1201.xml">beck_eisen03_1897_1201.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1201.xml">beck_eisen03_1897_1201.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25437,7 +25437,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0027.xml">beck_eisen03_1897_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0027.xml">beck_eisen03_1897_0027.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25456,7 +25456,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1198.xml">beck_eisen03_1897_1198.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1198.xml">beck_eisen03_1897_1198.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25475,7 +25475,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0012.xml">beck_eisen03_1897_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0012.xml">beck_eisen03_1897_0012.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25494,7 +25494,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0028.xml">beck_eisen03_1897_0028.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0028.xml">beck_eisen03_1897_0028.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -25513,7 +25513,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1217.xml">beck_eisen03_1897_1217.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1217.xml">beck_eisen03_1897_1217.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25532,7 +25532,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0029.xml">beck_eisen03_1897_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0029.xml">beck_eisen03_1897_0029.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25551,7 +25551,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0020.xml">beck_eisen03_1897_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0020.xml">beck_eisen03_1897_0020.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25570,7 +25570,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0018.xml">beck_eisen03_1897_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0018.xml">beck_eisen03_1897_0018.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25589,7 +25589,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1197.xml">beck_eisen03_1897_1197.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1197.xml">beck_eisen03_1897_1197.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25608,7 +25608,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1200.xml">beck_eisen03_1897_1200.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1200.xml">beck_eisen03_1897_1200.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25627,7 +25627,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1215.xml">beck_eisen03_1897_1215.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1215.xml">beck_eisen03_1897_1215.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25646,7 +25646,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0030.xml">beck_eisen03_1897_0030.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0030.xml">beck_eisen03_1897_0030.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25665,7 +25665,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1199.xml">beck_eisen03_1897_1199.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_1199.xml">beck_eisen03_1897_1199.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25684,7 +25684,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0026.xml">beck_eisen03_1897_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beck_eisen03_1897/GT-PAGE/beck_eisen03_1897_0026.xml">beck_eisen03_1897_0026.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25750,7 +25750,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0315.xml">alexis_ruhe04_1852_0315.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0315.xml">alexis_ruhe04_1852_0315.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25769,7 +25769,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0227.xml">alexis_ruhe04_1852_0227.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0227.xml">alexis_ruhe04_1852_0227.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25788,7 +25788,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0243.xml">alexis_ruhe04_1852_0243.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0243.xml">alexis_ruhe04_1852_0243.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25807,7 +25807,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0321.xml">alexis_ruhe04_1852_0321.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0321.xml">alexis_ruhe04_1852_0321.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -25826,7 +25826,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0261.xml">alexis_ruhe04_1852_0261.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0261.xml">alexis_ruhe04_1852_0261.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25845,7 +25845,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0263.xml">alexis_ruhe04_1852_0263.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0263.xml">alexis_ruhe04_1852_0263.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -25864,7 +25864,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0354.xml">alexis_ruhe04_1852_0354.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0354.xml">alexis_ruhe04_1852_0354.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -25883,7 +25883,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0241.xml">alexis_ruhe04_1852_0241.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0241.xml">alexis_ruhe04_1852_0241.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -25902,7 +25902,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0275.xml">alexis_ruhe04_1852_0275.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0275.xml">alexis_ruhe04_1852_0275.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -25921,7 +25921,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0235.xml">alexis_ruhe04_1852_0235.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0235.xml">alexis_ruhe04_1852_0235.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -25940,7 +25940,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0065.xml">alexis_ruhe04_1852_0065.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0065.xml">alexis_ruhe04_1852_0065.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25959,7 +25959,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0309.xml">alexis_ruhe04_1852_0309.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0309.xml">alexis_ruhe04_1852_0309.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -25978,7 +25978,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0352.xml">alexis_ruhe04_1852_0352.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0352.xml">alexis_ruhe04_1852_0352.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -25997,7 +25997,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0273.xml">alexis_ruhe04_1852_0273.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0273.xml">alexis_ruhe04_1852_0273.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -26016,7 +26016,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0082.xml">alexis_ruhe04_1852_0082.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0082.xml">alexis_ruhe04_1852_0082.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -26035,7 +26035,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0193.xml">alexis_ruhe04_1852_0193.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0193.xml">alexis_ruhe04_1852_0193.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26054,7 +26054,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0279.xml">alexis_ruhe04_1852_0279.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0279.xml">alexis_ruhe04_1852_0279.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26073,7 +26073,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0245.xml">alexis_ruhe04_1852_0245.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0245.xml">alexis_ruhe04_1852_0245.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -26092,7 +26092,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0229.xml">alexis_ruhe04_1852_0229.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0229.xml">alexis_ruhe04_1852_0229.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26111,7 +26111,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0225.xml">alexis_ruhe04_1852_0225.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe04_1852/GT-PAGE/alexis_ruhe04_1852_0225.xml">alexis_ruhe04_1852_0225.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -26177,7 +26177,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0017.xml">beer_antonius_1697_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0017.xml">beer_antonius_1697_0017.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26196,7 +26196,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0019.xml">beer_antonius_1697_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0019.xml">beer_antonius_1697_0019.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -26215,7 +26215,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0005.xml">beer_antonius_1697_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0005.xml">beer_antonius_1697_0005.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -26234,7 +26234,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0012.xml">beer_antonius_1697_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0012.xml">beer_antonius_1697_0012.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -26253,7 +26253,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0014.xml">beer_antonius_1697_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0014.xml">beer_antonius_1697_0014.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -26272,7 +26272,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0020.xml">beer_antonius_1697_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0020.xml">beer_antonius_1697_0020.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -26291,7 +26291,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0009.xml">beer_antonius_1697_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0009.xml">beer_antonius_1697_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26310,7 +26310,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0011.xml">beer_antonius_1697_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0011.xml">beer_antonius_1697_0011.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -26329,7 +26329,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0006.xml">beer_antonius_1697_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0006.xml">beer_antonius_1697_0006.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -26348,7 +26348,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0007.xml">beer_antonius_1697_0007.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0007.xml">beer_antonius_1697_0007.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26367,7 +26367,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0018.xml">beer_antonius_1697_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0018.xml">beer_antonius_1697_0018.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26386,7 +26386,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0024.xml">beer_antonius_1697_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0024.xml">beer_antonius_1697_0024.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -26405,7 +26405,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0022.xml">beer_antonius_1697_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0022.xml">beer_antonius_1697_0022.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -26424,7 +26424,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0015.xml">beer_antonius_1697_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0015.xml">beer_antonius_1697_0015.xml</a>
                            </td>
                            <td>15</td>
                            <td>0</td>
@@ -26443,7 +26443,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0010.xml">beer_antonius_1697_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0010.xml">beer_antonius_1697_0010.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -26462,7 +26462,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0021.xml">beer_antonius_1697_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0021.xml">beer_antonius_1697_0021.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -26481,7 +26481,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0016.xml">beer_antonius_1697_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0016.xml">beer_antonius_1697_0016.xml</a>
                            </td>
                            <td>17</td>
                            <td>0</td>
@@ -26500,7 +26500,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0008.xml">beer_antonius_1697_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0008.xml">beer_antonius_1697_0008.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -26519,7 +26519,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0013.xml">beer_antonius_1697_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0013.xml">beer_antonius_1697_0013.xml</a>
                            </td>
                            <td>13</td>
                            <td>0</td>
@@ -26538,7 +26538,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0023.xml">beer_antonius_1697_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/beer_antonius_1697/GT-PAGE/beer_antonius_1697_0023.xml">beer_antonius_1697_0023.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26604,7 +26604,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0017.xml">bach_versuch01_1759_0017.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0017.xml">bach_versuch01_1759_0017.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26623,7 +26623,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0006.xml">bach_versuch01_1759_0006.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0006.xml">bach_versuch01_1759_0006.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26642,7 +26642,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0001.xml">bach_versuch01_1759_0001.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0001.xml">bach_versuch01_1759_0001.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26661,7 +26661,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0009.xml">bach_versuch01_1759_0009.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0009.xml">bach_versuch01_1759_0009.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -26680,7 +26680,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0018.xml">bach_versuch01_1759_0018.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0018.xml">bach_versuch01_1759_0018.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26699,7 +26699,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0012.xml">bach_versuch01_1759_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0012.xml">bach_versuch01_1759_0012.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -26718,7 +26718,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0014.xml">bach_versuch01_1759_0014.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0014.xml">bach_versuch01_1759_0014.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -26737,7 +26737,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0016.xml">bach_versuch01_1759_0016.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0016.xml">bach_versuch01_1759_0016.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26756,7 +26756,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0020.xml">bach_versuch01_1759_0020.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0020.xml">bach_versuch01_1759_0020.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26775,7 +26775,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0023.xml">bach_versuch01_1759_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0023.xml">bach_versuch01_1759_0023.xml</a>
                            </td>
                            <td>14</td>
                            <td>0</td>
@@ -26794,7 +26794,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0003.xml">bach_versuch01_1759_0003.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0003.xml">bach_versuch01_1759_0003.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -26813,7 +26813,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0029.xml">bach_versuch01_1759_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0029.xml">bach_versuch01_1759_0029.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -26832,7 +26832,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0013.xml">bach_versuch01_1759_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0013.xml">bach_versuch01_1759_0013.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26851,7 +26851,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0031.xml">bach_versuch01_1759_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0031.xml">bach_versuch01_1759_0031.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -26870,7 +26870,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0011.xml">bach_versuch01_1759_0011.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0011.xml">bach_versuch01_1759_0011.xml</a>
                            </td>
                            <td>11</td>
                            <td>0</td>
@@ -26889,7 +26889,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0026.xml">bach_versuch01_1759_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0026.xml">bach_versuch01_1759_0026.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -26908,7 +26908,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0010.xml">bach_versuch01_1759_0010.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0010.xml">bach_versuch01_1759_0010.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -26927,7 +26927,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0024.xml">bach_versuch01_1759_0024.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0024.xml">bach_versuch01_1759_0024.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -26946,7 +26946,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0025.xml">bach_versuch01_1759_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0025.xml">bach_versuch01_1759_0025.xml</a>
                            </td>
                            <td>9</td>
                            <td>0</td>
@@ -26965,7 +26965,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0019.xml">bach_versuch01_1759_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0019.xml">bach_versuch01_1759_0019.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -26984,7 +26984,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0015.xml">bach_versuch01_1759_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0015.xml">bach_versuch01_1759_0015.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27003,7 +27003,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0022.xml">bach_versuch01_1759_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0022.xml">bach_versuch01_1759_0022.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -27022,7 +27022,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0005.xml">bach_versuch01_1759_0005.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0005.xml">bach_versuch01_1759_0005.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27041,7 +27041,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0008.xml">bach_versuch01_1759_0008.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0008.xml">bach_versuch01_1759_0008.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -27060,7 +27060,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0004.xml">bach_versuch01_1759_0004.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/bach_versuch01_1759/GT-PAGE/bach_versuch01_1759_0004.xml">bach_versuch01_1759_0004.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27126,7 +27126,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0183.xml">alexis_ruhe03_1852_0183.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0183.xml">alexis_ruhe03_1852_0183.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27145,7 +27145,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0015.xml">alexis_ruhe03_1852_0015.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0015.xml">alexis_ruhe03_1852_0015.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27164,7 +27164,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0203.xml">alexis_ruhe03_1852_0203.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0203.xml">alexis_ruhe03_1852_0203.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27183,7 +27183,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0184.xml">alexis_ruhe03_1852_0184.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0184.xml">alexis_ruhe03_1852_0184.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27202,7 +27202,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0163.xml">alexis_ruhe03_1852_0163.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0163.xml">alexis_ruhe03_1852_0163.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27221,7 +27221,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0043.xml">alexis_ruhe03_1852_0043.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0043.xml">alexis_ruhe03_1852_0043.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -27240,7 +27240,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0041.xml">alexis_ruhe03_1852_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0041.xml">alexis_ruhe03_1852_0041.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -27259,7 +27259,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0169.xml">alexis_ruhe03_1852_0169.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0169.xml">alexis_ruhe03_1852_0169.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27278,7 +27278,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0129.xml">alexis_ruhe03_1852_0129.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0129.xml">alexis_ruhe03_1852_0129.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27297,7 +27297,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0155.xml">alexis_ruhe03_1852_0155.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0155.xml">alexis_ruhe03_1852_0155.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27316,7 +27316,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0025.xml">alexis_ruhe03_1852_0025.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0025.xml">alexis_ruhe03_1852_0025.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27335,7 +27335,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0051.xml">alexis_ruhe03_1852_0051.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0051.xml">alexis_ruhe03_1852_0051.xml</a>
                            </td>
                            <td>12</td>
                            <td>0</td>
@@ -27354,7 +27354,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0029.xml">alexis_ruhe03_1852_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0029.xml">alexis_ruhe03_1852_0029.xml</a>
                            </td>
                            <td>16</td>
                            <td>0</td>
@@ -27373,7 +27373,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0205.xml">alexis_ruhe03_1852_0205.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0205.xml">alexis_ruhe03_1852_0205.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27392,7 +27392,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0031.xml">alexis_ruhe03_1852_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0031.xml">alexis_ruhe03_1852_0031.xml</a>
                            </td>
                            <td>10</td>
                            <td>0</td>
@@ -27411,7 +27411,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0179.xml">alexis_ruhe03_1852_0179.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0179.xml">alexis_ruhe03_1852_0179.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -27430,7 +27430,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0019.xml">alexis_ruhe03_1852_0019.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0019.xml">alexis_ruhe03_1852_0019.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27449,7 +27449,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0012.xml">alexis_ruhe03_1852_0012.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0012.xml">alexis_ruhe03_1852_0012.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27468,7 +27468,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0151.xml">alexis_ruhe03_1852_0151.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0151.xml">alexis_ruhe03_1852_0151.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27487,7 +27487,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0071.xml">alexis_ruhe03_1852_0071.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/alexis_ruhe03_1852/GT-PAGE/alexis_ruhe03_1852_0071.xml">alexis_ruhe03_1852_0071.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -27553,7 +27553,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0029.xml">arnimb_goethe01_1835_0029.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0029.xml">arnimb_goethe01_1835_0029.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -27572,7 +27572,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0287.xml">arnimb_goethe01_1835_0287.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0287.xml">arnimb_goethe01_1835_0287.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -27591,7 +27591,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0035.xml">arnimb_goethe01_1835_0035.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0035.xml">arnimb_goethe01_1835_0035.xml</a>
                            </td>
                            <td>8</td>
                            <td>0</td>
@@ -27610,7 +27610,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0040.xml">arnimb_goethe01_1835_0040.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0040.xml">arnimb_goethe01_1835_0040.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27629,7 +27629,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0042.xml">arnimb_goethe01_1835_0042.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0042.xml">arnimb_goethe01_1835_0042.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27648,7 +27648,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0039.xml">arnimb_goethe01_1835_0039.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0039.xml">arnimb_goethe01_1835_0039.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27667,7 +27667,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0037.xml">arnimb_goethe01_1835_0037.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0037.xml">arnimb_goethe01_1835_0037.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27686,7 +27686,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0021.xml">arnimb_goethe01_1835_0021.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0021.xml">arnimb_goethe01_1835_0021.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27705,7 +27705,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0013.xml">arnimb_goethe01_1835_0013.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0013.xml">arnimb_goethe01_1835_0013.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27724,7 +27724,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0027.xml">arnimb_goethe01_1835_0027.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0027.xml">arnimb_goethe01_1835_0027.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27743,7 +27743,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0023.xml">arnimb_goethe01_1835_0023.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0023.xml">arnimb_goethe01_1835_0023.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27762,7 +27762,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0044.xml">arnimb_goethe01_1835_0044.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0044.xml">arnimb_goethe01_1835_0044.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27781,7 +27781,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0022.xml">arnimb_goethe01_1835_0022.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0022.xml">arnimb_goethe01_1835_0022.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27800,7 +27800,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0036.xml">arnimb_goethe01_1835_0036.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0036.xml">arnimb_goethe01_1835_0036.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
@@ -27819,7 +27819,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0041.xml">arnimb_goethe01_1835_0041.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0041.xml">arnimb_goethe01_1835_0041.xml</a>
                            </td>
                            <td>6</td>
                            <td>0</td>
@@ -27838,7 +27838,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0034.xml">arnimb_goethe01_1835_0034.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0034.xml">arnimb_goethe01_1835_0034.xml</a>
                            </td>
                            <td>7</td>
                            <td>0</td>
@@ -27857,7 +27857,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0026.xml">arnimb_goethe01_1835_0026.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0026.xml">arnimb_goethe01_1835_0026.xml</a>
                            </td>
                            <td>3</td>
                            <td>0</td>
@@ -27876,7 +27876,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0031.xml">arnimb_goethe01_1835_0031.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0031.xml">arnimb_goethe01_1835_0031.xml</a>
                            </td>
                            <td>5</td>
                            <td>0</td>
@@ -27895,7 +27895,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0038.xml">arnimb_goethe01_1835_0038.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0038.xml">arnimb_goethe01_1835_0038.xml</a>
                            </td>
                            <td>2</td>
                            <td>0</td>
@@ -27914,7 +27914,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.0/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0032.xml">arnimb_goethe01_1835_0032.xml</a>
+                              <a href="https://github.com/OCR-D/gt_structure_1_1/blob/v1.4.1/data/arnimb_goethe01_1835/GT-PAGE/arnimb_goethe01_1835_0032.xml">arnimb_goethe01_1835_0032.xml</a>
                            </td>
                            <td>4</td>
                            <td>0</td>
