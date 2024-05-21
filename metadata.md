@@ -173,7 +173,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/OCR-D/gt_structure_1_1/releases/tag/v1.4.10">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 27_v1.4.10</a>
+         <a href="https://github.com/OCR-D/gt_structure_1_1/releases/tag/v1.4.11">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 28_v1.4.11</a>
       </li>
       <li>
          <a href="https://github.com/OCR-D/gt_structure_1_1/releases">Version archive</a>
