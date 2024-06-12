@@ -21,8 +21,7 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D-GT-Guideline, Part: Structure Ground Truth
-https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
+         <dd>OCR-D-GT-Guideline, Part: Structure Ground Truth  https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
          <dt>License:</dt>
          <dd>CC0-1.0</dd>
          <dt>Project:</dt>
@@ -173,7 +172,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/OCR-D/gt_structure_1_1/releases/tag/v1.4.11">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 28_v1.4.11</a>
+         <a href="https://github.com/OCR-D/gt_structure_1_1/releases/tag/v1.4.12">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 29_v1.4.12</a>
       </li>
       <li>
          <a href="https://github.com/OCR-D/gt_structure_1_1/releases">Version archive</a>
