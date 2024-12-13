@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arnimb_guenderode01_1840_0132"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:07:56</Created>
-	<LastChange>2022-01-06T17:12:25</LastChange></Metadata><Page imageFilename="../jpg/arnimb_guenderode01_1840_0132.jpg" imageWidth="1444" imageHeight="2052" type="content" primaryLanguage="German">
+	<LastChange>2022-01-06T17:12:25</LastChange></Metadata><Page imageFilename="jpg/arnimb_guenderode01_1840_0132.jpg" imageWidth="1444" imageHeight="2052" type="content" primaryLanguage="German">
 	<AlternativeImage filename="arnimb_guenderode01_1840_0132_B.tif"/>
 	<Border>
 	<Coords points="405,162 405,1889 1421,1889 1421,162"/></Border>

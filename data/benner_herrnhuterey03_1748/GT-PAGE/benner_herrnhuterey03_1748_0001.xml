@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:34:37</Created>
 	<LastChange>2022-11-07T11:33:23</LastChange></Metadata>
-	<Page imageFilename="../jpg/benner_herrnhuterey03_1748_0001.jpg" imageWidth="1600" imageHeight="2670" type="title">
+	<Page imageFilename="jpg/benner_herrnhuterey03_1748_0001.jpg" imageWidth="1600" imageHeight="2670" type="title">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r0" index="0"/>

@@ -2,7 +2,7 @@
 		<Creator>Deutsches Textarchiv</Creator>
 		<Created>2018-03-22T07:07:39</Created>
 		<LastChange>2021-11-08T17:29:45</LastChange>
-	</Metadata><Page imageFilename="../jpg/andreas_fenitschka_1898_0013.jpg" imageWidth="1852" imageHeight="2511" type="content" primaryLanguage="German">
+	</Metadata><Page imageFilename="jpg/andreas_fenitschka_1898_0013.jpg" imageWidth="1852" imageHeight="2511" type="content" primaryLanguage="German">
 		<AlternativeImage filename="andreas_fenitschka_1898_0013_B.tif"/>
 		<Border>
 			<Coords points="1412,2278 1412,275 81,275 81,2278"/>

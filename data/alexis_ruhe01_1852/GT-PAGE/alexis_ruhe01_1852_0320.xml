@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-alexis_ruhe01_1852_0320"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:07:29</Created>
-	<LastChange>2021-10-21T10:21:09</LastChange></Metadata><Page imageFilename="../jpg/alexis_ruhe01_1852_0320.jpg" imageWidth="1953" imageHeight="2493" type="content" primaryLanguage="German">
+	<LastChange>2021-10-21T10:21:09</LastChange></Metadata><Page imageFilename="jpg/alexis_ruhe01_1852_0320.jpg" imageWidth="1953" imageHeight="2493" type="content" primaryLanguage="German">
 	<AlternativeImage filename="alexis_ruhe01_1852_0320_B.tif"/>
 	<Border>
 	<Coords points="1952,196 1952,2139 754,2139 754,196"/></Border>

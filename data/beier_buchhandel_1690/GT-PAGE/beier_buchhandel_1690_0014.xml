@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:34:26</Created>
 	<LastChange>2022-11-08T09:43:15</LastChange></Metadata>
-	<Page imageFilename="../jpg/beier_buchhandel_1690_0014.jpg" imageWidth="2000" imageHeight="2663" type="content">
+	<Page imageFilename="jpg/beier_buchhandel_1690_0014.jpg" imageWidth="2000" imageHeight="2663" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_2" index="0"/>

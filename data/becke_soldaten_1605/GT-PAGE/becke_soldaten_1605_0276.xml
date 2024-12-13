@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:34:14</Created>
 	<LastChange>2022-11-09T17:42:08</LastChange></Metadata>
-	<Page imageFilename="../jpg/becke_soldaten_1605_0276.jpg" imageWidth="2471" imageHeight="3196" type="content">
+	<Page imageFilename="jpg/becke_soldaten_1605_0276.jpg" imageWidth="2471" imageHeight="3196" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r0" index="0"/>

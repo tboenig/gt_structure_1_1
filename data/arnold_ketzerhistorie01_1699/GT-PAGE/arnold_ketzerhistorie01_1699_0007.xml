@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:33:41</Created>
 	<LastChange>2022-11-17T10:39:09</LastChange></Metadata>
-	<Page imageFilename="../jpg/arnold_ketzerhistorie01_1699_0007.jpg" imageWidth="1024" imageHeight="1774" type="title">
+	<Page imageFilename="jpg/arnold_ketzerhistorie01_1699_0007.jpg" imageWidth="1024" imageHeight="1774" type="title">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

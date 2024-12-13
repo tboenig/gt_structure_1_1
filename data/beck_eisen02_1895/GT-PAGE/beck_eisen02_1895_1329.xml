@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-beck_eisen02_1895_1329"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T09:08:23</Created>
-	<LastChange>2022-01-12T17:46:26</LastChange></Metadata><Page imageFilename="../jpg/beck_eisen02_1895_1329.jpg" imageWidth="2435" imageHeight="3280" type="index" primaryLanguage="German">
+	<LastChange>2022-01-12T17:46:26</LastChange></Metadata><Page imageFilename="jpg/beck_eisen02_1895_1329.jpg" imageWidth="2435" imageHeight="3280" type="index" primaryLanguage="German">
 	<Border>
 	<Coords points="30,415 30,2976 1650,2976 1650,415"/></Border>
 	<ReadingOrder>

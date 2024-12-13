@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arndt_christentum01_1610_0046"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:33:32</Created>
-	<LastChange>2021-12-07T16:10:21</LastChange></Metadata><Page imageFilename="../jpg/arndt_christentum01_1610_0046.jpg" imageWidth="1299" imageHeight="1960" type="content" primaryLanguage="German">
+	<LastChange>2021-12-07T16:10:21</LastChange></Metadata><Page imageFilename="jpg/arndt_christentum01_1610_0046.jpg" imageWidth="1299" imageHeight="1960" type="content" primaryLanguage="German">
 	<AlternativeImage filename="arndt_christentum01_1610_0046_B.tif"/>
 	<Border>
 	<Coords points="203,110 203,1832 1258,1832 1258,110"/></Border>

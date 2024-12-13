@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-altmann_elementarorganismen_1890_0040"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:07:37</Created>
-	<LastChange>2021-11-05T15:49:27</LastChange></Metadata><Page imageFilename="../jpg/altmann_elementarorganismen_1890_0040.jpg" imageWidth="2528" imageHeight="3196" type="content">
+	<LastChange>2021-11-05T15:49:27</LastChange></Metadata><Page imageFilename="jpg/altmann_elementarorganismen_1890_0040.jpg" imageWidth="2528" imageHeight="3196" type="content">
 	<AlternativeImage filename="altmann_elementarorganismen_1890_0040_B.tif"/>
 	<Border>
 	<Coords points="2428,2988 2428,236 540,236 540,2988"/></Border>

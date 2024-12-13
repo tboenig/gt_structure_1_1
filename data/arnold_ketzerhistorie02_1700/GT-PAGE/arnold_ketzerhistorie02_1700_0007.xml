@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arnold_ketzerhistorie02_1700_0007"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:33:43</Created>
-	<LastChange>2022-01-19T14:10:06</LastChange></Metadata><Page imageFilename="../jpg/arnold_ketzerhistorie02_1700_0007.jpg" imageWidth="2977" imageHeight="4506" type="title" primaryLanguage="German">
+	<LastChange>2022-01-19T14:10:06</LastChange></Metadata><Page imageFilename="jpg/arnold_ketzerhistorie02_1700_0007.jpg" imageWidth="2977" imageHeight="4506" type="title" primaryLanguage="German">
 	<AlternativeImage filename="arnold_ketzerhistorie02_1700_0007_B.tif"/>
 	<Border>
 	<Coords points="216,112 216,4322 2610,4322 2610,112"/></Border>

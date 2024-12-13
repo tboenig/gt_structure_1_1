@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:34:09</Created>
 	<LastChange>2022-11-10T16:11:39</LastChange></Metadata>
-	<Page imageFilename="../jpg/becher_psychosophia_1683_0411.jpg" imageWidth="1188" imageHeight="1957" type="content">
+	<Page imageFilename="jpg/becher_psychosophia_1683_0411.jpg" imageWidth="1188" imageHeight="1957" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_2" index="0"/>
