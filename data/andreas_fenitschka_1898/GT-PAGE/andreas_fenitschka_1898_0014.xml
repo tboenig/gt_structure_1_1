@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-andreas_fenitschka_1898_0014"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:07:39</Created>
-	<LastChange>2021-11-08T10:07:24</LastChange></Metadata><Page imageFilename="../jpg/andreas_fenitschka_1898_0014.jpg" imageWidth="1853" imageHeight="2511" type="content" primaryLanguage="German">
-	<AlternativeImage filename="andreas_fenitschka_1898_0014_B.tif"/>
+	<LastChange>2021-11-08T10:07:24</LastChange></Metadata><Page imageFilename="jpg/andreas_fenitschka_1898_0014.jpg" imageWidth="1853" imageHeight="2511" type="content" primaryLanguage="German">
+	<AlternativeImage filename="jpg/andreas_fenitschka_1898_0014_B.tif"/>
 	<Border>
 	<Coords points="1781,2250 1781,256 456,256 456,2250"/></Border>
 	<ReadingOrder>

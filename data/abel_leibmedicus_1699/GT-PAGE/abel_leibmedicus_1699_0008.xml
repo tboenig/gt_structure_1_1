@@ -8,9 +8,9 @@
 		<Created>2018-04-03T13:33:18</Created>
 		<LastChange>2021-10-20T09:56:30</LastChange>
 	</Metadata>
-	<Page imageFilename="../jpg/abel_leibmedicus_1699_0008.jpg" imageWidth="1039" imageHeight="1700"
+	<Page imageFilename="jpg/abel_leibmedicus_1699_0008.jpg" imageWidth="1039" imageHeight="1700"
 		type="content" primaryLanguage="German">
-		<AlternativeImage filename="abel_leibmedicus_1699_0008_B.tif"/>
+		<AlternativeImage filename="jpg/abel_leibmedicus_1699_0008_B.tif"/>
 		<Border>
 			<Coords points="89,1600 89,56 989,56 989,1600"/>
 		</Border>

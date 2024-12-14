@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:08:28</Created>
 	<LastChange>2022-11-10T08:42:50</LastChange></Metadata>
-	<Page imageFilename="../jpg/beck_eisen05_1903_0025.jpg" imageWidth="2433" imageHeight="3249" type="content">
+	<Page imageFilename="jpg/beck_eisen05_1903_0025.jpg" imageWidth="2433" imageHeight="3249" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arnimb_goethe03_1835_0013"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:07:55</Created>
-	<LastChange>2022-01-06T11:40:37</LastChange></Metadata><Page imageFilename="../jpg/arnimb_goethe03_1835_0013.jpg" imageWidth="1675" imageHeight="2286" type="content">
-	<AlternativeImage filename="arnimb_goethe03_1835_0013_B.tif"/>
+	<LastChange>2022-01-06T11:40:37</LastChange></Metadata><Page imageFilename="jpg/arnimb_goethe03_1835_0013.jpg" imageWidth="1675" imageHeight="2286" type="content">
+	<AlternativeImage filename="jpg/arnimb_goethe03_1835_0013_B.tif"/>
 	<Border>
 	<Coords points="56,199 56,2149 1293,2149 1293,199"/></Border>
 	<ReadingOrder>

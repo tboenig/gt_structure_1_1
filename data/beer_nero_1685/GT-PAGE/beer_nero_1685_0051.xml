@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:34:21</Created>
 	<LastChange>2022-11-09T11:03:21</LastChange></Metadata>
-	<Page imageFilename="../jpg/beer_nero_1685_0051.jpg" imageWidth="1414" imageHeight="2173" type="content">
+	<Page imageFilename="jpg/beer_nero_1685_0051.jpg" imageWidth="1414" imageHeight="2173" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="r0" index="0"/>

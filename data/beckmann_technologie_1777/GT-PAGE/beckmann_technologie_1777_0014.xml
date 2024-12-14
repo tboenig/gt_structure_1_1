@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:34:16</Created>
 	<LastChange>2022-11-09T15:23:04</LastChange></Metadata>
-	<Page imageFilename="../jpg/beckmann_technologie_1777_0014.jpg" imageWidth="1449" imageHeight="2223" type="content">
+	<Page imageFilename="jpg/beckmann_technologie_1777_0014.jpg" imageWidth="1449" imageHeight="2223" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-arent_dichtercharaktere_1885_0013"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-03-22T10:07:44</Created>
-	<LastChange>2021-11-24T15:05:39</LastChange></Metadata><Page imageFilename="../jpg/arent_dichtercharaktere_1885_0013.jpg" imageWidth="1963" imageHeight="2837" type="content" primaryLanguage="German">
-	<AlternativeImage filename="arent_dichtercharaktere_1885_0013_B.tif"/>
+	<LastChange>2021-11-24T15:05:39</LastChange></Metadata><Page imageFilename="jpg/arent_dichtercharaktere_1885_0013.jpg" imageWidth="1963" imageHeight="2837" type="content" primaryLanguage="German">
+	<AlternativeImage filename="jpg/arent_dichtercharaktere_1885_0013_B.tif"/>
 	<Border>
 	<Coords points="1732,2685 1732,196 123,196 123,2685"/></Border>
 	<ReadingOrder>

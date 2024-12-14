@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-albertinus_landtstoertzer01_1615_0752"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:33:26</Created>
-	<LastChange>2021-10-20T17:46:48</LastChange></Metadata><Page imageFilename="../jpg/albertinus_landtstoertzer01_1615_0752.jpg" imageWidth="1780" imageHeight="2660" type="table-of-contents" primaryLanguage="German">
+	<LastChange>2021-10-20T17:46:48</LastChange></Metadata><Page imageFilename="jpg/albertinus_landtstoertzer01_1615_0752.jpg" imageWidth="1780" imageHeight="2660" type="table-of-contents" primaryLanguage="German">
 	<Border>
 	<Coords points="1616,2574 1616,67 193,67 193,2574"/></Border>
 	<ReadingOrder>

@@ -4,7 +4,7 @@
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:33:58</Created>
 	<LastChange>2022-11-11T11:39:13</LastChange></Metadata>
-	<Page imageFilename="../jpg/bauller_lasterspiegel_1681_0030.jpg" imageWidth="2357" imageHeight="2677" type="content">
+	<Page imageFilename="jpg/bauller_lasterspiegel_1681_0030.jpg" imageWidth="2357" imageHeight="2677" type="content">
 	<ReadingOrder>
 	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
 	<RegionRefIndexed regionRef="region_1" index="0"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-abel_leibmedicus_1699_0400"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T14:33:18</Created>
-	<LastChange>2021-10-20T09:56:47</LastChange></Metadata><Page imageFilename="../jpg/abel_leibmedicus_1699_0400.jpg" imageWidth="1039" imageHeight="1700" type="content" primaryLanguage="German">
-	<AlternativeImage filename="abel_leibmedicus_1699_0400_B.tif"/>
+	<LastChange>2021-10-20T09:56:47</LastChange></Metadata><Page imageFilename="jpg/abel_leibmedicus_1699_0400.jpg" imageWidth="1039" imageHeight="1700" type="content" primaryLanguage="German">
+	<AlternativeImage filename="jpg/abel_leibmedicus_1699_0400_B.tif"/>
 	<Border>
 	<Coords points="964,1612 964,52 83,52 83,1612"/></Border>
 	<ReadingOrder>
